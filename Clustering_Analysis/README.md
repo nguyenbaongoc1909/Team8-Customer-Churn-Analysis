@@ -26,6 +26,8 @@ Segment the client's 7,043 customers into meaningful groups with K-Means, profil
 │   │   ├── Updated_Dataset_with_Clusters.csv   Part 1 dataset + Cluster column (for the ANN)
 │   │   ├── Clustered_Customers.csv             every customer with Cluster and Segment name
 │   │   └── Cluster_Profiles.csv                one row per segment: size, tenure, charges, churn, mix
+│   ├── models/
+│   │   └── kmeans_k4_model.joblib             trained K-Means model + feature list + segment names
 │   └── figures/
 │       ├── fig1_elbow_silhouette.png
 │       ├── fig2_pca_clusters.png
@@ -54,7 +56,18 @@ Inputs are read from `data/` and all results are written to `outputs/`. The mode
 4. **Number of clusters (C4):** elbow method and silhouette score for k = 1 to 10; k = 4 chosen.
 5. **Final model (C5):** K-Means, k = 4, k-means++, n_init = 10, random_state = 42. Silhouette 0.225; stability check ARI 0.999 to 1.0.
 6. **Profiling (C6):** PCA plot (62% of variance in two components) and segment profiles.
-7. **Handover (C7):** outputs below delivered on 1 November 2026.
+7. **Model file:** saved to `outputs/models/kmeans_k4_model.joblib` (reload check passed).
+8. **Handover (C7):** outputs below delivered on 1 November 2026.
+
+## Using the saved model
+
+```python
+import joblib, pandas as pd
+pkg = joblib.load("outputs/models/kmeans_k4_model.joblib")
+X = df[pkg["features"]]                      # same 9 prepared features, same scaling
+clusters = pd.Series(pkg["model"].predict(X)).map(pkg["relabel"])
+segments = clusters.map(pkg["segment_names"])
+```
 
 ## Results
 
