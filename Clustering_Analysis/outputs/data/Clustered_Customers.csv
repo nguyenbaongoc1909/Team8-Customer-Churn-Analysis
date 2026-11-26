@@ -48,7 +48,7 @@ Female,0,Yes,52,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customer
 Female,1,No,7,Yes,No,DSL,Month-to-month,76,Yes,1,At-Risk New Premium Customers
 Male,0,No,13,Yes,No,Fiber optic,Month-to-month,80,Yes,1,At-Risk New Premium Customers
 Female,1,No,15,Yes,Yes,DSL,Two year,90,Yes,1,At-Risk New Premium Customers
-Male,0,No,22,Yes,Yes,DSL,Two year,55,Yes,1,At-Risk New Premium Customers
+Male,0,No,22,Yes,Yes,DSL,Two year,55,Yes,0,New Budget Customers
 Female,0,No,19,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,23,No,No,Fiber optic,Month-to-month,30,No,0,New Budget Customers
 Female,0,No,72,Yes,Yes,DSL,Month-to-month,114,No,3,Loyal Premium Customers
@@ -77,7 +77,6 @@ Female,0,No,35,Yes,No,DSL,Month-to-month,99,No,1,At-Risk New Premium Customers
 Male,0,Yes,12,No,Yes,Fiber optic,One year,36,No,0,New Budget Customers
 Male,0,No,31,Yes,No,DSL,One year,91,No,1,At-Risk New Premium Customers
 Female,0,Yes,53,Yes,No,DSL,Month-to-month,108,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,30,Yes,Yes,DSL,One year,20,No,0,New Budget Customers
 Female,0,No,46,Yes,No,Fiber optic,Month-to-month,75,No,3,Loyal Premium Customers
 Female,0,No,19,Yes,No,DSL,Month-to-month,90,Yes,1,At-Risk New Premium Customers
@@ -96,7 +95,6 @@ Female,1,No,66,Yes,Yes,Fiber optic,Month-to-month,102,No,3,Loyal Premium Custome
 Female,0,No,72,Yes,Yes,Fiber optic,Two year,20,No,2,Loyal Budget Customers
 Female,0,No,70,No,Yes,Fiber optic,Month-to-month,45,No,2,Loyal Budget Customers
 Female,0,No,27,Yes,Yes,DSL,One year,90,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,1,No,13,Yes,No,DSL,Two year,95,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,65,Yes,No,Fiber optic,Month-to-month,90,No,3,Loyal Premium Customers
 Female,0,Yes,14,Yes,No,DSL,Month-to-month,70,No,1,At-Risk New Premium Customers
@@ -110,7 +108,7 @@ Male,0,No,45,Yes,No,DSL,One year,53,No,2,Loyal Budget Customers
 Male,0,No,35,Yes,Yes,Fiber optic,One year,92,No,1,At-Risk New Premium Customers
 Male,0,Yes,40,No,No,DSL,Two year,40,No,2,Loyal Budget Customers
 Female,0,No,10,Yes,Yes,Fiber optic,Month-to-month,85,Yes,1,At-Risk New Premium Customers
-Female,0,No,52,Yes,No,DSL,One year,64,No,3,Loyal Premium Customers
+Female,0,No,52,Yes,No,DSL,One year,64,No,2,Loyal Budget Customers
 Female,0,No,13,Yes,No,Fiber optic,Month-to-month,19,No,0,New Budget Customers
 Female,1,No,43,Yes,Yes,Fiber optic,Month-to-month,90,No,3,Loyal Premium Customers
 Female,0,No,41,Yes,No,DSL,Two year,20,No,2,Loyal Budget Customers
@@ -120,10 +118,10 @@ Male,0,No,61,Yes,Yes,Fiber optic,Month-to-month,106,No,3,Loyal Premium Customers
 Female,0,No,26,No,No,DSL,Two year,44,No,0,New Budget Customers
 Male,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,68,No,3,Loyal Premium Customers
 Female,0,No,42,Yes,Yes,Fiber optic,One year,78,No,3,Loyal Premium Customers
-Female,0,Yes,57,Yes,No,DSL,Month-to-month,65,No,2,Loyal Budget Customers
+Female,0,Yes,57,Yes,No,DSL,Month-to-month,65,No,3,Loyal Premium Customers
 Male,0,Yes,9,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,9,Yes,No,DSL,Month-to-month,71,Yes,1,At-Risk New Premium Customers
-Male,0,No,33,Yes,No,DSL,Month-to-month,45,No,2,Loyal Budget Customers
+Male,0,No,33,Yes,No,DSL,Month-to-month,45,No,0,New Budget Customers
 Male,0,No,1,Yes,No,Fiber optic,Two year,19,No,0,New Budget Customers
 Female,0,No,7,Yes,Yes,Fiber optic,Month-to-month,79,Yes,1,At-Risk New Premium Customers
 Male,0,No,1,Yes,Yes,DSL,Two year,72,Yes,1,At-Risk New Premium Customers
@@ -255,7 +253,7 @@ Male,0,Yes,14,Yes,No,DSL,Month-to-month,76,No,1,At-Risk New Premium Customers
 Female,0,No,61,Yes,Yes,DSL,One year,89,No,3,Loyal Premium Customers
 Female,0,No,20,Yes,No,DSL,Month-to-month,89,No,1,At-Risk New Premium Customers
 Female,0,No,47,Yes,No,DSL,Two year,106,Yes,3,Loyal Premium Customers
-Male,0,Yes,2,Yes,Yes,Fiber optic,Two year,60,No,1,At-Risk New Premium Customers
+Male,0,Yes,2,Yes,Yes,Fiber optic,Two year,60,No,0,New Budget Customers
 Male,0,Yes,41,Yes,Yes,Fiber optic,One year,60,No,2,Loyal Budget Customers
 Female,0,No,72,Yes,No,DSL,Month-to-month,25,No,2,Loyal Budget Customers
 Female,0,Yes,72,Yes,No,DSL,Month-to-month,80,No,3,Loyal Premium Customers
@@ -322,7 +320,7 @@ Female,1,No,54,Yes,Yes,Fiber optic,Month-to-month,19,No,2,Loyal Budget Customers
 Male,1,No,2,Yes,Yes,DSL,One year,96,No,1,At-Risk New Premium Customers
 Male,0,No,38,No,No,DSL,Two year,60,No,2,Loyal Budget Customers
 Female,1,No,47,Yes,No,DSL,Month-to-month,100,No,3,Loyal Premium Customers
-Male,0,No,22,Yes,No,DSL,One year,56,No,1,At-Risk New Premium Customers
+Male,0,No,22,Yes,No,DSL,One year,56,No,0,New Budget Customers
 Male,0,No,2,Yes,No,DSL,Two year,91,No,1,At-Risk New Premium Customers
 Female,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,79,No,3,Loyal Premium Customers
 Male,1,No,58,No,No,Fiber optic,Month-to-month,45,Yes,2,Loyal Budget Customers
@@ -351,7 +349,6 @@ Male,0,No,64,Yes,No,DSL,Month-to-month,74,No,3,Loyal Premium Customers
 Female,0,Yes,64,Yes,No,Fiber optic,One year,91,No,3,Loyal Premium Customers
 Male,1,No,29,Yes,Yes,DSL,Two year,84,No,1,At-Risk New Premium Customers
 Female,0,No,2,Yes,No,DSL,One year,71,Yes,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,51,Yes,0,New Budget Customers
 Female,0,Yes,45,Yes,No,DSL,Month-to-month,25,No,2,Loyal Budget Customers
 Male,0,No,66,Yes,No,Fiber optic,Month-to-month,114,No,3,Loyal Premium Customers
@@ -391,17 +388,15 @@ Female,0,No,3,Yes,Yes,Fiber optic,Month-to-month,84,Yes,1,At-Risk New Premium Cu
 Male,0,No,28,Yes,No,DSL,Month-to-month,61,No,1,At-Risk New Premium Customers
 Female,0,Yes,39,Yes,Yes,Fiber optic,Month-to-month,51,No,2,Loyal Budget Customers
 Female,0,No,33,Yes,Yes,DSL,Month-to-month,26,No,0,New Budget Customers
-Female,0,No,12,No,No,DSL,Month-to-month,61,No,1,At-Risk New Premium Customers
+Female,0,No,12,No,No,DSL,Month-to-month,61,No,0,New Budget Customers
 Male,0,Yes,1,Yes,No,DSL,Month-to-month,74,Yes,1,At-Risk New Premium Customers
 Male,0,No,6,Yes,Yes,Fiber optic,Month-to-month,79,No,1,At-Risk New Premium Customers
 Male,0,No,3,Yes,Yes,DSL,Two year,86,No,1,At-Risk New Premium Customers
 Male,0,No,4,Yes,Yes,Fiber optic,Month-to-month,88,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,34,Yes,No,Fiber optic,Month-to-month,90,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,1,No,15,Yes,No,DSL,One year,96,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,1,No,No,DSL,One year,25,Yes,0,New Budget Customers
 Female,0,No,3,Yes,No,DSL,One year,51,Yes,0,New Budget Customers
-Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,Yes,0,New Budget Customers
 Female,0,No,3,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Female,0,Yes,30,Yes,No,DSL,Two year,81,No,1,At-Risk New Premium Customers
 Female,0,No,5,Yes,No,DSL,Two year,54,Yes,0,New Budget Customers
@@ -514,7 +509,7 @@ Female,0,No,49,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Female,0,No,3,Yes,Yes,Fiber optic,Month-to-month,70,No,1,At-Risk New Premium Customers
 Male,1,No,1,Yes,Yes,Fiber optic,Month-to-month,74,Yes,1,At-Risk New Premium Customers
 Female,1,No,70,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
-Female,0,No,23,Yes,Yes,Fiber optic,Month-to-month,56,No,1,At-Risk New Premium Customers
+Female,0,No,23,Yes,Yes,Fiber optic,Month-to-month,56,No,0,New Budget Customers
 Female,0,No,65,Yes,No,DSL,One year,60,No,2,Loyal Budget Customers
 Male,1,No,69,Yes,No,Fiber optic,Month-to-month,108,Yes,3,Loyal Premium Customers
 Female,0,No,1,Yes,No,Fiber optic,Month-to-month,55,Yes,0,New Budget Customers
@@ -676,7 +671,6 @@ Male,1,No,72,Yes,Yes,DSL,Month-to-month,73,No,3,Loyal Premium Customers
 Female,1,No,1,Yes,No,DSL,Month-to-month,91,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,26,Yes,Yes,Fiber optic,Two year,105,No,1,At-Risk New Premium Customers
 Male,0,Yes,23,Yes,Yes,DSL,One year,21,No,0,New Budget Customers
-Female,0,No,2,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,2,Yes,Yes,Fiber optic,Month-to-month,76,Yes,1,At-Risk New Premium Customers
 Female,1,No,40,Yes,Yes,Fiber optic,Month-to-month,104,No,3,Loyal Premium Customers
 Female,0,No,1,Yes,No,Fiber optic,Month-to-month,95,Yes,1,At-Risk New Premium Customers
@@ -724,7 +718,6 @@ Female,0,No,1,Yes,No,DSL,Two year,83,No,1,At-Risk New Premium Customers
 Female,0,No,13,Yes,Yes,Fiber optic,Month-to-month,100,Yes,1,At-Risk New Premium Customers
 Female,0,No,64,No,No,DSL,Month-to-month,48,Yes,2,Loyal Budget Customers
 Male,0,Yes,8,No,Yes,Fiber optic,Month-to-month,45,No,0,New Budget Customers
-Male,0,Yes,72,Yes,No,DSL,Month-to-month,112,No,3,Loyal Premium Customers
 Male,0,No,1,Yes,Yes,DSL,Two year,75,Yes,1,At-Risk New Premium Customers
 Female,0,No,4,Yes,No,Fiber optic,Month-to-month,101,No,1,At-Risk New Premium Customers
 Male,0,Yes,1,Yes,Yes,Fiber optic,Month-to-month,50,No,0,New Budget Customers
@@ -753,7 +746,6 @@ Female,1,Yes,29,No,No,DSL,Month-to-month,36,No,0,New Budget Customers
 Female,0,Yes,1,Yes,No,DSL,Two year,20,Yes,0,New Budget Customers
 Female,0,No,1,Yes,No,DSL,Month-to-month,20,Yes,0,New Budget Customers
 Female,0,Yes,42,Yes,No,DSL,Two year,94,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,16,Yes,Yes,Fiber optic,Month-to-month,88,Yes,1,At-Risk New Premium Customers
 Male,0,No,11,Yes,No,DSL,Two year,45,No,0,New Budget Customers
 Female,1,No,26,Yes,No,DSL,Month-to-month,94,Yes,1,At-Risk New Premium Customers
@@ -776,7 +768,7 @@ Male,0,No,5,Yes,No,Fiber optic,Month-to-month,96,Yes,1,At-Risk New Premium Custo
 Female,0,No,4,No,No,Fiber optic,One year,35,No,0,New Budget Customers
 Female,0,Yes,45,Yes,Yes,Fiber optic,Two year,20,No,2,Loyal Budget Customers
 Male,0,No,18,Yes,No,DSL,Month-to-month,95,No,1,At-Risk New Premium Customers
-Female,0,No,3,Yes,Yes,Fiber optic,Month-to-month,58,No,1,At-Risk New Premium Customers
+Female,0,No,3,Yes,Yes,Fiber optic,Month-to-month,58,No,0,New Budget Customers
 Male,0,No,1,Yes,Yes,Fiber optic,One year,21,Yes,0,New Budget Customers
 Male,0,No,29,No,No,DSL,Month-to-month,46,No,0,New Budget Customers
 Female,0,No,69,Yes,No,DSL,Two year,25,No,2,Loyal Budget Customers
@@ -850,7 +842,7 @@ Female,0,Yes,14,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Female,1,No,14,No,Yes,DSL,Two year,46,No,0,New Budget Customers
 Male,0,No,54,Yes,Yes,DSL,Two year,70,No,3,Loyal Premium Customers
 Male,0,No,72,Yes,Yes,Fiber optic,Two year,68,No,3,Loyal Premium Customers
-Male,0,No,17,Yes,Yes,DSL,Two year,56,No,1,At-Risk New Premium Customers
+Male,0,No,17,Yes,Yes,DSL,Two year,56,No,0,New Budget Customers
 Female,0,Yes,1,Yes,Yes,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,30,Yes,No,DSL,Month-to-month,85,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,50,Yes,No,DSL,Two year,20,No,2,Loyal Budget Customers
@@ -907,10 +899,8 @@ Male,0,Yes,53,Yes,No,DSL,Two year,79,No,3,Loyal Premium Customers
 Female,0,Yes,72,No,Yes,Fiber optic,Month-to-month,64,No,2,Loyal Budget Customers
 Male,0,No,24,Yes,No,DSL,Month-to-month,21,No,0,New Budget Customers
 Female,0,No,19,Yes,No,DSL,One year,25,No,0,New Budget Customers
-Male,0,Yes,1,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,5,Yes,Yes,Fiber optic,Two year,76,No,1,At-Risk New Premium Customers
 Male,1,Yes,71,Yes,No,Fiber optic,Month-to-month,87,No,3,Loyal Premium Customers
-Male,0,No,72,Yes,Yes,Fiber optic,Month-to-month,89,No,3,Loyal Premium Customers
 Female,0,No,42,Yes,Yes,Fiber optic,One year,60,No,2,Loyal Budget Customers
 Male,0,No,14,Yes,No,DSL,One year,56,No,0,New Budget Customers
 Male,0,No,1,Yes,Yes,DSL,Two year,51,No,0,New Budget Customers
@@ -969,7 +959,7 @@ Male,1,No,21,Yes,No,DSL,Month-to-month,60,Yes,1,At-Risk New Premium Customers
 Female,0,No,10,Yes,No,DSL,Month-to-month,21,No,0,New Budget Customers
 Female,0,No,70,Yes,No,DSL,Two year,99,No,3,Loyal Premium Customers
 Male,0,No,26,Yes,Yes,Fiber optic,Month-to-month,75,No,1,At-Risk New Premium Customers
-Male,1,No,36,Yes,No,Fiber optic,Month-to-month,96,Yes,3,Loyal Premium Customers
+Male,1,No,36,Yes,No,Fiber optic,Month-to-month,96,Yes,1,At-Risk New Premium Customers
 Male,0,No,72,Yes,Yes,Fiber optic,Month-to-month,68,No,3,Loyal Premium Customers
 Female,0,No,9,Yes,No,DSL,Two year,74,Yes,1,At-Risk New Premium Customers
 Female,0,No,15,Yes,No,DSL,Month-to-month,100,No,1,At-Risk New Premium Customers
@@ -999,11 +989,10 @@ Male,1,No,24,Yes,No,Fiber optic,Month-to-month,93,Yes,1,At-Risk New Premium Cust
 Male,0,No,14,No,Yes,Fiber optic,Month-to-month,51,Yes,0,New Budget Customers
 Male,0,No,55,Yes,No,DSL,Two year,59,No,2,Loyal Budget Customers
 Female,0,No,25,No,No,DSL,Month-to-month,61,No,1,At-Risk New Premium Customers
-Male,0,Yes,10,Yes,No,Fiber optic,Month-to-month,60,No,1,At-Risk New Premium Customers
+Male,0,Yes,10,Yes,No,Fiber optic,Month-to-month,60,No,0,New Budget Customers
 Male,0,Yes,61,Yes,Yes,Fiber optic,Month-to-month,104,No,3,Loyal Premium Customers
 Male,0,No,6,Yes,No,Fiber optic,Month-to-month,59,No,1,At-Risk New Premium Customers
 Male,0,No,13,Yes,No,DSL,Two year,20,No,0,New Budget Customers
-Female,0,No,2,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
 Female,0,No,1,Yes,Yes,Fiber optic,One year,45,No,0,New Budget Customers
 Female,0,No,2,Yes,Yes,Fiber optic,Month-to-month,70,No,1,At-Risk New Premium Customers
 Male,1,No,49,Yes,No,Fiber optic,Month-to-month,96,Yes,3,Loyal Premium Customers
@@ -1054,7 +1043,6 @@ Male,1,No,67,Yes,No,DSL,Month-to-month,116,No,3,Loyal Premium Customers
 Female,0,No,16,Yes,Yes,DSL,One year,50,Yes,0,New Budget Customers
 Male,0,No,59,Yes,No,DSL,Month-to-month,66,No,3,Loyal Premium Customers
 Male,1,No,8,Yes,Yes,Fiber optic,Month-to-month,70,No,1,At-Risk New Premium Customers
-Male,0,Yes,24,Yes,No,DSL,One year,24,No,0,New Budget Customers
 Male,0,Yes,7,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,72,Yes,No,Fiber optic,Month-to-month,24,No,2,Loyal Budget Customers
 Female,0,No,44,Yes,No,Fiber optic,Month-to-month,88,No,3,Loyal Premium Customers
@@ -1115,7 +1103,7 @@ Female,1,No,2,Yes,Yes,DSL,Two year,80,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,32,Yes,Yes,Fiber optic,Month-to-month,95,No,1,At-Risk New Premium Customers
 Female,0,No,5,Yes,Yes,Fiber optic,Month-to-month,25,No,0,New Budget Customers
 Female,0,No,70,Yes,Yes,DSL,Two year,111,No,3,Loyal Premium Customers
-Male,0,No,31,Yes,Yes,DSL,One year,55,Yes,1,At-Risk New Premium Customers
+Male,0,No,31,Yes,Yes,DSL,One year,55,Yes,0,New Budget Customers
 Female,0,No,7,Yes,Yes,Fiber optic,Two year,60,Yes,1,At-Risk New Premium Customers
 Male,0,No,1,No,Yes,Fiber optic,Month-to-month,25,No,0,New Budget Customers
 Male,1,No,20,Yes,No,DSL,Two year,99,Yes,1,At-Risk New Premium Customers
@@ -1147,7 +1135,6 @@ Male,1,No,17,Yes,No,DSL,Month-to-month,95,No,1,At-Risk New Premium Customers
 Female,0,No,7,Yes,No,Fiber optic,Month-to-month,70,No,1,At-Risk New Premium Customers
 Female,0,Yes,11,Yes,No,DSL,One year,20,Yes,0,New Budget Customers
 Female,0,No,2,Yes,Yes,DSL,Month-to-month,75,Yes,1,At-Risk New Premium Customers
-Female,0,No,72,Yes,Yes,Fiber optic,Month-to-month,110,No,3,Loyal Premium Customers
 Male,0,Yes,11,Yes,No,Fiber optic,Month-to-month,78,No,1,At-Risk New Premium Customers
 Male,1,No,5,Yes,No,DSL,Month-to-month,91,Yes,1,At-Risk New Premium Customers
 Male,1,No,4,Yes,No,DSL,Month-to-month,75,Yes,1,At-Risk New Premium Customers
@@ -1191,7 +1178,6 @@ Male,0,No,2,Yes,No,Fiber optic,One year,20,Yes,0,New Budget Customers
 Male,0,Yes,71,Yes,No,Fiber optic,Month-to-month,109,No,3,Loyal Premium Customers
 Male,0,No,54,Yes,Yes,Fiber optic,One year,89,No,3,Loyal Premium Customers
 Female,0,Yes,15,Yes,Yes,DSL,Two year,76,No,1,At-Risk New Premium Customers
-Male,0,No,9,No,Yes,Fiber optic,Month-to-month,25,No,0,New Budget Customers
 Male,1,No,50,Yes,No,DSL,Two year,105,No,3,Loyal Premium Customers
 Male,0,Yes,19,Yes,No,DSL,Month-to-month,84,Yes,1,At-Risk New Premium Customers
 Female,1,No,70,Yes,No,DSL,Month-to-month,104,No,3,Loyal Premium Customers
@@ -1213,7 +1199,6 @@ Male,0,Yes,37,Yes,No,Fiber optic,Month-to-month,59,No,2,Loyal Budget Customers
 Male,0,Yes,72,Yes,Yes,DSL,Month-to-month,75,No,3,Loyal Premium Customers
 Male,0,Yes,72,Yes,No,Fiber optic,Month-to-month,25,No,2,Loyal Budget Customers
 Male,0,No,70,Yes,No,DSL,Two year,114,No,3,Loyal Premium Customers
-Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,Yes,0,New Budget Customers
 Male,0,No,23,Yes,No,Fiber optic,Month-to-month,84,No,1,At-Risk New Premium Customers
 Female,0,No,8,Yes,No,DSL,Two year,75,No,1,At-Risk New Premium Customers
 Male,0,No,2,Yes,Yes,DSL,One year,46,Yes,0,New Budget Customers
@@ -1304,13 +1289,10 @@ Male,0,No,31,Yes,No,DSL,Two year,94,No,1,At-Risk New Premium Customers
 Female,0,No,54,Yes,No,DSL,Two year,111,Yes,3,Loyal Premium Customers
 Male,0,No,1,Yes,No,DSL,Two year,55,No,0,New Budget Customers
 Female,0,Yes,12,No,Yes,Fiber optic,Month-to-month,33,No,0,New Budget Customers
-Female,0,No,2,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
 Male,0,No,48,Yes,Yes,Fiber optic,One year,71,No,3,Loyal Premium Customers
 Female,1,No,1,Yes,No,DSL,One year,74,Yes,1,At-Risk New Premium Customers
 Male,0,No,71,Yes,Yes,Fiber optic,Month-to-month,65,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,Yes,0,New Budget Customers
 Male,0,Yes,56,Yes,Yes,Fiber optic,Month-to-month,25,No,2,Loyal Budget Customers
-Male,0,No,2,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Female,1,No,66,Yes,Yes,DSL,One year,81,Yes,3,Loyal Premium Customers
 Male,0,Yes,50,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Female,1,No,63,Yes,Yes,Fiber optic,One year,90,No,3,Loyal Premium Customers
@@ -1364,7 +1346,6 @@ Female,0,No,58,Yes,Yes,Fiber optic,Month-to-month,111,No,3,Loyal Premium Custome
 Female,0,Yes,68,Yes,No,Fiber optic,Month-to-month,109,No,3,Loyal Premium Customers
 Male,0,No,1,Yes,Yes,DSL,Two year,19,No,0,New Budget Customers
 Female,0,No,55,Yes,No,DSL,Two year,66,No,3,Loyal Premium Customers
-Female,0,No,1,Yes,No,DSL,Month-to-month,45,No,0,New Budget Customers
 Female,0,No,72,Yes,Yes,Fiber optic,Month-to-month,84,No,3,Loyal Premium Customers
 Female,0,No,6,No,Yes,Fiber optic,Month-to-month,45,No,0,New Budget Customers
 Female,0,No,60,Yes,No,Fiber optic,One year,100,No,3,Loyal Premium Customers
@@ -1414,7 +1395,7 @@ Male,0,No,1,No,No,Fiber optic,Month-to-month,23,Yes,0,New Budget Customers
 Male,0,No,4,Yes,No,Fiber optic,Month-to-month,70,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,0,Yes,Yes,Fiber optic,Two year,62,No,1,At-Risk New Premium Customers
 Male,0,No,7,Yes,Yes,Fiber optic,Month-to-month,70,No,1,At-Risk New Premium Customers
-Male,0,Yes,32,Yes,No,Fiber optic,One year,19,No,2,Loyal Budget Customers
+Male,0,Yes,32,Yes,No,Fiber optic,One year,19,No,0,New Budget Customers
 Male,0,Yes,72,Yes,No,DSL,Two year,20,No,2,Loyal Budget Customers
 Male,0,No,19,No,No,DSL,Month-to-month,40,Yes,0,New Budget Customers
 Male,0,Yes,10,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
@@ -1426,7 +1407,6 @@ Female,0,No,47,No,Yes,Fiber optic,Month-to-month,42,No,2,Loyal Budget Customers
 Female,0,No,36,No,No,DSL,One year,53,No,2,Loyal Budget Customers
 Female,0,Yes,69,Yes,No,DSL,Month-to-month,105,No,3,Loyal Premium Customers
 Female,0,No,71,Yes,Yes,Fiber optic,One year,81,No,3,Loyal Premium Customers
-Female,0,No,71,Yes,No,Fiber optic,Month-to-month,25,No,2,Loyal Budget Customers
 Male,0,No,35,No,Yes,DSL,Month-to-month,53,No,2,Loyal Budget Customers
 Male,0,No,3,Yes,Yes,DSL,Two year,55,No,0,New Budget Customers
 Male,1,No,72,Yes,Yes,DSL,One year,110,No,3,Loyal Premium Customers
@@ -1454,7 +1434,6 @@ Male,0,No,1,Yes,Yes,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,40,Yes,No,DSL,Month-to-month,75,No,3,Loyal Premium Customers
 Female,0,No,13,Yes,No,Fiber optic,Month-to-month,76,No,1,At-Risk New Premium Customers
 Male,0,No,57,Yes,No,DSL,Month-to-month,56,No,2,Loyal Budget Customers
-Female,0,No,1,Yes,Yes,Fiber optic,Two year,75,Yes,1,At-Risk New Premium Customers
 Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,46,Yes,0,New Budget Customers
 Female,0,No,46,Yes,Yes,Fiber optic,One year,54,Yes,2,Loyal Budget Customers
 Female,1,Yes,40,Yes,No,DSL,Month-to-month,95,Yes,3,Loyal Premium Customers
@@ -1511,7 +1490,6 @@ Male,0,No,2,Yes,No,Fiber optic,Month-to-month,19,Yes,0,New Budget Customers
 Female,1,No,27,Yes,No,Fiber optic,Month-to-month,104,Yes,1,At-Risk New Premium Customers
 Male,0,No,46,No,Yes,DSL,Two year,61,No,2,Loyal Budget Customers
 Female,0,No,18,Yes,No,DSL,Two year,20,No,0,New Budget Customers
-Female,0,Yes,52,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Female,0,Yes,43,Yes,No,DSL,Month-to-month,56,Yes,2,Loyal Budget Customers
 Female,0,No,3,Yes,No,DSL,Two year,20,No,0,New Budget Customers
 Male,0,No,4,Yes,Yes,DSL,One year,45,No,0,New Budget Customers
@@ -1538,7 +1516,6 @@ Male,0,No,1,Yes,Yes,DSL,Month-to-month,70,Yes,1,At-Risk New Premium Customers
 Male,0,No,42,Yes,No,DSL,Two year,80,No,3,Loyal Premium Customers
 Female,1,No,16,Yes,Yes,DSL,Two year,85,Yes,1,At-Risk New Premium Customers
 Male,0,No,50,Yes,Yes,Fiber optic,Month-to-month,114,No,3,Loyal Premium Customers
-Female,0,No,1,No,No,DSL,Month-to-month,25,Yes,0,New Budget Customers
 Female,0,Yes,38,Yes,No,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Male,1,Yes,24,Yes,No,DSL,Two year,80,No,1,At-Risk New Premium Customers
 Male,0,Yes,31,Yes,No,DSL,Two year,60,No,1,At-Risk New Premium Customers
@@ -1551,7 +1528,6 @@ Male,0,Yes,23,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,Yes,72,Yes,No,DSL,Month-to-month,84,No,3,Loyal Premium Customers
 Female,0,No,55,Yes,Yes,Fiber optic,Month-to-month,84,No,3,Loyal Premium Customers
 Male,0,No,48,Yes,Yes,DSL,Two year,111,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,Yes,DSL,Two year,75,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,36,Yes,No,Fiber optic,Month-to-month,97,Yes,3,Loyal Premium Customers
 Male,0,No,11,Yes,No,DSL,Month-to-month,69,No,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,No,Fiber optic,One year,85,No,1,At-Risk New Premium Customers
@@ -1569,7 +1545,6 @@ Female,0,No,13,Yes,No,DSL,Two year,89,Yes,1,At-Risk New Premium Customers
 Male,0,No,1,Yes,No,DSL,Month-to-month,20,Yes,0,New Budget Customers
 Male,0,Yes,1,Yes,Yes,Fiber optic,Month-to-month,71,Yes,1,At-Risk New Premium Customers
 Female,1,No,18,Yes,No,DSL,Month-to-month,74,No,1,At-Risk New Premium Customers
-Male,0,No,13,Yes,No,DSL,Two year,20,No,0,New Budget Customers
 Female,0,Yes,2,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,70,Yes,No,DSL,Month-to-month,65,No,3,Loyal Premium Customers
 Male,1,No,44,Yes,No,Fiber optic,One year,19,No,2,Loyal Budget Customers
@@ -1590,7 +1565,6 @@ Female,0,Yes,58,No,Yes,DSL,Two year,56,No,2,Loyal Budget Customers
 Female,0,Yes,69,Yes,Yes,Fiber optic,One year,59,No,2,Loyal Budget Customers
 Female,0,No,27,Yes,No,DSL,Month-to-month,56,No,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,No,DSL,Two year,49,No,0,New Budget Customers
-Female,0,No,6,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,7,No,No,Fiber optic,Month-to-month,25,No,0,New Budget Customers
 Male,1,No,8,Yes,No,DSL,Month-to-month,70,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,15,Yes,Yes,DSL,Two year,70,No,1,At-Risk New Premium Customers
@@ -1645,7 +1619,7 @@ Male,1,No,70,Yes,No,DSL,Month-to-month,105,No,3,Loyal Premium Customers
 Female,0,No,7,Yes,No,Fiber optic,Month-to-month,79,Yes,1,At-Risk New Premium Customers
 Female,0,No,22,Yes,Yes,Fiber optic,Month-to-month,21,No,0,New Budget Customers
 Female,0,Yes,25,Yes,Yes,Fiber optic,Month-to-month,55,No,0,New Budget Customers
-Male,0,No,33,No,Yes,DSL,One year,39,No,2,Loyal Budget Customers
+Male,0,No,33,No,Yes,DSL,One year,39,No,0,New Budget Customers
 Male,1,No,27,Yes,No,Fiber optic,Month-to-month,96,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,15,Yes,Yes,Fiber optic,Month-to-month,75,Yes,1,At-Risk New Premium Customers
 Female,0,No,41,Yes,No,DSL,Month-to-month,25,No,2,Loyal Budget Customers
@@ -1664,7 +1638,7 @@ Male,0,Yes,60,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Female,0,No,43,Yes,No,Fiber optic,Month-to-month,26,No,2,Loyal Budget Customers
 Male,1,No,36,Yes,Yes,Fiber optic,Month-to-month,85,Yes,1,At-Risk New Premium Customers
 Female,1,No,57,No,Yes,Fiber optic,Month-to-month,55,No,2,Loyal Budget Customers
-Male,0,No,24,Yes,Yes,Fiber optic,Month-to-month,55,No,1,At-Risk New Premium Customers
+Male,0,No,24,Yes,Yes,Fiber optic,Month-to-month,55,No,0,New Budget Customers
 Male,0,Yes,68,Yes,No,DSL,Two year,105,No,3,Loyal Premium Customers
 Male,0,No,72,Yes,Yes,DSL,One year,95,No,3,Loyal Premium Customers
 Male,0,No,9,No,Yes,Fiber optic,Month-to-month,40,No,0,New Budget Customers
@@ -1702,7 +1676,6 @@ Female,0,No,26,Yes,No,DSL,One year,69,No,1,At-Risk New Premium Customers
 Male,0,No,4,No,No,DSL,Two year,42,No,0,New Budget Customers
 Female,0,Yes,63,Yes,Yes,Fiber optic,One year,20,No,2,Loyal Budget Customers
 Male,1,No,5,Yes,Yes,Fiber optic,Month-to-month,80,Yes,1,At-Risk New Premium Customers
-Female,0,No,6,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,55,Yes,Yes,Fiber optic,Month-to-month,94,No,3,Loyal Premium Customers
 Male,0,Yes,51,Yes,Yes,Fiber optic,Month-to-month,76,No,3,Loyal Premium Customers
 Female,0,Yes,56,Yes,Yes,Fiber optic,Two year,69,No,3,Loyal Premium Customers
@@ -1770,7 +1743,6 @@ Male,0,No,7,No,Yes,Fiber optic,Two year,35,No,0,New Budget Customers
 Female,0,No,52,Yes,No,DSL,One year,111,Yes,3,Loyal Premium Customers
 Male,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,92,No,3,Loyal Premium Customers
 Male,0,No,55,Yes,Yes,Fiber optic,Month-to-month,97,Yes,3,Loyal Premium Customers
-Male,0,No,1,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,6,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,Yes,29,Yes,No,DSL,Two year,20,No,0,New Budget Customers
 Male,0,Yes,42,No,No,DSL,Month-to-month,48,No,2,Loyal Budget Customers
@@ -1810,13 +1782,13 @@ Female,0,No,3,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,17,Yes,Yes,Fiber optic,Month-to-month,66,No,1,At-Risk New Premium Customers
 Male,0,Yes,20,Yes,Yes,Fiber optic,Month-to-month,97,No,1,At-Risk New Premium Customers
 Male,0,Yes,71,Yes,Yes,Fiber optic,One year,20,No,2,Loyal Budget Customers
-Female,0,No,34,Yes,Yes,Fiber optic,Month-to-month,105,No,3,Loyal Premium Customers
+Female,0,No,34,Yes,Yes,Fiber optic,Month-to-month,105,No,1,At-Risk New Premium Customers
 Female,0,Yes,43,Yes,No,Fiber optic,One year,25,No,2,Loyal Budget Customers
 Male,1,No,50,Yes,No,DSL,Month-to-month,102,No,3,Loyal Premium Customers
 Female,0,Yes,41,Yes,No,DSL,Two year,102,No,3,Loyal Premium Customers
 Male,0,No,54,Yes,No,DSL,Two year,80,No,3,Loyal Premium Customers
 Female,0,No,64,Yes,No,DSL,Month-to-month,19,No,2,Loyal Budget Customers
-Male,0,Yes,31,Yes,Yes,Fiber optic,Two year,54,No,2,Loyal Budget Customers
+Male,0,Yes,31,Yes,Yes,Fiber optic,Two year,54,No,0,New Budget Customers
 Male,1,No,11,Yes,Yes,Fiber optic,Month-to-month,78,No,1,At-Risk New Premium Customers
 Female,0,No,4,Yes,No,DSL,Two year,86,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,21,No,No,DSL,Month-to-month,53,No,0,New Budget Customers
@@ -1856,7 +1828,6 @@ Female,0,No,40,Yes,No,DSL,Month-to-month,19,No,2,Loyal Budget Customers
 Female,0,No,22,Yes,No,DSL,Month-to-month,59,No,1,At-Risk New Premium Customers
 Male,0,Yes,1,Yes,No,DSL,Two year,70,No,1,At-Risk New Premium Customers
 Female,1,No,6,Yes,No,DSL,Month-to-month,89,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,DSL,Two year,20,Yes,0,New Budget Customers
 Female,0,No,4,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,60,Yes,No,Fiber optic,Month-to-month,106,Yes,3,Loyal Premium Customers
 Male,1,No,72,No,No,DSL,Two year,65,No,3,Loyal Premium Customers
@@ -1927,14 +1898,12 @@ Female,0,No,68,Yes,Yes,Fiber optic,Month-to-month,82,No,3,Loyal Premium Customer
 Female,0,Yes,70,Yes,Yes,DSL,Two year,106,No,3,Loyal Premium Customers
 Male,0,Yes,71,Yes,Yes,Fiber optic,Month-to-month,87,No,3,Loyal Premium Customers
 Male,0,Yes,71,Yes,Yes,Fiber optic,Month-to-month,85,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,44,No,0,New Budget Customers
 Male,0,No,1,Yes,No,Fiber optic,Month-to-month,55,Yes,0,New Budget Customers
 Male,0,Yes,3,Yes,No,DSL,Month-to-month,21,No,0,New Budget Customers
 Female,0,No,40,Yes,Yes,Fiber optic,One year,93,No,3,Loyal Premium Customers
 Female,0,No,3,No,No,DSL,Month-to-month,51,Yes,0,New Budget Customers
 Female,0,No,67,Yes,No,DSL,One year,26,No,2,Loyal Budget Customers
 Female,0,No,18,Yes,No,Fiber optic,Month-to-month,75,No,1,At-Risk New Premium Customers
-Female,0,Yes,20,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Female,0,No,3,Yes,No,DSL,One year,74,Yes,1,At-Risk New Premium Customers
 Male,0,No,71,Yes,No,DSL,Two year,116,No,3,Loyal Premium Customers
 Female,0,No,25,No,No,DSL,Month-to-month,34,Yes,0,New Budget Customers
@@ -1966,7 +1935,7 @@ Female,0,No,27,Yes,No,Fiber optic,Month-to-month,76,No,1,At-Risk New Premium Cus
 Male,0,No,5,Yes,No,DSL,One year,19,Yes,0,New Budget Customers
 Male,0,Yes,23,Yes,No,DSL,Month-to-month,87,No,1,At-Risk New Premium Customers
 Male,1,Yes,11,Yes,Yes,DSL,Month-to-month,75,No,1,At-Risk New Premium Customers
-Female,1,No,35,Yes,Yes,DSL,One year,102,No,3,Loyal Premium Customers
+Female,1,No,35,Yes,Yes,DSL,One year,102,No,1,At-Risk New Premium Customers
 Male,0,No,67,Yes,No,Fiber optic,One year,89,No,3,Loyal Premium Customers
 Male,0,Yes,33,Yes,No,DSL,Two year,75,No,1,At-Risk New Premium Customers
 Male,0,Yes,72,Yes,No,Fiber optic,Month-to-month,114,No,3,Loyal Premium Customers
@@ -2007,7 +1976,6 @@ Female,1,No,20,Yes,Yes,Fiber optic,Month-to-month,94,Yes,1,At-Risk New Premium C
 Female,0,Yes,16,Yes,Yes,Fiber optic,One year,73,No,1,At-Risk New Premium Customers
 Male,0,No,1,Yes,Yes,DSL,Month-to-month,69,Yes,1,At-Risk New Premium Customers
 Male,0,No,1,No,No,Fiber optic,Month-to-month,25,Yes,0,New Budget Customers
-Male,0,No,46,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Male,0,No,69,Yes,Yes,DSL,Two year,98,No,3,Loyal Premium Customers
 Male,0,Yes,49,Yes,Yes,Fiber optic,Month-to-month,84,Yes,3,Loyal Premium Customers
 Male,0,No,53,No,Yes,DSL,Month-to-month,55,No,2,Loyal Budget Customers
@@ -2034,13 +2002,12 @@ Male,0,No,1,No,No,DSL,Month-to-month,30,Yes,0,New Budget Customers
 Female,0,No,9,Yes,No,Fiber optic,Month-to-month,66,Yes,1,At-Risk New Premium Customers
 Female,0,No,50,Yes,No,DSL,Month-to-month,82,No,3,Loyal Premium Customers
 Male,0,No,46,No,No,DSL,One year,31,No,2,Loyal Budget Customers
-Female,0,No,3,Yes,No,DSL,Month-to-month,45,No,0,New Budget Customers
 Female,0,No,11,Yes,Yes,Fiber optic,Month-to-month,51,No,0,New Budget Customers
 Male,0,No,37,Yes,No,Fiber optic,Month-to-month,70,No,1,At-Risk New Premium Customers
 Male,0,No,22,Yes,No,Fiber optic,Month-to-month,54,Yes,0,New Budget Customers
 Male,0,No,67,Yes,Yes,Fiber optic,Month-to-month,26,No,2,Loyal Budget Customers
 Male,0,No,1,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
-Female,0,No,19,Yes,No,DSL,Two year,56,No,1,At-Risk New Premium Customers
+Female,0,No,19,Yes,No,DSL,Two year,56,No,0,New Budget Customers
 Female,1,No,9,Yes,Yes,DSL,Month-to-month,75,Yes,1,At-Risk New Premium Customers
 Male,0,No,70,Yes,No,Fiber optic,Month-to-month,99,No,3,Loyal Premium Customers
 Male,0,No,1,Yes,No,DSL,One year,50,No,0,New Budget Customers
@@ -2128,7 +2095,6 @@ Male,0,Yes,72,No,Yes,DSL,Two year,66,No,2,Loyal Budget Customers
 Female,1,Yes,31,Yes,No,DSL,Month-to-month,99,Yes,1,At-Risk New Premium Customers
 Male,0,No,72,Yes,No,DSL,One year,92,No,3,Loyal Premium Customers
 Male,0,No,51,No,Yes,DSL,Month-to-month,44,No,2,Loyal Budget Customers
-Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,Yes,60,Yes,Yes,Fiber optic,One year,115,No,3,Loyal Premium Customers
 Female,0,Yes,24,Yes,No,DSL,Two year,20,No,0,New Budget Customers
 Female,0,No,2,Yes,No,DSL,One year,81,Yes,1,At-Risk New Premium Customers
@@ -2161,7 +2127,6 @@ Female,0,Yes,29,Yes,Yes,DSL,Two year,88,No,1,At-Risk New Premium Customers
 Female,0,No,2,No,Yes,DSL,Two year,35,Yes,0,New Budget Customers
 Male,0,No,8,Yes,No,DSL,Two year,71,No,1,At-Risk New Premium Customers
 Female,0,No,5,Yes,No,Fiber optic,Month-to-month,85,No,1,At-Risk New Premium Customers
-Male,0,No,9,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,1,No,32,Yes,Yes,Fiber optic,Month-to-month,74,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,72,Yes,No,Fiber optic,Two year,84,No,3,Loyal Premium Customers
 Male,0,Yes,7,No,No,DSL,One year,50,No,0,New Budget Customers
@@ -2174,7 +2139,6 @@ Male,0,No,60,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Male,1,No,1,No,No,DSL,Month-to-month,25,Yes,0,New Budget Customers
 Male,0,No,1,Yes,No,Fiber optic,Month-to-month,49,No,0,New Budget Customers
 Male,0,No,38,Yes,No,DSL,One year,92,No,3,Loyal Premium Customers
-Female,0,No,4,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,31,Yes,No,DSL,Two year,99,No,1,At-Risk New Premium Customers
 Female,1,No,14,Yes,Yes,Fiber optic,Two year,79,No,1,At-Risk New Premium Customers
 Female,1,No,71,Yes,No,DSL,Two year,110,No,3,Loyal Premium Customers
@@ -2198,18 +2162,18 @@ Female,0,No,1,Yes,Yes,DSL,One year,70,Yes,1,At-Risk New Premium Customers
 Female,0,No,41,Yes,No,DSL,Month-to-month,106,Yes,3,Loyal Premium Customers
 Female,1,No,14,Yes,Yes,DSL,Month-to-month,74,Yes,1,At-Risk New Premium Customers
 Male,0,No,7,Yes,Yes,DSL,One year,69,Yes,1,At-Risk New Premium Customers
-Female,0,No,32,Yes,Yes,DSL,Two year,54,No,1,At-Risk New Premium Customers
+Female,0,No,32,Yes,Yes,DSL,Two year,54,No,0,New Budget Customers
 Male,0,Yes,41,Yes,No,DSL,One year,68,No,3,Loyal Premium Customers
 Female,1,Yes,4,Yes,No,DSL,One year,46,Yes,0,New Budget Customers
 Male,0,No,56,Yes,No,Fiber optic,Month-to-month,26,No,2,Loyal Budget Customers
-Female,1,No,33,Yes,Yes,Fiber optic,One year,110,Yes,3,Loyal Premium Customers
+Female,1,No,33,Yes,Yes,Fiber optic,One year,110,Yes,1,At-Risk New Premium Customers
 Male,1,No,2,Yes,Yes,Fiber optic,One year,66,Yes,1,At-Risk New Premium Customers
 Male,0,No,28,Yes,No,Fiber optic,One year,106,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,1,Yes,Yes,Fiber optic,Month-to-month,54,No,0,New Budget Customers
 Male,0,Yes,1,Yes,No,Fiber optic,Month-to-month,19,No,0,New Budget Customers
 Female,0,No,2,Yes,Yes,Fiber optic,Month-to-month,70,Yes,1,At-Risk New Premium Customers
 Male,1,No,4,Yes,No,DSL,Month-to-month,74,Yes,1,At-Risk New Premium Customers
-Male,0,No,34,Yes,Yes,Fiber optic,Two year,105,No,3,Loyal Premium Customers
+Male,0,No,34,Yes,Yes,Fiber optic,Two year,105,No,1,At-Risk New Premium Customers
 Female,0,No,64,Yes,Yes,Fiber optic,One year,58,No,2,Loyal Budget Customers
 Male,0,No,7,Yes,No,DSL,One year,19,No,0,New Budget Customers
 Male,0,Yes,51,Yes,Yes,DSL,Two year,84,No,3,Loyal Premium Customers
@@ -2232,7 +2196,6 @@ Female,1,No,57,Yes,No,Fiber optic,Month-to-month,94,No,3,Loyal Premium Customers
 Female,1,No,66,Yes,No,DSL,Two year,105,No,3,Loyal Premium Customers
 Male,0,No,43,Yes,No,Fiber optic,Month-to-month,86,No,3,Loyal Premium Customers
 Female,0,Yes,32,Yes,No,DSL,Two year,76,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,40,Yes,Yes,DSL,Two year,81,No,3,Loyal Premium Customers
 Female,0,No,41,Yes,Yes,DSL,One year,98,No,3,Loyal Premium Customers
 Male,1,No,30,Yes,No,Fiber optic,Month-to-month,90,No,1,At-Risk New Premium Customers
@@ -2243,7 +2206,7 @@ Male,1,No,7,Yes,Yes,DSL,Two year,75,No,1,At-Risk New Premium Customers
 Male,0,No,58,Yes,Yes,DSL,Two year,100,No,3,Loyal Premium Customers
 Male,0,No,52,Yes,Yes,DSL,One year,89,No,3,Loyal Premium Customers
 Male,0,Yes,26,No,Yes,Fiber optic,Month-to-month,40,No,0,New Budget Customers
-Female,0,No,34,Yes,Yes,DSL,One year,20,No,2,Loyal Budget Customers
+Female,0,No,34,Yes,Yes,DSL,One year,20,No,0,New Budget Customers
 Male,0,No,53,Yes,Yes,Fiber optic,Two year,81,No,3,Loyal Premium Customers
 Male,0,No,15,Yes,Yes,Fiber optic,Month-to-month,88,No,1,At-Risk New Premium Customers
 Male,0,Yes,1,Yes,No,DSL,Two year,19,Yes,0,New Budget Customers
@@ -2269,7 +2232,6 @@ Female,0,Yes,60,Yes,No,Fiber optic,One year,19,No,2,Loyal Budget Customers
 Male,0,No,23,Yes,Yes,Fiber optic,Two year,21,No,0,New Budget Customers
 Female,0,No,15,Yes,No,DSL,Two year,80,Yes,1,At-Risk New Premium Customers
 Female,0,No,29,Yes,No,Fiber optic,Month-to-month,67,No,1,At-Risk New Premium Customers
-Female,0,Yes,56,Yes,No,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Female,0,No,11,Yes,No,Fiber optic,Month-to-month,55,No,0,New Budget Customers
 Male,0,No,27,Yes,No,DSL,Month-to-month,69,No,1,At-Risk New Premium Customers
 Male,0,No,1,Yes,No,DSL,One year,70,Yes,1,At-Risk New Premium Customers
@@ -2283,7 +2245,6 @@ Male,0,No,10,Yes,Yes,Fiber optic,Month-to-month,90,Yes,1,At-Risk New Premium Cus
 Female,0,No,37,Yes,Yes,DSL,Month-to-month,68,No,1,At-Risk New Premium Customers
 Female,0,Yes,35,Yes,Yes,Fiber optic,Month-to-month,50,No,2,Loyal Budget Customers
 Female,0,No,10,Yes,No,Fiber optic,Month-to-month,61,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,20,Yes,0,New Budget Customers
 Female,0,Yes,26,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,72,Yes,No,DSL,Month-to-month,82,No,3,Loyal Premium Customers
 Female,1,No,38,Yes,Yes,Fiber optic,Two year,100,Yes,3,Loyal Premium Customers
@@ -2292,7 +2253,7 @@ Male,0,No,56,Yes,Yes,Fiber optic,Two year,53,No,2,Loyal Budget Customers
 Female,0,No,36,Yes,No,DSL,Month-to-month,54,No,2,Loyal Budget Customers
 Male,0,Yes,22,Yes,Yes,Fiber optic,Month-to-month,89,No,1,At-Risk New Premium Customers
 Male,0,Yes,65,Yes,Yes,DSL,Two year,104,No,3,Loyal Premium Customers
-Male,0,No,27,Yes,Yes,DSL,Two year,54,No,1,At-Risk New Premium Customers
+Male,0,No,27,Yes,Yes,DSL,Two year,54,No,0,New Budget Customers
 Female,0,No,29,Yes,Yes,Fiber optic,Month-to-month,74,No,1,At-Risk New Premium Customers
 Male,1,No,10,Yes,No,DSL,Month-to-month,95,Yes,1,At-Risk New Premium Customers
 Female,1,No,50,Yes,No,DSL,Month-to-month,105,No,3,Loyal Premium Customers
@@ -2302,7 +2263,6 @@ Male,0,Yes,24,Yes,No,DSL,Two year,55,Yes,0,New Budget Customers
 Male,0,No,1,Yes,Yes,Fiber optic,One year,56,No,0,New Budget Customers
 Male,0,No,20,Yes,Yes,Fiber optic,Month-to-month,64,No,1,At-Risk New Premium Customers
 Male,0,No,58,Yes,Yes,DSL,Two year,60,Yes,2,Loyal Budget Customers
-Female,0,No,47,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Male,1,No,72,Yes,No,Fiber optic,One year,93,No,3,Loyal Premium Customers
 Male,0,No,14,Yes,Yes,Fiber optic,Month-to-month,50,No,0,New Budget Customers
 Female,0,Yes,62,Yes,No,Fiber optic,Month-to-month,55,No,2,Loyal Budget Customers
@@ -2360,7 +2320,6 @@ Male,0,No,51,Yes,Yes,DSL,One year,112,No,3,Loyal Premium Customers
 Female,0,No,16,Yes,No,DSL,One year,95,No,1,At-Risk New Premium Customers
 Female,0,No,34,Yes,Yes,DSL,Month-to-month,100,No,1,At-Risk New Premium Customers
 Male,0,No,8,Yes,No,DSL,Two year,87,Yes,1,At-Risk New Premium Customers
-Female,0,No,72,Yes,No,DSL,Month-to-month,25,No,2,Loyal Budget Customers
 Male,1,No,60,Yes,No,DSL,Month-to-month,72,No,3,Loyal Premium Customers
 Male,0,No,72,Yes,No,DSL,Month-to-month,116,No,3,Loyal Premium Customers
 Male,0,Yes,12,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
@@ -2387,7 +2346,6 @@ Female,0,Yes,5,Yes,Yes,Fiber optic,Month-to-month,84,Yes,1,At-Risk New Premium C
 Female,0,Yes,18,Yes,No,DSL,Month-to-month,20,Yes,0,New Budget Customers
 Male,0,Yes,25,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,46,Yes,Yes,Fiber optic,Month-to-month,64,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,51,Yes,0,New Budget Customers
 Female,0,No,1,Yes,Yes,DSL,One year,48,No,0,New Budget Customers
 Female,0,No,68,Yes,No,DSL,One year,85,No,3,Loyal Premium Customers
 Male,0,No,18,Yes,Yes,DSL,Month-to-month,44,No,0,New Budget Customers
@@ -2434,7 +2392,6 @@ Female,0,No,6,Yes,No,DSL,Month-to-month,50,Yes,0,New Budget Customers
 Female,0,No,59,Yes,Yes,DSL,One year,101,Yes,3,Loyal Premium Customers
 Male,1,No,10,Yes,No,DSL,One year,92,Yes,1,At-Risk New Premium Customers
 Male,1,No,29,Yes,No,DSL,Month-to-month,98,Yes,1,At-Risk New Premium Customers
-Male,0,No,5,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,1,No,21,Yes,No,Fiber optic,Month-to-month,94,Yes,1,At-Risk New Premium Customers
 Female,0,No,62,Yes,No,DSL,Month-to-month,104,No,3,Loyal Premium Customers
 Male,0,Yes,36,Yes,Yes,Fiber optic,Month-to-month,19,No,2,Loyal Budget Customers
@@ -2443,7 +2400,6 @@ Female,0,No,69,Yes,No,DSL,Month-to-month,116,No,3,Loyal Premium Customers
 Female,0,No,2,No,No,Fiber optic,Month-to-month,31,Yes,0,New Budget Customers
 Female,0,No,8,Yes,Yes,Fiber optic,Month-to-month,85,Yes,1,At-Risk New Premium Customers
 Female,1,No,3,No,Yes,Fiber optic,Two year,31,No,0,New Budget Customers
-Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,46,Yes,0,New Budget Customers
 Female,0,No,12,Yes,No,Fiber optic,Month-to-month,99,Yes,1,At-Risk New Premium Customers
 Male,0,No,18,Yes,Yes,Fiber optic,Month-to-month,76,No,1,At-Risk New Premium Customers
 Female,0,No,20,No,No,Fiber optic,Month-to-month,25,No,0,New Budget Customers
@@ -2458,13 +2414,11 @@ Male,0,Yes,25,Yes,No,Fiber optic,Month-to-month,55,No,0,New Budget Customers
 Female,0,No,51,Yes,Yes,DSL,Two year,26,No,2,Loyal Budget Customers
 Female,0,No,7,Yes,No,Fiber optic,One year,81,No,1,At-Risk New Premium Customers
 Male,0,Yes,39,Yes,Yes,Fiber optic,Two year,19,No,2,Loyal Budget Customers
-Female,0,Yes,72,Yes,No,DSL,Month-to-month,80,No,3,Loyal Premium Customers
 Female,0,No,27,Yes,No,DSL,Two year,95,No,1,At-Risk New Premium Customers
 Male,0,Yes,56,Yes,No,DSL,One year,86,No,3,Loyal Premium Customers
 Female,0,No,57,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Male,0,No,17,Yes,Yes,Fiber optic,Month-to-month,107,No,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,56,Yes,0,New Budget Customers
-Male,0,Yes,35,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Male,0,Yes,13,Yes,No,DSL,Two year,73,No,1,At-Risk New Premium Customers
 Female,0,Yes,69,Yes,Yes,Fiber optic,One year,20,No,2,Loyal Budget Customers
 Female,0,Yes,1,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
@@ -2520,7 +2474,6 @@ Female,1,No,26,Yes,No,Fiber optic,Month-to-month,91,Yes,1,At-Risk New Premium Cu
 Female,0,No,68,Yes,Yes,Fiber optic,Month-to-month,71,No,3,Loyal Premium Customers
 Male,0,Yes,2,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,1,No,8,Yes,No,DSL,Two year,74,Yes,1,At-Risk New Premium Customers
-Female,0,No,3,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,13,Yes,Yes,DSL,One year,98,Yes,1,At-Risk New Premium Customers
 Male,1,No,34,Yes,No,DSL,Two year,69,No,1,At-Risk New Premium Customers
 Female,0,Yes,72,No,No,DSL,Two year,66,No,2,Loyal Budget Customers
@@ -2542,7 +2495,6 @@ Male,0,No,2,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
 Female,0,No,35,Yes,Yes,Fiber optic,Two year,62,No,1,At-Risk New Premium Customers
 Male,0,Yes,71,Yes,No,DSL,Two year,105,No,3,Loyal Premium Customers
 Female,1,No,15,Yes,No,DSL,One year,95,No,1,At-Risk New Premium Customers
-Female,0,No,2,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,26,Yes,Yes,DSL,One year,79,No,1,At-Risk New Premium Customers
 Female,1,Yes,3,Yes,No,DSL,One year,88,Yes,1,At-Risk New Premium Customers
 Male,1,No,49,Yes,No,DSL,Month-to-month,50,No,2,Loyal Budget Customers
@@ -2554,7 +2506,6 @@ Female,0,Yes,72,Yes,No,DSL,Month-to-month,117,No,3,Loyal Premium Customers
 Female,0,No,62,Yes,Yes,DSL,One year,92,No,3,Loyal Premium Customers
 Female,0,Yes,54,Yes,No,DSL,Month-to-month,60,No,2,Loyal Budget Customers
 Male,0,Yes,15,Yes,No,DSL,Month-to-month,102,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,20,Yes,0,New Budget Customers
 Female,1,No,1,No,Yes,Fiber optic,Month-to-month,25,Yes,0,New Budget Customers
 Male,0,No,72,No,No,DSL,Month-to-month,61,No,2,Loyal Budget Customers
 Female,0,No,30,Yes,No,DSL,One year,79,No,1,At-Risk New Premium Customers
@@ -2564,12 +2515,10 @@ Male,0,No,18,No,Yes,Fiber optic,Two year,34,Yes,0,New Budget Customers
 Male,0,No,17,No,No,DSL,Two year,25,No,0,New Budget Customers
 Female,0,No,40,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Female,1,No,72,Yes,Yes,DSL,One year,111,No,3,Loyal Premium Customers
-Male,0,No,2,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
 Male,0,No,53,Yes,Yes,DSL,Two year,24,No,2,Loyal Budget Customers
 Male,0,No,71,Yes,Yes,Fiber optic,Month-to-month,116,No,3,Loyal Premium Customers
 Female,0,No,20,Yes,No,DSL,Two year,97,No,1,At-Risk New Premium Customers
 Male,0,No,7,Yes,Yes,DSL,Two year,55,No,0,New Budget Customers
-Female,0,No,15,Yes,Yes,Fiber optic,Month-to-month,84,No,1,At-Risk New Premium Customers
 Female,0,Yes,72,Yes,No,Fiber optic,Two year,24,No,2,Loyal Budget Customers
 Male,0,Yes,39,Yes,Yes,DSL,Two year,24,No,2,Loyal Budget Customers
 Female,0,No,45,Yes,No,DSL,Month-to-month,26,No,2,Loyal Budget Customers
@@ -2584,9 +2533,8 @@ Female,0,No,6,Yes,No,DSL,Month-to-month,90,Yes,1,At-Risk New Premium Customers
 Female,0,No,17,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,Yes,41,Yes,No,DSL,Two year,95,No,3,Loyal Premium Customers
 Female,0,Yes,56,Yes,No,DSL,Month-to-month,100,No,3,Loyal Premium Customers
-Female,0,No,28,Yes,No,DSL,Two year,55,No,1,At-Risk New Premium Customers
+Female,0,No,28,Yes,No,DSL,Two year,55,No,0,New Budget Customers
 Female,0,Yes,72,No,No,DSL,Month-to-month,54,No,2,Loyal Budget Customers
-Male,0,No,1,Yes,No,DSL,One year,50,No,0,New Budget Customers
 Female,0,No,56,Yes,No,DSL,Month-to-month,107,No,3,Loyal Premium Customers
 Male,0,No,70,Yes,Yes,Fiber optic,Month-to-month,79,No,3,Loyal Premium Customers
 Male,0,No,44,Yes,No,Fiber optic,Month-to-month,91,No,3,Loyal Premium Customers
@@ -2619,14 +2567,13 @@ Male,0,No,31,Yes,No,DSL,Month-to-month,94,Yes,1,At-Risk New Premium Customers
 Male,1,No,55,No,No,DSL,Month-to-month,50,No,2,Loyal Budget Customers
 Male,0,Yes,1,Yes,No,DSL,One year,74,Yes,1,At-Risk New Premium Customers
 Female,0,No,10,Yes,Yes,Fiber optic,Month-to-month,19,No,0,New Budget Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,1,No,14,Yes,No,DSL,Two year,96,No,1,At-Risk New Premium Customers
 Female,0,Yes,66,Yes,Yes,DSL,One year,74,No,3,Loyal Premium Customers
 Female,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,106,No,3,Loyal Premium Customers
 Female,0,Yes,11,No,Yes,DSL,Month-to-month,30,No,0,New Budget Customers
 Male,0,No,32,Yes,Yes,Fiber optic,Month-to-month,93,No,1,At-Risk New Premium Customers
 Male,1,No,7,Yes,No,DSL,One year,102,Yes,1,At-Risk New Premium Customers
-Male,0,Yes,31,No,Yes,DSL,Two year,60,No,2,Loyal Budget Customers
+Male,0,Yes,31,No,Yes,DSL,Two year,60,No,0,New Budget Customers
 Female,0,No,61,No,No,Fiber optic,Month-to-month,44,No,2,Loyal Budget Customers
 Female,1,No,1,Yes,No,Fiber optic,Month-to-month,70,Yes,1,At-Risk New Premium Customers
 Female,1,No,71,Yes,Yes,Fiber optic,Two year,104,No,3,Loyal Premium Customers
@@ -2644,7 +2591,6 @@ Female,0,No,9,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,31,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,3,Yes,Yes,Fiber optic,Month-to-month,74,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,35,Yes,No,DSL,Month-to-month,110,No,3,Loyal Premium Customers
-Female,0,No,15,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,1,No,1,Yes,No,DSL,Two year,89,Yes,1,At-Risk New Premium Customers
 Male,0,No,42,Yes,No,DSL,Month-to-month,106,Yes,3,Loyal Premium Customers
 Female,0,No,1,Yes,Yes,DSL,Month-to-month,45,Yes,0,New Budget Customers
@@ -2687,7 +2633,6 @@ Male,0,No,43,Yes,Yes,Fiber optic,One year,75,No,3,Loyal Premium Customers
 Female,1,No,66,Yes,Yes,Fiber optic,Two year,103,No,3,Loyal Premium Customers
 Male,0,Yes,10,Yes,Yes,Fiber optic,Month-to-month,25,No,0,New Budget Customers
 Male,0,No,35,Yes,No,Fiber optic,Month-to-month,102,Yes,3,Loyal Premium Customers
-Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,29,Yes,Yes,Fiber optic,Two year,49,No,0,New Budget Customers
 Female,0,Yes,50,Yes,No,Fiber optic,Month-to-month,70,No,3,Loyal Premium Customers
 Female,0,No,1,Yes,No,DSL,One year,75,Yes,1,At-Risk New Premium Customers
@@ -2713,7 +2658,6 @@ Female,0,No,15,Yes,No,DSL,One year,49,Yes,0,New Budget Customers
 Female,0,No,72,Yes,No,Fiber optic,One year,84,No,3,Loyal Premium Customers
 Female,1,No,43,No,No,DSL,Month-to-month,56,Yes,2,Loyal Budget Customers
 Female,1,No,25,Yes,No,DSL,Month-to-month,98,Yes,1,At-Risk New Premium Customers
-Female,0,No,2,Yes,Yes,Fiber optic,Two year,20,No,0,New Budget Customers
 Female,0,No,5,Yes,Yes,DSL,Month-to-month,44,No,0,New Budget Customers
 Male,0,Yes,15,Yes,No,DSL,Month-to-month,60,No,1,At-Risk New Premium Customers
 Male,0,Yes,11,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
@@ -2748,7 +2692,6 @@ Female,0,Yes,3,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,1,Yes,No,DSL,Two year,69,Yes,1,At-Risk New Premium Customers
 Male,0,No,11,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,3,Yes,No,DSL,Month-to-month,65,No,1,At-Risk New Premium Customers
-Female,0,No,1,Yes,Yes,DSL,One year,20,No,0,New Budget Customers
 Male,0,Yes,68,Yes,No,DSL,One year,20,No,2,Loyal Budget Customers
 Male,0,Yes,53,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Female,1,No,60,Yes,No,DSL,Month-to-month,101,No,3,Loyal Premium Customers
@@ -2762,7 +2705,7 @@ Male,1,No,64,Yes,No,DSL,Month-to-month,80,No,3,Loyal Premium Customers
 Male,0,Yes,58,Yes,No,DSL,One year,93,No,3,Loyal Premium Customers
 Female,1,No,5,Yes,No,DSL,Month-to-month,83,Yes,1,At-Risk New Premium Customers
 Male,0,No,31,Yes,No,Fiber optic,Two year,59,No,1,At-Risk New Premium Customers
-Female,0,No,35,Yes,No,Fiber optic,Month-to-month,100,Yes,3,Loyal Premium Customers
+Female,0,No,35,Yes,No,Fiber optic,Month-to-month,100,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,5,Yes,Yes,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,16,Yes,No,Fiber optic,Month-to-month,70,No,1,At-Risk New Premium Customers
 Female,1,No,72,Yes,Yes,Fiber optic,One year,106,No,3,Loyal Premium Customers
@@ -2776,11 +2719,9 @@ Female,1,No,4,Yes,No,DSL,Month-to-month,75,Yes,1,At-Risk New Premium Customers
 Male,1,No,23,Yes,No,DSL,Month-to-month,87,No,1,At-Risk New Premium Customers
 Male,1,No,6,Yes,Yes,DSL,One year,80,No,1,At-Risk New Premium Customers
 Male,0,No,12,Yes,No,Fiber optic,Month-to-month,75,No,1,At-Risk New Premium Customers
-Female,0,No,10,Yes,No,DSL,Month-to-month,21,No,0,New Budget Customers
 Male,0,No,12,Yes,No,Fiber optic,One year,85,No,1,At-Risk New Premium Customers
 Male,0,Yes,22,Yes,Yes,Fiber optic,Month-to-month,68,Yes,1,At-Risk New Premium Customers
 Female,0,No,47,Yes,No,DSL,One year,75,No,3,Loyal Premium Customers
-Female,0,No,24,Yes,No,DSL,Month-to-month,99,Yes,1,At-Risk New Premium Customers
 Female,0,No,34,Yes,Yes,DSL,Two year,64,Yes,1,At-Risk New Premium Customers
 Male,1,No,9,Yes,Yes,Fiber optic,Month-to-month,21,No,0,New Budget Customers
 Male,0,Yes,28,Yes,No,Fiber optic,Month-to-month,75,Yes,1,At-Risk New Premium Customers
@@ -2790,9 +2731,8 @@ Female,1,No,27,Yes,Yes,DSL,Two year,110,No,1,At-Risk New Premium Customers
 Female,0,Yes,2,Yes,Yes,Fiber optic,One year,20,No,0,New Budget Customers
 Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,19,No,0,New Budget Customers
 Male,0,No,65,Yes,Yes,Fiber optic,Two year,90,Yes,3,Loyal Premium Customers
-Female,0,No,28,Yes,No,DSL,Two year,54,No,1,At-Risk New Premium Customers
+Female,0,No,28,Yes,No,DSL,Two year,54,No,0,New Budget Customers
 Male,0,No,12,Yes,No,DSL,Month-to-month,84,Yes,1,At-Risk New Premium Customers
-Female,1,No,1,Yes,Yes,Fiber optic,Month-to-month,70,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,27,Yes,No,DSL,Month-to-month,80,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,66,Yes,Yes,Fiber optic,Month-to-month,25,No,2,Loyal Budget Customers
 Female,0,No,72,Yes,Yes,Fiber optic,Month-to-month,60,No,2,Loyal Budget Customers
@@ -2859,7 +2799,6 @@ Female,0,No,9,No,Yes,DSL,Month-to-month,58,Yes,0,New Budget Customers
 Female,0,Yes,41,Yes,No,DSL,Two year,78,No,3,Loyal Premium Customers
 Female,1,No,71,Yes,No,DSL,Month-to-month,83,No,3,Loyal Premium Customers
 Male,0,No,72,Yes,Yes,DSL,Two year,111,No,3,Loyal Premium Customers
-Female,0,No,72,Yes,Yes,Fiber optic,Month-to-month,110,No,3,Loyal Premium Customers
 Male,1,No,12,Yes,No,Fiber optic,Month-to-month,84,Yes,1,At-Risk New Premium Customers
 Male,0,No,55,Yes,No,Fiber optic,Month-to-month,64,No,3,Loyal Premium Customers
 Male,0,No,72,Yes,No,DSL,Month-to-month,104,No,3,Loyal Premium Customers
@@ -2887,7 +2826,7 @@ Male,1,Yes,46,Yes,Yes,DSL,Two year,101,Yes,3,Loyal Premium Customers
 Female,0,Yes,6,Yes,Yes,Fiber optic,Two year,49,No,0,New Budget Customers
 Female,0,No,6,Yes,No,Fiber optic,Month-to-month,89,No,1,At-Risk New Premium Customers
 Female,0,No,47,Yes,No,DSL,Month-to-month,27,No,2,Loyal Budget Customers
-Male,0,No,36,Yes,No,Fiber optic,Month-to-month,94,No,3,Loyal Premium Customers
+Male,0,No,36,Yes,No,Fiber optic,Month-to-month,94,No,1,At-Risk New Premium Customers
 Male,0,No,8,Yes,No,DSL,One year,95,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,40,No,No,Fiber optic,Month-to-month,60,No,2,Loyal Budget Customers
 Male,0,No,61,Yes,No,Fiber optic,Month-to-month,104,No,3,Loyal Premium Customers
@@ -2895,7 +2834,7 @@ Male,0,No,72,Yes,No,DSL,Month-to-month,98,No,3,Loyal Premium Customers
 Female,1,No,39,Yes,Yes,DSL,Month-to-month,99,No,3,Loyal Premium Customers
 Male,0,No,8,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Male,0,No,1,Yes,No,DSL,One year,89,Yes,1,At-Risk New Premium Customers
-Female,0,No,33,No,No,DSL,One year,60,No,1,At-Risk New Premium Customers
+Female,0,No,33,No,No,DSL,One year,60,No,2,Loyal Budget Customers
 Female,0,Yes,31,Yes,Yes,DSL,Two year,87,Yes,1,At-Risk New Premium Customers
 Female,0,No,9,Yes,No,DSL,Two year,89,Yes,1,At-Risk New Premium Customers
 Female,0,No,70,Yes,No,DSL,Two year,20,No,2,Loyal Budget Customers
@@ -2977,7 +2916,6 @@ Female,0,No,60,No,Yes,Fiber optic,Month-to-month,51,Yes,2,Loyal Budget Customers
 Male,0,Yes,10,Yes,No,DSL,Month-to-month,95,Yes,1,At-Risk New Premium Customers
 Female,0,No,9,Yes,Yes,DSL,Month-to-month,60,No,1,At-Risk New Premium Customers
 Female,0,No,24,Yes,No,DSL,Month-to-month,69,No,1,At-Risk New Premium Customers
-Male,0,No,18,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,Yes,72,Yes,No,DSL,One year,116,No,3,Loyal Premium Customers
 Female,0,Yes,64,Yes,Yes,DSL,Two year,87,No,3,Loyal Premium Customers
 Male,0,No,2,Yes,No,DSL,Two year,19,No,0,New Budget Customers
@@ -3011,7 +2949,7 @@ Male,1,No,44,Yes,No,DSL,One year,74,No,3,Loyal Premium Customers
 Male,0,No,44,Yes,Yes,DSL,Month-to-month,101,Yes,3,Loyal Premium Customers
 Female,0,No,70,Yes,Yes,Fiber optic,Month-to-month,90,No,3,Loyal Premium Customers
 Female,0,No,6,Yes,No,DSL,Two year,105,Yes,1,At-Risk New Premium Customers
-Female,0,No,33,Yes,Yes,DSL,Two year,51,No,2,Loyal Budget Customers
+Female,0,No,33,Yes,Yes,DSL,Two year,51,No,0,New Budget Customers
 Female,0,No,11,Yes,Yes,DSL,One year,20,No,0,New Budget Customers
 Female,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,24,No,2,Loyal Budget Customers
 Female,0,No,9,Yes,No,DSL,Two year,80,No,1,At-Risk New Premium Customers
@@ -3052,7 +2990,6 @@ Male,0,Yes,33,Yes,No,DSL,Month-to-month,19,No,2,Loyal Budget Customers
 Female,0,Yes,67,No,No,Fiber optic,Month-to-month,54,No,2,Loyal Budget Customers
 Female,0,Yes,71,Yes,Yes,DSL,Two year,82,No,3,Loyal Premium Customers
 Male,0,No,59,Yes,Yes,DSL,Month-to-month,65,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,Yes,Fiber optic,Two year,20,No,0,New Budget Customers
 Female,0,No,57,Yes,Yes,Fiber optic,One year,75,No,3,Loyal Premium Customers
 Female,0,Yes,1,Yes,Yes,Fiber optic,Month-to-month,59,Yes,0,New Budget Customers
 Male,0,No,9,Yes,Yes,DSL,Two year,99,No,1,At-Risk New Premium Customers
@@ -3063,14 +3000,11 @@ Female,0,No,5,Yes,No,DSL,One year,80,No,1,At-Risk New Premium Customers
 Male,0,No,22,Yes,Yes,Fiber optic,Month-to-month,95,No,1,At-Risk New Premium Customers
 Male,0,Yes,35,Yes,No,DSL,Month-to-month,25,No,2,Loyal Budget Customers
 Male,0,No,12,Yes,Yes,Fiber optic,Month-to-month,80,No,1,At-Risk New Premium Customers
-Female,0,Yes,28,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,67,Yes,Yes,Fiber optic,Month-to-month,104,Yes,3,Loyal Premium Customers
 Male,0,Yes,72,Yes,No,Fiber optic,Month-to-month,98,No,3,Loyal Premium Customers
 Male,0,No,38,Yes,Yes,Fiber optic,One year,111,No,3,Loyal Premium Customers
 Male,0,No,14,Yes,No,DSL,Month-to-month,49,No,0,New Budget Customers
 Male,0,No,47,Yes,No,DSL,Month-to-month,87,No,3,Loyal Premium Customers
-Male,0,Yes,63,Yes,Yes,DSL,Two year,25,No,2,Loyal Budget Customers
 Female,0,No,37,No,Yes,DSL,One year,29,Yes,2,Loyal Budget Customers
 Female,1,No,1,Yes,No,DSL,Two year,74,Yes,1,At-Risk New Premium Customers
 Female,0,No,37,Yes,Yes,DSL,Month-to-month,20,No,2,Loyal Budget Customers
@@ -3093,7 +3027,7 @@ Male,0,No,5,Yes,No,DSL,Month-to-month,47,Yes,0,New Budget Customers
 Male,0,No,1,Yes,No,DSL,One year,54,Yes,0,New Budget Customers
 Male,0,Yes,68,Yes,No,DSL,Month-to-month,80,No,3,Loyal Premium Customers
 Female,0,No,38,Yes,No,DSL,One year,84,Yes,1,At-Risk New Premium Customers
-Female,1,No,16,Yes,No,DSL,One year,54,No,1,At-Risk New Premium Customers
+Female,1,No,16,Yes,No,DSL,One year,54,No,0,New Budget Customers
 Female,0,No,67,Yes,No,Fiber optic,Month-to-month,72,No,3,Loyal Premium Customers
 Male,0,No,72,Yes,No,DSL,Two year,117,No,3,Loyal Premium Customers
 Female,0,No,21,Yes,No,DSL,Month-to-month,69,No,1,At-Risk New Premium Customers
@@ -3103,7 +3037,6 @@ Male,0,Yes,69,Yes,Yes,Fiber optic,Month-to-month,99,No,3,Loyal Premium Customers
 Male,1,No,2,Yes,Yes,Fiber optic,Month-to-month,94,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,70,Yes,No,DSL,Month-to-month,98,Yes,3,Loyal Premium Customers
 Female,0,Yes,1,Yes,No,DSL,Month-to-month,21,Yes,0,New Budget Customers
-Male,0,No,2,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,11,Yes,No,DSL,Month-to-month,91,No,1,At-Risk New Premium Customers
 Female,0,No,13,Yes,No,DSL,Two year,97,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,60,Yes,Yes,Fiber optic,Two year,20,No,2,Loyal Budget Customers
@@ -3147,7 +3080,6 @@ Female,0,No,1,Yes,No,DSL,Month-to-month,21,Yes,0,New Budget Customers
 Female,0,No,29,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,25,Yes,No,Fiber optic,Month-to-month,25,Yes,0,New Budget Customers
 Female,0,No,68,Yes,No,Fiber optic,Month-to-month,54,No,2,Loyal Budget Customers
-Male,0,No,2,Yes,No,Fiber optic,Month-to-month,70,No,1,At-Risk New Premium Customers
 Female,0,Yes,42,Yes,No,DSL,Month-to-month,78,Yes,3,Loyal Premium Customers
 Female,0,Yes,6,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,18,Yes,No,Fiber optic,Month-to-month,101,No,1,At-Risk New Premium Customers
@@ -3164,7 +3096,7 @@ Female,0,Yes,72,Yes,No,DSL,One year,93,No,3,Loyal Premium Customers
 Female,0,No,18,Yes,Yes,DSL,Month-to-month,50,No,0,New Budget Customers
 Female,1,No,18,Yes,Yes,Fiber optic,Month-to-month,50,No,0,New Budget Customers
 Female,0,No,71,No,No,Fiber optic,Month-to-month,61,No,2,Loyal Budget Customers
-Female,0,No,30,Yes,No,DSL,One year,55,No,1,At-Risk New Premium Customers
+Female,0,No,30,Yes,No,DSL,One year,55,No,0,New Budget Customers
 Male,0,Yes,28,No,No,DSL,Month-to-month,60,No,0,New Budget Customers
 Female,0,No,37,Yes,No,DSL,Two year,79,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,18,Yes,No,DSL,One year,20,No,0,New Budget Customers
@@ -3206,7 +3138,6 @@ Female,0,No,1,Yes,Yes,DSL,Two year,20,Yes,0,New Budget Customers
 Female,0,No,29,No,No,DSL,One year,25,Yes,0,New Budget Customers
 Female,0,Yes,51,Yes,Yes,Fiber optic,Two year,95,No,3,Loyal Premium Customers
 Male,0,No,58,Yes,No,DSL,Month-to-month,70,No,3,Loyal Premium Customers
-Female,0,No,72,Yes,No,DSL,Month-to-month,108,No,3,Loyal Premium Customers
 Male,0,Yes,4,No,Yes,DSL,One year,39,No,0,New Budget Customers
 Female,0,Yes,64,Yes,Yes,Fiber optic,Month-to-month,111,No,3,Loyal Premium Customers
 Male,1,No,68,Yes,No,DSL,One year,80,No,3,Loyal Premium Customers
@@ -3226,7 +3157,6 @@ Female,0,No,15,Yes,No,DSL,Month-to-month,49,No,0,New Budget Customers
 Female,1,No,8,Yes,Yes,DSL,Month-to-month,94,Yes,1,At-Risk New Premium Customers
 Female,1,No,3,No,No,DSL,Month-to-month,25,Yes,0,New Budget Customers
 Female,1,No,55,Yes,No,DSL,Month-to-month,90,No,3,Loyal Premium Customers
-Female,0,No,1,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,1,No,16,Yes,Yes,Fiber optic,One year,72,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,39,Yes,Yes,Fiber optic,Month-to-month,80,Yes,3,Loyal Premium Customers
 Female,0,No,10,Yes,No,DSL,Two year,95,Yes,1,At-Risk New Premium Customers
@@ -3297,7 +3227,6 @@ Male,0,Yes,25,Yes,No,Fiber optic,Month-to-month,62,No,1,At-Risk New Premium Cust
 Female,0,Yes,19,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
 Male,0,Yes,71,Yes,No,DSL,Month-to-month,85,No,3,Loyal Premium Customers
 Male,0,No,36,Yes,Yes,DSL,Two year,20,No,2,Loyal Budget Customers
-Male,0,No,16,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,25,Yes,Yes,Fiber optic,One year,25,Yes,0,New Budget Customers
 Female,0,No,59,Yes,No,DSL,One year,81,No,3,Loyal Premium Customers
 Male,0,Yes,71,Yes,No,Fiber optic,Month-to-month,24,No,2,Loyal Budget Customers
@@ -3321,7 +3250,6 @@ Female,0,No,29,Yes,No,DSL,Month-to-month,79,Yes,1,At-Risk New Premium Customers
 Female,0,No,72,Yes,No,DSL,Month-to-month,116,No,3,Loyal Premium Customers
 Female,0,No,16,Yes,No,DSL,Month-to-month,85,Yes,1,At-Risk New Premium Customers
 Male,0,No,2,Yes,Yes,DSL,Two year,80,No,1,At-Risk New Premium Customers
-Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,Yes,0,New Budget Customers
 Male,0,No,68,Yes,No,DSL,Month-to-month,71,No,3,Loyal Premium Customers
 Male,1,No,33,Yes,No,Fiber optic,Month-to-month,25,No,0,New Budget Customers
 Female,0,Yes,61,Yes,Yes,Fiber optic,Month-to-month,19,Yes,2,Loyal Budget Customers
@@ -3331,19 +3259,15 @@ Male,0,Yes,13,No,No,Fiber optic,Month-to-month,41,No,0,New Budget Customers
 Female,0,No,21,Yes,No,DSL,Month-to-month,86,Yes,1,At-Risk New Premium Customers
 Female,1,No,62,Yes,Yes,Fiber optic,Month-to-month,105,No,3,Loyal Premium Customers
 Female,0,No,29,Yes,No,DSL,Two year,25,No,0,New Budget Customers
-Male,1,No,70,Yes,No,DSL,Month-to-month,105,No,3,Loyal Premium Customers
 Male,0,Yes,38,Yes,No,DSL,Two year,101,No,3,Loyal Premium Customers
 Female,1,No,31,Yes,Yes,Fiber optic,Month-to-month,74,Yes,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,Yes,DSL,Month-to-month,70,Yes,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,No,DSL,Two year,44,Yes,0,New Budget Customers
 Male,0,Yes,71,Yes,Yes,Fiber optic,Month-to-month,66,No,3,Loyal Premium Customers
 Male,0,Yes,4,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
-Female,0,No,2,Yes,Yes,DSL,Two year,81,Yes,1,At-Risk New Premium Customers
 Female,0,No,4,Yes,Yes,Fiber optic,Month-to-month,64,No,1,At-Risk New Premium Customers
 Female,0,No,69,Yes,No,DSL,Month-to-month,99,No,3,Loyal Premium Customers
 Male,0,No,64,Yes,No,DSL,One year,81,No,3,Loyal Premium Customers
 Male,0,No,60,Yes,No,DSL,One year,79,No,3,Loyal Premium Customers
-Female,1,No,1,Yes,Yes,Fiber optic,Month-to-month,70,Yes,1,At-Risk New Premium Customers
 Male,0,No,63,Yes,Yes,Fiber optic,One year,105,No,3,Loyal Premium Customers
 Male,0,No,35,Yes,Yes,Fiber optic,Month-to-month,19,No,2,Loyal Budget Customers
 Male,1,No,17,Yes,No,DSL,Two year,76,Yes,1,At-Risk New Premium Customers
@@ -3376,12 +3300,10 @@ Female,0,No,68,Yes,Yes,Fiber optic,Month-to-month,115,No,3,Loyal Premium Custome
 Female,0,No,64,Yes,No,DSL,Month-to-month,74,No,3,Loyal Premium Customers
 Female,0,Yes,72,Yes,No,DSL,Two year,103,No,3,Loyal Premium Customers
 Female,1,No,8,Yes,No,DSL,Month-to-month,84,Yes,1,At-Risk New Premium Customers
-Male,0,No,72,Yes,Yes,DSL,Two year,116,No,3,Loyal Premium Customers
 Male,0,No,1,Yes,No,DSL,Two year,46,No,0,New Budget Customers
 Male,0,Yes,69,Yes,No,DSL,Month-to-month,95,No,3,Loyal Premium Customers
 Female,0,No,56,Yes,Yes,Fiber optic,Month-to-month,80,No,3,Loyal Premium Customers
 Male,0,No,9,Yes,No,DSL,One year,65,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,Yes,DSL,Two year,70,Yes,1,At-Risk New Premium Customers
 Female,0,No,59,Yes,Yes,Fiber optic,Month-to-month,80,No,3,Loyal Premium Customers
 Female,0,No,12,Yes,No,Fiber optic,Month-to-month,80,No,1,At-Risk New Premium Customers
 Male,0,Yes,4,Yes,Yes,Fiber optic,Month-to-month,85,Yes,1,At-Risk New Premium Customers
@@ -3389,7 +3311,7 @@ Female,1,No,3,Yes,Yes,DSL,One year,70,Yes,1,At-Risk New Premium Customers
 Male,0,No,1,Yes,No,DSL,Month-to-month,51,No,0,New Budget Customers
 Male,0,No,29,Yes,No,DSL,Month-to-month,99,No,1,At-Risk New Premium Customers
 Female,0,No,71,Yes,No,Fiber optic,Month-to-month,84,No,3,Loyal Premium Customers
-Female,0,Yes,23,Yes,No,DSL,One year,58,No,1,At-Risk New Premium Customers
+Female,0,Yes,23,Yes,No,DSL,One year,58,No,0,New Budget Customers
 Male,0,Yes,6,Yes,No,DSL,Month-to-month,26,No,0,New Budget Customers
 Female,0,Yes,37,Yes,No,DSL,One year,19,No,2,Loyal Budget Customers
 Male,0,No,24,Yes,Yes,Fiber optic,Two year,74,No,1,At-Risk New Premium Customers
@@ -3410,7 +3332,6 @@ Male,1,No,5,No,No,DSL,Two year,45,No,0,New Budget Customers
 Male,0,Yes,48,Yes,No,DSL,Month-to-month,26,No,2,Loyal Budget Customers
 Female,1,No,7,Yes,Yes,Fiber optic,Two year,65,No,1,At-Risk New Premium Customers
 Female,0,No,44,No,No,DSL,Month-to-month,49,No,2,Loyal Budget Customers
-Female,0,No,2,Yes,Yes,Fiber optic,Month-to-month,76,Yes,1,At-Risk New Premium Customers
 Female,0,No,4,Yes,No,DSL,Two year,77,Yes,1,At-Risk New Premium Customers
 Male,0,No,37,Yes,No,Fiber optic,Month-to-month,99,Yes,3,Loyal Premium Customers
 Female,0,No,13,Yes,No,DSL,Two year,19,No,0,New Budget Customers
@@ -3423,7 +3344,6 @@ Male,0,No,33,Yes,Yes,DSL,Month-to-month,66,No,1,At-Risk New Premium Customers
 Female,0,No,22,No,Yes,Fiber optic,Two year,51,No,0,New Budget Customers
 Male,0,No,35,Yes,No,DSL,Two year,89,No,1,At-Risk New Premium Customers
 Female,0,No,4,Yes,No,DSL,Month-to-month,21,Yes,0,New Budget Customers
-Male,0,No,1,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,36,Yes,No,Fiber optic,One year,21,No,2,Loyal Budget Customers
 Male,0,Yes,25,Yes,No,Fiber optic,Month-to-month,54,No,0,New Budget Customers
 Female,0,No,3,Yes,Yes,Fiber optic,Month-to-month,71,No,1,At-Risk New Premium Customers
@@ -3437,7 +3357,6 @@ Female,0,Yes,63,Yes,No,DSL,One year,19,No,2,Loyal Budget Customers
 Male,0,Yes,5,Yes,No,Fiber optic,Month-to-month,49,No,0,New Budget Customers
 Male,1,No,44,No,No,DSL,One year,30,Yes,2,Loyal Budget Customers
 Female,1,No,16,Yes,Yes,DSL,One year,96,Yes,1,At-Risk New Premium Customers
-Male,0,No,20,Yes,Yes,Fiber optic,Month-to-month,64,No,1,At-Risk New Premium Customers
 Female,0,No,30,Yes,Yes,Fiber optic,Two year,106,No,1,At-Risk New Premium Customers
 Female,0,No,55,Yes,Yes,DSL,Two year,45,No,2,Loyal Budget Customers
 Female,1,Yes,61,Yes,No,DSL,One year,65,No,3,Loyal Premium Customers
@@ -3446,7 +3365,6 @@ Female,0,No,54,Yes,No,Fiber optic,One year,94,No,3,Loyal Premium Customers
 Male,0,No,10,Yes,No,DSL,One year,70,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,40,Yes,Yes,Fiber optic,One year,55,Yes,2,Loyal Budget Customers
 Female,0,Yes,51,Yes,Yes,Fiber optic,One year,79,No,3,Loyal Premium Customers
-Male,0,Yes,72,Yes,Yes,Fiber optic,One year,106,No,3,Loyal Premium Customers
 Male,0,No,64,Yes,No,DSL,Month-to-month,99,No,3,Loyal Premium Customers
 Male,0,No,72,Yes,Yes,Fiber optic,One year,26,No,2,Loyal Budget Customers
 Female,0,Yes,53,Yes,Yes,Fiber optic,One year,20,No,2,Loyal Budget Customers
@@ -3464,7 +3382,6 @@ Male,0,No,47,Yes,No,DSL,Month-to-month,110,Yes,3,Loyal Premium Customers
 Female,0,Yes,28,Yes,Yes,Fiber optic,Month-to-month,50,No,0,New Budget Customers
 Male,0,No,3,No,Yes,Fiber optic,Month-to-month,30,No,0,New Budget Customers
 Male,1,Yes,50,Yes,No,Fiber optic,Month-to-month,75,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,70,Yes,1,At-Risk New Premium Customers
 Male,0,No,2,Yes,Yes,DSL,Two year,95,Yes,1,At-Risk New Premium Customers
 Male,0,No,2,Yes,No,Fiber optic,Month-to-month,71,No,1,At-Risk New Premium Customers
 Female,0,No,70,Yes,No,DSL,Month-to-month,110,Yes,3,Loyal Premium Customers
@@ -3473,7 +3390,6 @@ Male,1,No,65,Yes,No,DSL,Month-to-month,104,No,3,Loyal Premium Customers
 Male,0,No,1,Yes,No,DSL,One year,91,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,13,No,Yes,Fiber optic,Month-to-month,30,No,0,New Budget Customers
 Female,0,No,10,Yes,Yes,Fiber optic,Month-to-month,98,Yes,1,At-Risk New Premium Customers
-Female,0,Yes,55,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Female,0,No,7,Yes,No,DSL,One year,71,Yes,1,At-Risk New Premium Customers
 Male,0,No,3,Yes,Yes,Fiber optic,One year,19,No,0,New Budget Customers
 Male,0,No,46,No,Yes,Fiber optic,Month-to-month,34,No,2,Loyal Budget Customers
@@ -3491,7 +3407,6 @@ Male,0,Yes,6,Yes,Yes,DSL,Month-to-month,70,No,1,At-Risk New Premium Customers
 Female,0,Yes,33,Yes,Yes,DSL,One year,24,Yes,2,Loyal Budget Customers
 Female,0,Yes,17,Yes,No,DSL,Month-to-month,24,Yes,0,New Budget Customers
 Male,0,Yes,49,Yes,No,DSL,One year,60,No,2,Loyal Budget Customers
-Male,0,No,72,Yes,No,DSL,Month-to-month,82,No,3,Loyal Premium Customers
 Male,1,No,17,Yes,No,DSL,Month-to-month,100,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,15,Yes,Yes,Fiber optic,Month-to-month,65,No,1,At-Risk New Premium Customers
 Male,0,Yes,8,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
@@ -3520,7 +3435,6 @@ Male,0,Yes,1,Yes,No,Fiber optic,One year,68,Yes,1,At-Risk New Premium Customers
 Female,0,No,34,Yes,No,DSL,Month-to-month,63,Yes,1,At-Risk New Premium Customers
 Male,0,No,49,Yes,Yes,Fiber optic,Month-to-month,66,No,3,Loyal Premium Customers
 Female,0,Yes,23,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
-Male,0,Yes,71,Yes,No,DSL,One year,20,No,2,Loyal Budget Customers
 Female,0,Yes,46,Yes,No,DSL,One year,85,No,3,Loyal Premium Customers
 Male,0,Yes,50,Yes,Yes,Fiber optic,Two year,108,No,3,Loyal Premium Customers
 Male,0,No,1,No,Yes,Fiber optic,Month-to-month,45,Yes,0,New Budget Customers
@@ -3571,23 +3485,19 @@ Female,0,Yes,10,Yes,No,Fiber optic,Month-to-month,66,No,1,At-Risk New Premium Cu
 Female,0,No,21,Yes,No,DSL,One year,86,No,1,At-Risk New Premium Customers
 Female,0,No,13,Yes,No,DSL,Two year,94,Yes,1,At-Risk New Premium Customers
 Male,0,No,51,Yes,No,DSL,Month-to-month,75,No,3,Loyal Premium Customers
-Male,0,No,25,Yes,No,Fiber optic,Month-to-month,21,No,0,New Budget Customers
 Female,0,Yes,71,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
-Female,0,No,3,Yes,No,DSL,Month-to-month,75,No,1,At-Risk New Premium Customers
 Male,0,No,1,Yes,No,DSL,Month-to-month,80,Yes,1,At-Risk New Premium Customers
 Male,1,No,65,Yes,Yes,DSL,One year,99,No,3,Loyal Premium Customers
 Male,0,Yes,65,Yes,No,DSL,One year,72,Yes,3,Loyal Premium Customers
 Female,0,No,64,Yes,No,DSL,Month-to-month,24,No,2,Loyal Budget Customers
 Male,0,No,38,Yes,Yes,Fiber optic,Month-to-month,71,No,1,At-Risk New Premium Customers
 Female,0,No,56,Yes,No,DSL,Month-to-month,110,No,3,Loyal Premium Customers
-Female,0,Yes,72,Yes,No,DSL,Two year,20,No,2,Loyal Budget Customers
 Female,0,Yes,9,Yes,No,Fiber optic,Month-to-month,69,No,1,At-Risk New Premium Customers
 Female,0,No,38,Yes,No,DSL,One year,20,No,2,Loyal Budget Customers
 Male,0,Yes,44,Yes,No,Fiber optic,Month-to-month,55,No,2,Loyal Budget Customers
 Male,0,No,71,Yes,No,Fiber optic,One year,80,No,3,Loyal Premium Customers
 Female,0,No,57,Yes,No,DSL,Month-to-month,100,No,3,Loyal Premium Customers
 Female,0,No,43,No,Yes,Fiber optic,Month-to-month,49,Yes,2,Loyal Budget Customers
-Female,0,No,17,Yes,Yes,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,7,Yes,Yes,DSL,Month-to-month,87,Yes,1,At-Risk New Premium Customers
 Female,0,No,2,Yes,No,DSL,One year,80,Yes,1,At-Risk New Premium Customers
 Male,0,No,50,Yes,No,Fiber optic,Month-to-month,25,No,2,Loyal Budget Customers
@@ -3630,7 +3540,6 @@ Male,1,No,27,No,No,DSL,One year,31,Yes,0,New Budget Customers
 Male,0,Yes,57,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Female,0,Yes,1,Yes,Yes,DSL,Two year,74,Yes,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,No,DSL,Month-to-month,92,Yes,1,At-Risk New Premium Customers
-Female,0,No,37,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Male,1,Yes,72,No,Yes,Fiber optic,Month-to-month,65,No,3,Loyal Premium Customers
 Female,0,Yes,31,Yes,No,Fiber optic,Month-to-month,91,Yes,1,At-Risk New Premium Customers
 Female,0,No,52,Yes,Yes,Fiber optic,Two year,59,No,2,Loyal Budget Customers
@@ -3648,7 +3557,6 @@ Female,0,Yes,18,No,No,DSL,Month-to-month,35,Yes,0,New Budget Customers
 Male,1,No,11,Yes,No,Fiber optic,One year,60,No,1,At-Risk New Premium Customers
 Female,0,No,9,Yes,No,Fiber optic,Month-to-month,85,No,1,At-Risk New Premium Customers
 Male,1,No,10,Yes,Yes,Fiber optic,One year,79,Yes,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
 Female,1,No,26,Yes,Yes,DSL,Two year,85,Yes,1,At-Risk New Premium Customers
 Male,0,No,7,Yes,No,DSL,Two year,44,No,0,New Budget Customers
 Female,0,No,46,Yes,No,DSL,Month-to-month,104,No,3,Loyal Premium Customers
@@ -3657,7 +3565,7 @@ Male,0,No,1,Yes,No,Fiber optic,Month-to-month,70,Yes,1,At-Risk New Premium Custo
 Female,1,No,40,No,No,DSL,Month-to-month,56,Yes,2,Loyal Budget Customers
 Male,0,Yes,49,Yes,No,DSL,Two year,75,Yes,3,Loyal Premium Customers
 Male,0,No,68,Yes,Yes,DSL,Two year,108,Yes,3,Loyal Premium Customers
-Female,0,Yes,18,Yes,No,DSL,Month-to-month,58,No,1,At-Risk New Premium Customers
+Female,0,Yes,18,Yes,No,DSL,Month-to-month,58,No,0,New Budget Customers
 Female,1,No,28,Yes,Yes,Fiber optic,One year,106,Yes,1,At-Risk New Premium Customers
 Female,0,No,72,Yes,No,DSL,One year,101,No,3,Loyal Premium Customers
 Female,0,No,62,Yes,No,Fiber optic,One year,85,No,3,Loyal Premium Customers
@@ -3701,7 +3609,6 @@ Female,0,Yes,14,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,Yes,62,Yes,No,DSL,One year,100,Yes,3,Loyal Premium Customers
 Female,1,Yes,72,Yes,No,DSL,Month-to-month,90,No,3,Loyal Premium Customers
 Male,0,No,42,Yes,Yes,DSL,Two year,108,No,3,Loyal Premium Customers
-Female,0,No,2,Yes,Yes,Fiber optic,Month-to-month,70,No,1,At-Risk New Premium Customers
 Female,1,No,72,Yes,No,DSL,One year,26,No,2,Loyal Budget Customers
 Female,0,Yes,30,Yes,Yes,DSL,One year,25,No,0,New Budget Customers
 Male,0,No,40,Yes,Yes,DSL,Two year,97,Yes,3,Loyal Premium Customers
@@ -3723,10 +3630,10 @@ Female,0,Yes,50,Yes,No,DSL,Month-to-month,70,No,3,Loyal Premium Customers
 Male,0,No,49,Yes,No,DSL,Month-to-month,55,No,2,Loyal Budget Customers
 Male,1,No,43,Yes,No,DSL,One year,101,No,3,Loyal Premium Customers
 Male,0,Yes,8,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
-Female,0,Yes,2,Yes,Yes,DSL,One year,61,No,1,At-Risk New Premium Customers
+Female,0,Yes,2,Yes,Yes,DSL,One year,61,No,0,New Budget Customers
 Male,0,Yes,53,Yes,No,Fiber optic,Month-to-month,86,No,3,Loyal Premium Customers
 Female,0,No,64,Yes,Yes,Fiber optic,Month-to-month,97,No,3,Loyal Premium Customers
-Male,0,No,17,Yes,Yes,Fiber optic,Month-to-month,56,No,1,At-Risk New Premium Customers
+Male,0,No,17,Yes,Yes,Fiber optic,Month-to-month,56,No,0,New Budget Customers
 Male,0,No,53,Yes,Yes,DSL,One year,20,No,2,Loyal Budget Customers
 Male,0,No,1,Yes,No,DSL,Two year,51,No,0,New Budget Customers
 Female,0,Yes,48,Yes,Yes,Fiber optic,Month-to-month,100,No,3,Loyal Premium Customers
@@ -3737,12 +3644,10 @@ Female,0,Yes,32,Yes,Yes,Fiber optic,Two year,74,No,1,At-Risk New Premium Custome
 Male,1,No,41,Yes,Yes,Fiber optic,Month-to-month,95,No,3,Loyal Premium Customers
 Female,0,No,25,Yes,No,DSL,One year,100,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,22,Yes,Yes,DSL,Month-to-month,89,No,1,At-Risk New Premium Customers
-Female,0,No,72,Yes,No,DSL,Month-to-month,25,No,2,Loyal Budget Customers
 Male,0,No,24,Yes,Yes,DSL,One year,25,No,0,New Budget Customers
 Male,0,No,24,Yes,No,Fiber optic,Month-to-month,60,No,1,At-Risk New Premium Customers
 Female,1,No,64,Yes,Yes,Fiber optic,Two year,75,No,3,Loyal Premium Customers
 Male,0,No,3,Yes,Yes,Fiber optic,Month-to-month,108,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,50,No,0,New Budget Customers
 Male,1,No,63,Yes,No,Fiber optic,One year,109,No,3,Loyal Premium Customers
 Female,0,Yes,13,Yes,No,Fiber optic,Month-to-month,53,No,0,New Budget Customers
 Male,0,No,20,No,No,Fiber optic,Month-to-month,55,No,0,New Budget Customers
@@ -3750,13 +3655,12 @@ Female,0,Yes,54,Yes,Yes,DSL,Month-to-month,86,No,3,Loyal Premium Customers
 Female,0,Yes,38,Yes,No,DSL,Two year,20,No,2,Loyal Budget Customers
 Male,1,No,1,Yes,Yes,Fiber optic,Month-to-month,70,Yes,1,At-Risk New Premium Customers
 Male,0,No,67,No,No,DSL,One year,44,No,2,Loyal Budget Customers
-Male,0,No,55,Yes,Yes,Fiber optic,Month-to-month,97,Yes,3,Loyal Premium Customers
 Male,0,Yes,53,Yes,No,DSL,Two year,64,No,2,Loyal Budget Customers
 Female,0,Yes,29,Yes,No,DSL,Month-to-month,26,No,0,New Budget Customers
-Female,0,No,14,Yes,No,DSL,Month-to-month,56,No,1,At-Risk New Premium Customers
+Female,0,No,14,Yes,No,DSL,Month-to-month,56,No,0,New Budget Customers
 Female,0,No,48,Yes,Yes,Fiber optic,Month-to-month,60,Yes,2,Loyal Budget Customers
 Female,0,No,48,Yes,No,DSL,Month-to-month,70,No,3,Loyal Premium Customers
-Male,0,Yes,1,Yes,No,DSL,Two year,60,No,1,At-Risk New Premium Customers
+Male,0,Yes,1,Yes,No,DSL,Two year,60,No,0,New Budget Customers
 Male,0,Yes,44,Yes,No,DSL,Month-to-month,25,No,2,Loyal Budget Customers
 Male,0,Yes,45,Yes,Yes,Fiber optic,Month-to-month,96,No,3,Loyal Premium Customers
 Female,0,No,56,Yes,No,Fiber optic,Month-to-month,74,Yes,3,Loyal Premium Customers
@@ -3781,7 +3685,6 @@ Male,0,Yes,57,Yes,Yes,DSL,Month-to-month,90,No,3,Loyal Premium Customers
 Male,0,No,51,Yes,Yes,DSL,Two year,86,No,3,Loyal Premium Customers
 Male,0,No,1,Yes,No,DSL,Two year,44,Yes,0,New Budget Customers
 Male,0,No,3,Yes,No,DSL,One year,90,No,1,At-Risk New Premium Customers
-Male,0,Yes,1,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,15,No,Yes,Fiber optic,Month-to-month,46,No,0,New Budget Customers
 Male,0,No,52,Yes,Yes,Fiber optic,Month-to-month,80,No,3,Loyal Premium Customers
 Male,0,No,56,Yes,Yes,Fiber optic,Month-to-month,100,Yes,3,Loyal Premium Customers
@@ -3792,7 +3695,6 @@ Female,0,No,4,Yes,No,DSL,Month-to-month,51,No,0,New Budget Customers
 Male,0,Yes,72,Yes,No,DSL,One year,26,No,2,Loyal Budget Customers
 Female,0,No,40,Yes,No,Fiber optic,Month-to-month,106,No,3,Loyal Premium Customers
 Male,1,Yes,66,Yes,No,Fiber optic,Month-to-month,100,Yes,3,Loyal Premium Customers
-Male,0,Yes,1,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,1,No,19,Yes,No,DSL,Month-to-month,105,No,1,At-Risk New Premium Customers
 Male,0,No,42,Yes,No,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Male,0,Yes,34,Yes,Yes,DSL,Month-to-month,98,No,3,Loyal Premium Customers
@@ -3817,7 +3719,6 @@ Female,0,No,15,Yes,Yes,DSL,Two year,83,No,1,At-Risk New Premium Customers
 Male,0,No,64,Yes,Yes,Fiber optic,Month-to-month,102,No,3,Loyal Premium Customers
 Female,0,No,71,Yes,Yes,DSL,Two year,111,No,3,Loyal Premium Customers
 Male,0,No,63,Yes,No,DSL,Two year,69,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,Yes,Fiber optic,Two year,20,No,0,New Budget Customers
 Female,0,Yes,64,Yes,No,DSL,One year,104,No,3,Loyal Premium Customers
 Male,0,No,45,Yes,Yes,Fiber optic,Month-to-month,76,No,3,Loyal Premium Customers
 Female,0,No,4,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
@@ -3834,7 +3735,6 @@ Female,0,Yes,37,Yes,Yes,Fiber optic,One year,75,No,3,Loyal Premium Customers
 Male,1,No,4,Yes,Yes,DSL,One year,95,No,1,At-Risk New Premium Customers
 Female,0,Yes,28,Yes,Yes,DSL,Month-to-month,83,No,1,At-Risk New Premium Customers
 Female,0,No,37,No,No,DSL,One year,45,No,2,Loyal Budget Customers
-Male,0,No,8,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Male,0,Yes,1,Yes,Yes,DSL,One year,49,No,0,New Budget Customers
 Female,0,Yes,25,Yes,No,Fiber optic,One year,20,No,0,New Budget Customers
 Male,0,No,26,Yes,Yes,Fiber optic,Month-to-month,98,Yes,1,At-Risk New Premium Customers
@@ -3855,7 +3755,6 @@ Female,0,No,12,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,68,Yes,Yes,Fiber optic,Month-to-month,86,No,3,Loyal Premium Customers
 Male,0,No,10,Yes,Yes,Fiber optic,Month-to-month,86,Yes,1,At-Risk New Premium Customers
 Female,0,No,53,Yes,No,DSL,Month-to-month,95,Yes,3,Loyal Premium Customers
-Female,0,No,66,Yes,Yes,Fiber optic,Month-to-month,89,No,3,Loyal Premium Customers
 Male,0,No,27,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
 Female,1,Yes,34,Yes,No,DSL,One year,80,Yes,1,At-Risk New Premium Customers
 Female,1,No,11,Yes,Yes,Fiber optic,One year,85,Yes,1,At-Risk New Premium Customers
@@ -3878,7 +3777,6 @@ Female,0,Yes,10,Yes,Yes,Fiber optic,One year,55,Yes,0,New Budget Customers
 Female,0,No,40,Yes,Yes,Fiber optic,Month-to-month,64,No,1,At-Risk New Premium Customers
 Male,0,No,43,Yes,No,DSL,One year,66,No,3,Loyal Premium Customers
 Female,0,No,1,No,Yes,Fiber optic,Two year,30,No,0,New Budget Customers
-Male,0,No,9,Yes,No,DSL,Month-to-month,70,No,1,At-Risk New Premium Customers
 Female,1,No,1,Yes,Yes,DSL,One year,70,Yes,1,At-Risk New Premium Customers
 Female,0,No,19,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
 Female,0,No,9,Yes,No,DSL,Month-to-month,75,No,1,At-Risk New Premium Customers
@@ -3909,10 +3807,8 @@ Male,0,Yes,49,Yes,No,Fiber optic,Month-to-month,109,No,3,Loyal Premium Customers
 Female,0,No,26,Yes,No,Fiber optic,Month-to-month,82,No,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,Yes,Fiber optic,Two year,80,Yes,1,At-Risk New Premium Customers
 Female,0,No,62,Yes,No,DSL,Two year,114,No,3,Loyal Premium Customers
-Female,0,No,17,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,36,Yes,No,DSL,Month-to-month,95,No,1,At-Risk New Premium Customers
-Male,0,Yes,32,Yes,Yes,Fiber optic,Two year,20,No,2,Loyal Budget Customers
-Male,0,No,2,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
+Male,0,Yes,32,Yes,Yes,Fiber optic,Two year,20,No,0,New Budget Customers
 Female,0,Yes,30,Yes,No,DSL,One year,19,No,0,New Budget Customers
 Male,0,No,21,Yes,No,Fiber optic,One year,106,Yes,1,At-Risk New Premium Customers
 Male,0,No,66,Yes,No,Fiber optic,Month-to-month,106,Yes,3,Loyal Premium Customers
@@ -3949,7 +3845,6 @@ Male,0,No,51,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Male,0,No,2,Yes,No,DSL,Month-to-month,45,Yes,0,New Budget Customers
 Male,0,No,18,Yes,No,Fiber optic,One year,68,No,1,At-Risk New Premium Customers
 Female,0,No,51,Yes,Yes,DSL,Month-to-month,60,No,2,Loyal Budget Customers
-Female,0,No,9,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,15,Yes,Yes,DSL,Two year,100,No,1,At-Risk New Premium Customers
 Male,0,Yes,72,Yes,Yes,Fiber optic,Two year,106,No,3,Loyal Premium Customers
 Male,0,Yes,12,Yes,No,Fiber optic,Month-to-month,19,No,0,New Budget Customers
@@ -3980,7 +3875,6 @@ Female,1,No,23,Yes,No,Fiber optic,Two year,79,No,1,At-Risk New Premium Customers
 Female,0,Yes,22,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,71,Yes,Yes,DSL,Two year,101,No,3,Loyal Premium Customers
 Female,1,Yes,30,Yes,Yes,Fiber optic,Month-to-month,101,No,1,At-Risk New Premium Customers
-Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,45,Yes,0,New Budget Customers
 Female,0,No,20,Yes,Yes,DSL,Two year,19,No,0,New Budget Customers
 Male,0,No,1,Yes,No,DSL,Month-to-month,56,No,0,New Budget Customers
 Female,0,Yes,68,Yes,Yes,DSL,Two year,85,No,3,Loyal Premium Customers
@@ -4002,7 +3896,6 @@ Male,0,No,13,No,No,Fiber optic,Month-to-month,25,No,0,New Budget Customers
 Female,0,No,9,Yes,Yes,Fiber optic,Month-to-month,83,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,5,Yes,Yes,Fiber optic,Two year,81,No,1,At-Risk New Premium Customers
 Female,0,No,67,Yes,Yes,DSL,Two year,86,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,No,DSL,Two year,70,Yes,1,At-Risk New Premium Customers
 Male,0,No,4,Yes,Yes,DSL,Two year,75,Yes,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,Yes,DSL,Month-to-month,70,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,31,Yes,No,DSL,Two year,20,Yes,0,New Budget Customers
@@ -4053,9 +3946,7 @@ Male,0,Yes,67,Yes,Yes,Fiber optic,Month-to-month,80,Yes,3,Loyal Premium Customer
 Female,1,No,43,Yes,Yes,Fiber optic,Two year,94,No,3,Loyal Premium Customers
 Male,1,No,21,Yes,No,DSL,Month-to-month,87,No,1,At-Risk New Premium Customers
 Female,0,No,61,Yes,Yes,DSL,Month-to-month,106,No,3,Loyal Premium Customers
-Female,0,No,72,Yes,No,DSL,Month-to-month,25,No,2,Loyal Budget Customers
 Male,0,Yes,6,Yes,No,DSL,Two year,25,No,0,New Budget Customers
-Female,0,Yes,47,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Female,0,No,24,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
 Male,0,No,39,Yes,Yes,Fiber optic,Month-to-month,81,No,3,Loyal Premium Customers
 Female,0,Yes,65,Yes,No,DSL,Month-to-month,25,No,2,Loyal Budget Customers
@@ -4080,7 +3971,6 @@ Male,0,Yes,68,Yes,Yes,Fiber optic,Month-to-month,71,No,3,Loyal Premium Customers
 Female,0,Yes,47,No,No,DSL,One year,60,No,2,Loyal Budget Customers
 Male,1,No,47,Yes,Yes,Fiber optic,Month-to-month,86,Yes,3,Loyal Premium Customers
 Female,0,Yes,36,Yes,Yes,DSL,Two year,19,No,2,Loyal Budget Customers
-Male,0,No,9,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,Yes,61,Yes,Yes,DSL,One year,101,No,3,Loyal Premium Customers
 Male,0,No,72,Yes,Yes,Fiber optic,Month-to-month,79,No,3,Loyal Premium Customers
 Female,0,Yes,35,Yes,No,Fiber optic,Month-to-month,55,No,2,Loyal Budget Customers
@@ -4091,7 +3981,6 @@ Male,0,No,56,Yes,Yes,Fiber optic,Month-to-month,25,Yes,2,Loyal Budget Customers
 Male,1,No,26,Yes,Yes,Fiber optic,Month-to-month,94,No,1,At-Risk New Premium Customers
 Female,0,No,72,Yes,No,DSL,Month-to-month,80,No,3,Loyal Premium Customers
 Female,0,No,37,Yes,Yes,DSL,Month-to-month,65,No,1,At-Risk New Premium Customers
-Female,0,No,7,Yes,No,DSL,Month-to-month,75,Yes,1,At-Risk New Premium Customers
 Male,0,No,7,Yes,Yes,Fiber optic,Month-to-month,74,Yes,1,At-Risk New Premium Customers
 Male,0,No,69,Yes,No,Fiber optic,Month-to-month,79,Yes,3,Loyal Premium Customers
 Male,0,Yes,8,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
@@ -4110,7 +3999,6 @@ Male,0,Yes,72,Yes,Yes,Fiber optic,Two year,82,No,3,Loyal Premium Customers
 Female,0,No,1,Yes,No,DSL,One year,46,Yes,0,New Budget Customers
 Female,1,No,71,Yes,No,DSL,Month-to-month,89,No,3,Loyal Premium Customers
 Female,1,No,56,Yes,No,DSL,Two year,68,No,3,Loyal Premium Customers
-Female,0,Yes,3,Yes,No,DSL,One year,19,No,0,New Budget Customers
 Male,0,Yes,11,Yes,Yes,Fiber optic,Month-to-month,65,No,1,At-Risk New Premium Customers
 Female,0,No,60,Yes,No,DSL,One year,81,No,3,Loyal Premium Customers
 Female,1,No,42,Yes,No,DSL,Two year,105,No,3,Loyal Premium Customers
@@ -4143,14 +4031,11 @@ Male,0,Yes,6,Yes,Yes,Fiber optic,One year,49,No,0,New Budget Customers
 Female,0,No,72,Yes,No,DSL,Month-to-month,112,No,3,Loyal Premium Customers
 Female,0,Yes,60,No,No,DSL,One year,50,No,2,Loyal Budget Customers
 Male,0,Yes,0,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
-Female,0,No,2,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,55,Yes,No,DSL,Month-to-month,90,No,3,Loyal Premium Customers
 Female,0,No,56,Yes,Yes,Fiber optic,Month-to-month,99,No,3,Loyal Premium Customers
-Male,0,Yes,71,Yes,Yes,DSL,Two year,85,No,3,Loyal Premium Customers
 Male,0,No,2,Yes,No,DSL,Month-to-month,62,Yes,1,At-Risk New Premium Customers
 Female,0,No,64,Yes,No,DSL,Two year,105,No,3,Loyal Premium Customers
 Female,0,No,42,Yes,No,Fiber optic,Month-to-month,74,Yes,3,Loyal Premium Customers
-Male,1,No,25,Yes,No,DSL,Month-to-month,89,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,5,Yes,Yes,DSL,Two year,49,No,0,New Budget Customers
 Male,0,Yes,72,Yes,No,DSL,One year,117,No,3,Loyal Premium Customers
 Female,1,No,33,Yes,Yes,Fiber optic,Month-to-month,81,Yes,1,At-Risk New Premium Customers
@@ -4261,14 +4146,12 @@ Male,0,No,6,No,Yes,Fiber optic,One year,30,Yes,0,New Budget Customers
 Male,0,Yes,15,Yes,No,DSL,Month-to-month,20,Yes,0,New Budget Customers
 Male,1,No,21,Yes,No,DSL,One year,104,No,1,At-Risk New Premium Customers
 Male,0,Yes,33,Yes,No,DSL,One year,21,No,2,Loyal Budget Customers
-Female,0,No,1,Yes,No,DSL,Month-to-month,21,No,0,New Budget Customers
 Female,0,Yes,58,Yes,Yes,Fiber optic,Two year,20,No,2,Loyal Budget Customers
 Female,0,No,10,Yes,Yes,Fiber optic,Month-to-month,65,No,1,At-Risk New Premium Customers
 Female,0,Yes,33,Yes,Yes,Fiber optic,Month-to-month,24,No,2,Loyal Budget Customers
 Female,1,No,1,No,Yes,Fiber optic,One year,25,Yes,0,New Budget Customers
 Female,0,Yes,1,Yes,Yes,DSL,Two year,46,Yes,0,New Budget Customers
 Male,0,Yes,42,Yes,No,Fiber optic,One year,73,No,3,Loyal Premium Customers
-Male,0,Yes,1,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,38,Yes,Yes,DSL,Two year,20,No,2,Loyal Budget Customers
 Female,0,No,5,Yes,No,DSL,One year,51,Yes,0,New Budget Customers
 Male,0,No,65,Yes,Yes,DSL,Two year,110,No,3,Loyal Premium Customers
@@ -4321,7 +4204,6 @@ Male,0,Yes,39,Yes,No,DSL,One year,86,Yes,3,Loyal Premium Customers
 Female,1,No,6,Yes,Yes,Fiber optic,One year,20,No,0,New Budget Customers
 Female,0,No,16,Yes,No,DSL,One year,63,No,1,At-Risk New Premium Customers
 Female,0,Yes,39,No,Yes,Fiber optic,Month-to-month,30,Yes,2,Loyal Budget Customers
-Male,0,Yes,4,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,59,Yes,Yes,Fiber optic,One year,107,Yes,3,Loyal Premium Customers
 Female,0,Yes,69,Yes,No,DSL,Month-to-month,84,No,3,Loyal Premium Customers
 Male,0,Yes,24,Yes,No,DSL,Month-to-month,70,No,1,At-Risk New Premium Customers
@@ -4368,7 +4250,6 @@ Female,0,Yes,3,No,Yes,DSL,Two year,31,Yes,0,New Budget Customers
 Female,1,No,72,Yes,Yes,Fiber optic,Month-to-month,117,No,3,Loyal Premium Customers
 Female,0,No,6,Yes,No,DSL,One year,71,No,1,At-Risk New Premium Customers
 Female,0,Yes,71,Yes,No,Fiber optic,Month-to-month,115,No,3,Loyal Premium Customers
-Male,0,No,15,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,1,No,57,Yes,No,DSL,One year,70,No,3,Loyal Premium Customers
 Male,0,No,68,Yes,Yes,DSL,One year,25,No,2,Loyal Budget Customers
 Female,0,No,13,No,No,DSL,Month-to-month,31,Yes,0,New Budget Customers
@@ -4378,7 +4259,6 @@ Male,0,No,18,Yes,Yes,Fiber optic,One year,90,No,1,At-Risk New Premium Customers
 Male,0,Yes,36,Yes,No,Fiber optic,One year,95,No,3,Loyal Premium Customers
 Male,0,No,63,Yes,No,Fiber optic,Month-to-month,85,No,3,Loyal Premium Customers
 Male,0,Yes,39,No,No,DSL,One year,55,No,2,Loyal Budget Customers
-Female,0,No,3,Yes,Yes,Fiber optic,Two year,20,No,0,New Budget Customers
 Male,0,No,32,Yes,No,DSL,Two year,20,No,0,New Budget Customers
 Male,1,No,4,Yes,Yes,Fiber optic,Month-to-month,70,No,1,At-Risk New Premium Customers
 Female,1,No,32,Yes,Yes,DSL,Month-to-month,93,Yes,1,At-Risk New Premium Customers
@@ -4386,7 +4266,6 @@ Male,1,No,15,Yes,Yes,DSL,One year,74,Yes,1,At-Risk New Premium Customers
 Female,1,No,5,Yes,No,Fiber optic,Month-to-month,81,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,9,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Female,0,Yes,31,Yes,No,DSL,Two year,81,No,1,At-Risk New Premium Customers
-Female,0,No,1,Yes,No,DSL,Month-to-month,50,No,0,New Budget Customers
 Male,0,Yes,1,Yes,No,DSL,Two year,81,No,1,At-Risk New Premium Customers
 Male,0,No,2,Yes,Yes,Fiber optic,Month-to-month,100,No,1,At-Risk New Premium Customers
 Female,0,No,35,Yes,No,DSL,Month-to-month,23,No,2,Loyal Budget Customers
@@ -4395,7 +4274,6 @@ Male,0,Yes,3,Yes,No,DSL,Month-to-month,50,Yes,0,New Budget Customers
 Male,0,No,12,Yes,Yes,Fiber optic,Month-to-month,49,No,0,New Budget Customers
 Male,0,Yes,56,Yes,Yes,DSL,Month-to-month,24,No,2,Loyal Budget Customers
 Male,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,25,No,2,Loyal Budget Customers
-Female,0,No,1,Yes,No,DSL,Month-to-month,69,Yes,1,At-Risk New Premium Customers
 Male,0,No,1,Yes,Yes,Fiber optic,Two year,85,Yes,1,At-Risk New Premium Customers
 Female,0,No,26,Yes,Yes,DSL,Two year,90,No,1,At-Risk New Premium Customers
 Female,0,No,13,No,Yes,Fiber optic,Month-to-month,49,No,0,New Budget Customers
@@ -4410,7 +4288,6 @@ Female,0,No,52,No,No,DSL,Month-to-month,39,No,2,Loyal Budget Customers
 Female,0,No,15,Yes,Yes,DSL,Two year,25,No,0,New Budget Customers
 Female,0,Yes,41,Yes,No,DSL,Two year,109,No,3,Loyal Premium Customers
 Male,1,No,20,Yes,No,Fiber optic,Month-to-month,71,Yes,1,At-Risk New Premium Customers
-Female,0,No,32,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
 Male,0,No,1,Yes,Yes,DSL,One year,50,Yes,0,New Budget Customers
 Female,0,Yes,72,Yes,No,Fiber optic,Month-to-month,83,No,3,Loyal Premium Customers
 Female,0,Yes,34,Yes,No,DSL,Month-to-month,85,No,1,At-Risk New Premium Customers
@@ -4423,18 +4300,14 @@ Female,0,No,3,Yes,No,DSL,One year,97,Yes,1,At-Risk New Premium Customers
 Female,0,No,41,Yes,Yes,Fiber optic,Month-to-month,99,No,3,Loyal Premium Customers
 Female,0,No,61,Yes,No,Fiber optic,One year,25,No,2,Loyal Budget Customers
 Male,0,No,29,Yes,No,DSL,Month-to-month,80,Yes,1,At-Risk New Premium Customers
-Female,0,Yes,48,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
-Male,0,No,1,Yes,Yes,DSL,Month-to-month,20,Yes,0,New Budget Customers
 Male,0,Yes,64,Yes,Yes,Fiber optic,One year,25,No,2,Loyal Budget Customers
 Male,0,No,58,Yes,No,Fiber optic,Two year,21,No,2,Loyal Budget Customers
 Male,0,No,29,Yes,Yes,Fiber optic,Month-to-month,85,No,1,At-Risk New Premium Customers
 Male,1,No,7,Yes,Yes,DSL,Two year,95,Yes,1,At-Risk New Premium Customers
 Male,0,No,67,Yes,No,DSL,Month-to-month,111,No,3,Loyal Premium Customers
-Male,0,No,5,Yes,No,Fiber optic,Month-to-month,70,Yes,1,At-Risk New Premium Customers
 Female,0,No,27,Yes,No,DSL,Two year,53,No,0,New Budget Customers
 Male,0,No,4,No,Yes,Fiber optic,Month-to-month,49,Yes,0,New Budget Customers
 Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
-Female,0,Yes,4,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,6,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,1,No,Yes,Fiber optic,Two year,34,No,0,New Budget Customers
 Male,0,No,49,Yes,Yes,DSL,Two year,84,Yes,3,Loyal Premium Customers
@@ -4454,7 +4327,6 @@ Male,1,No,69,No,Yes,Fiber optic,Month-to-month,57,No,2,Loyal Budget Customers
 Female,0,No,8,Yes,No,DSL,Two year,96,Yes,1,At-Risk New Premium Customers
 Male,0,No,25,Yes,Yes,Fiber optic,Month-to-month,56,No,1,At-Risk New Premium Customers
 Male,1,No,37,Yes,No,DSL,Month-to-month,101,Yes,3,Loyal Premium Customers
-Male,0,Yes,1,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,4,Yes,Yes,DSL,Two year,24,No,0,New Budget Customers
 Male,0,No,10,No,No,Fiber optic,Month-to-month,34,Yes,0,New Budget Customers
 Female,0,No,13,No,Yes,Fiber optic,Month-to-month,35,No,0,New Budget Customers
@@ -4469,7 +4341,6 @@ Female,0,No,3,Yes,No,Fiber optic,Month-to-month,54,No,0,New Budget Customers
 Female,0,No,19,No,Yes,DSL,One year,40,No,0,New Budget Customers
 Male,0,No,45,Yes,Yes,DSL,Month-to-month,108,No,3,Loyal Premium Customers
 Female,1,No,68,Yes,No,Fiber optic,One year,100,Yes,3,Loyal Premium Customers
-Female,0,No,1,Yes,No,DSL,Month-to-month,20,Yes,0,New Budget Customers
 Female,0,Yes,32,Yes,Yes,Fiber optic,Month-to-month,90,No,1,At-Risk New Premium Customers
 Male,0,Yes,59,No,No,Fiber optic,Two year,35,No,2,Loyal Budget Customers
 Male,0,Yes,45,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
@@ -4485,7 +4356,6 @@ Male,0,Yes,71,Yes,Yes,Fiber optic,Month-to-month,73,No,3,Loyal Premium Customers
 Male,0,No,5,Yes,Yes,DSL,Two year,56,No,0,New Budget Customers
 Male,0,No,31,Yes,No,Fiber optic,Month-to-month,79,No,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,Yes,DSL,Two year,75,Yes,1,At-Risk New Premium Customers
-Male,0,No,20,Yes,Yes,Fiber optic,Month-to-month,89,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,19,Yes,Yes,DSL,One year,20,No,0,New Budget Customers
 Male,0,Yes,72,Yes,No,Fiber optic,Month-to-month,113,No,3,Loyal Premium Customers
 Female,0,Yes,11,Yes,Yes,DSL,One year,25,No,0,New Budget Customers
@@ -4507,11 +4377,10 @@ Female,0,No,2,Yes,No,DSL,One year,46,No,0,New Budget Customers
 Female,0,Yes,45,Yes,Yes,DSL,Two year,105,No,3,Loyal Premium Customers
 Female,0,Yes,4,Yes,Yes,DSL,Two year,84,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,67,Yes,No,DSL,Month-to-month,109,Yes,3,Loyal Premium Customers
-Male,0,No,12,Yes,No,DSL,Month-to-month,57,Yes,1,At-Risk New Premium Customers
+Male,0,No,12,Yes,No,DSL,Month-to-month,57,Yes,0,New Budget Customers
 Male,0,No,60,Yes,No,Fiber optic,Month-to-month,96,Yes,3,Loyal Premium Customers
 Male,0,Yes,1,Yes,Yes,DSL,Month-to-month,51,Yes,0,New Budget Customers
 Female,1,No,1,Yes,No,DSL,One year,71,No,1,At-Risk New Premium Customers
-Female,0,No,1,Yes,Yes,DSL,Two year,20,Yes,0,New Budget Customers
 Male,0,Yes,8,Yes,Yes,DSL,Two year,43,No,0,New Budget Customers
 Male,1,No,5,Yes,No,Fiber optic,Month-to-month,90,Yes,1,At-Risk New Premium Customers
 Male,0,No,1,Yes,No,Fiber optic,Month-to-month,69,Yes,1,At-Risk New Premium Customers
@@ -4527,7 +4396,6 @@ Male,0,Yes,44,No,Yes,Fiber optic,Month-to-month,54,No,2,Loyal Budget Customers
 Male,0,Yes,46,Yes,No,Fiber optic,Month-to-month,81,No,3,Loyal Premium Customers
 Male,0,No,20,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,1,Yes,32,Yes,No,Fiber optic,Two year,94,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,67,Yes,No,DSL,Month-to-month,85,No,3,Loyal Premium Customers
 Female,1,No,29,Yes,No,DSL,Two year,99,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,23,No,2,Loyal Budget Customers
@@ -4555,7 +4423,6 @@ Female,1,No,2,Yes,No,DSL,Month-to-month,44,No,0,New Budget Customers
 Male,0,No,15,Yes,Yes,Fiber optic,Two year,19,No,0,New Budget Customers
 Female,1,No,3,Yes,No,Fiber optic,Month-to-month,75,No,1,At-Risk New Premium Customers
 Female,0,No,65,No,No,DSL,Two year,60,No,2,Loyal Budget Customers
-Male,0,No,27,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,1,No,1,Yes,No,DSL,One year,74,Yes,1,At-Risk New Premium Customers
 Male,0,No,35,Yes,Yes,Fiber optic,Month-to-month,21,No,2,Loyal Budget Customers
 Male,0,No,2,Yes,No,DSL,Month-to-month,47,No,0,New Budget Customers
@@ -4577,14 +4444,12 @@ Female,0,No,52,No,Yes,Fiber optic,One year,35,No,2,Loyal Budget Customers
 Female,0,Yes,72,Yes,Yes,DSL,Month-to-month,74,No,3,Loyal Premium Customers
 Male,0,Yes,70,Yes,No,DSL,Month-to-month,79,No,3,Loyal Premium Customers
 Male,0,No,9,Yes,Yes,Fiber optic,One year,20,No,0,New Budget Customers
-Female,0,No,2,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,28,Yes,Yes,Fiber optic,Month-to-month,60,No,1,At-Risk New Premium Customers
 Male,0,No,72,Yes,No,DSL,Two year,86,No,3,Loyal Premium Customers
 Male,0,No,42,No,No,DSL,Two year,40,No,2,Loyal Budget Customers
 Female,0,No,11,Yes,Yes,DSL,Two year,102,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,61,Yes,Yes,DSL,Two year,50,No,2,Loyal Budget Customers
 Male,0,Yes,63,Yes,Yes,DSL,Two year,76,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,46,Yes,0,New Budget Customers
 Male,0,Yes,23,Yes,Yes,Fiber optic,Two year,48,Yes,0,New Budget Customers
 Female,0,No,61,Yes,No,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Male,0,No,7,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
@@ -4599,12 +4464,9 @@ Female,0,No,5,No,Yes,Fiber optic,One year,51,No,0,New Budget Customers
 Male,0,No,70,Yes,No,Fiber optic,Month-to-month,88,No,3,Loyal Premium Customers
 Male,0,No,8,Yes,Yes,DSL,Month-to-month,66,No,1,At-Risk New Premium Customers
 Female,0,Yes,46,Yes,No,DSL,One year,25,No,2,Loyal Budget Customers
-Male,0,Yes,6,Yes,Yes,Fiber optic,Two year,20,No,0,New Budget Customers
 Female,0,Yes,68,Yes,Yes,Fiber optic,Month-to-month,84,No,3,Loyal Premium Customers
 Male,0,Yes,31,Yes,Yes,DSL,Two year,21,No,0,New Budget Customers
-Female,0,Yes,23,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,6,Yes,No,Fiber optic,Month-to-month,84,Yes,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,Yes,DSL,Two year,51,Yes,0,New Budget Customers
 Male,0,No,2,Yes,Yes,DSL,Two year,79,No,1,At-Risk New Premium Customers
 Male,1,No,43,Yes,No,DSL,Month-to-month,94,No,3,Loyal Premium Customers
 Male,0,Yes,46,Yes,Yes,DSL,Two year,20,No,2,Loyal Budget Customers
@@ -4613,13 +4475,11 @@ Male,0,No,51,Yes,Yes,Fiber optic,One year,95,Yes,3,Loyal Premium Customers
 Male,0,Yes,28,Yes,Yes,DSL,Two year,93,No,1,At-Risk New Premium Customers
 Male,0,No,65,Yes,No,DSL,Two year,92,Yes,3,Loyal Premium Customers
 Male,0,No,51,Yes,Yes,Fiber optic,Month-to-month,83,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,21,No,0,New Budget Customers
 Male,0,Yes,1,Yes,Yes,DSL,Two year,75,Yes,1,At-Risk New Premium Customers
 Female,0,No,24,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,48,No,No,DSL,Month-to-month,35,Yes,2,Loyal Budget Customers
 Male,1,No,1,Yes,No,Fiber optic,Month-to-month,80,Yes,1,At-Risk New Premium Customers
-Female,0,No,2,Yes,Yes,Fiber optic,Month-to-month,54,No,0,New Budget Customers
-Male,0,No,27,Yes,Yes,Fiber optic,Two year,55,No,1,At-Risk New Premium Customers
+Male,0,No,27,Yes,Yes,Fiber optic,Two year,55,No,0,New Budget Customers
 Male,0,Yes,1,Yes,No,DSL,Month-to-month,50,Yes,0,New Budget Customers
 Female,0,Yes,70,No,No,Fiber optic,Month-to-month,58,No,2,Loyal Budget Customers
 Male,0,No,35,Yes,Yes,Fiber optic,Month-to-month,75,Yes,1,At-Risk New Premium Customers
@@ -4629,7 +4489,6 @@ Female,0,Yes,15,Yes,Yes,Fiber optic,Month-to-month,21,No,0,New Budget Customers
 Female,0,No,1,Yes,Yes,Fiber optic,One year,20,No,0,New Budget Customers
 Male,0,Yes,62,Yes,No,DSL,Month-to-month,25,No,2,Loyal Budget Customers
 Female,0,Yes,36,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
-Male,0,No,1,Yes,Yes,DSL,Month-to-month,20,Yes,0,New Budget Customers
 Male,0,No,72,Yes,Yes,Fiber optic,Month-to-month,105,No,3,Loyal Premium Customers
 Male,0,No,70,Yes,No,DSL,Month-to-month,79,No,3,Loyal Premium Customers
 Male,0,No,1,Yes,Yes,DSL,Two year,54,Yes,0,New Budget Customers
@@ -4643,7 +4502,6 @@ Male,0,No,18,Yes,No,Fiber optic,Month-to-month,73,No,1,At-Risk New Premium Custo
 Male,0,Yes,2,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
 Male,0,Yes,66,Yes,No,DSL,Two year,80,No,3,Loyal Premium Customers
 Female,0,No,3,Yes,Yes,DSL,Month-to-month,20,Yes,0,New Budget Customers
-Female,0,No,72,Yes,No,DSL,Month-to-month,26,No,2,Loyal Budget Customers
 Female,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,67,No,3,Loyal Premium Customers
 Female,1,No,13,No,No,Fiber optic,Month-to-month,45,No,0,New Budget Customers
 Male,0,No,24,Yes,No,DSL,Month-to-month,86,No,1,At-Risk New Premium Customers
@@ -4683,7 +4541,7 @@ Female,0,No,1,Yes,Yes,DSL,Month-to-month,71,Yes,1,At-Risk New Premium Customers
 Female,0,No,51,Yes,Yes,Fiber optic,Month-to-month,99,No,3,Loyal Premium Customers
 Female,0,No,25,Yes,Yes,Fiber optic,Month-to-month,109,No,1,At-Risk New Premium Customers
 Male,0,No,8,Yes,Yes,Fiber optic,Month-to-month,44,No,0,New Budget Customers
-Female,0,No,33,Yes,No,Fiber optic,One year,54,No,2,Loyal Budget Customers
+Female,0,No,33,Yes,No,Fiber optic,One year,54,No,0,New Budget Customers
 Male,0,No,54,Yes,Yes,Fiber optic,Two year,65,No,3,Loyal Premium Customers
 Female,0,Yes,18,Yes,Yes,Fiber optic,Two year,25,No,0,New Budget Customers
 Female,0,Yes,27,Yes,No,Fiber optic,Month-to-month,21,No,0,New Budget Customers
@@ -4723,16 +4581,12 @@ Female,0,No,9,Yes,Yes,Fiber optic,One year,44,No,0,New Budget Customers
 Male,0,Yes,34,Yes,No,DSL,Month-to-month,78,Yes,1,At-Risk New Premium Customers
 Female,0,No,66,No,No,DSL,One year,47,No,2,Loyal Budget Customers
 Female,0,No,41,Yes,No,Fiber optic,Month-to-month,21,No,2,Loyal Budget Customers
-Female,0,Yes,16,Yes,Yes,DSL,One year,19,No,0,New Budget Customers
 Male,0,No,65,Yes,Yes,DSL,Month-to-month,105,No,3,Loyal Premium Customers
-Male,0,No,27,Yes,No,DSL,Two year,20,No,0,New Budget Customers
 Male,0,Yes,68,Yes,No,DSL,Two year,106,No,3,Loyal Premium Customers
 Male,1,No,23,Yes,No,DSL,Two year,106,Yes,1,At-Risk New Premium Customers
 Male,0,No,33,Yes,No,DSL,Two year,20,No,0,New Budget Customers
 Male,1,No,25,Yes,Yes,Fiber optic,Month-to-month,90,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,72,Yes,No,DSL,One year,114,No,3,Loyal Premium Customers
-Male,0,No,39,Yes,No,DSL,Two year,20,No,2,Loyal Budget Customers
-Male,0,Yes,62,Yes,No,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Male,0,Yes,53,Yes,No,DSL,One year,20,Yes,2,Loyal Budget Customers
 Female,0,No,53,Yes,Yes,DSL,One year,100,No,3,Loyal Premium Customers
 Male,0,No,18,Yes,Yes,DSL,Two year,82,Yes,1,At-Risk New Premium Customers
@@ -4777,7 +4631,6 @@ Male,0,Yes,1,Yes,Yes,Fiber optic,One year,71,Yes,1,At-Risk New Premium Customers
 Female,1,No,20,Yes,No,Fiber optic,Month-to-month,81,No,1,At-Risk New Premium Customers
 Female,1,No,65,No,No,Fiber optic,Month-to-month,54,No,2,Loyal Budget Customers
 Male,0,Yes,19,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
-Male,0,No,36,Yes,Yes,DSL,Two year,20,No,2,Loyal Budget Customers
 Male,0,No,71,Yes,No,Fiber optic,Month-to-month,109,Yes,3,Loyal Premium Customers
 Female,1,No,1,No,No,Fiber optic,Month-to-month,25,Yes,0,New Budget Customers
 Male,0,No,33,Yes,No,DSL,Two year,68,Yes,1,At-Risk New Premium Customers
@@ -4834,7 +4687,6 @@ Male,0,No,44,Yes,No,DSL,One year,20,No,2,Loyal Budget Customers
 Female,0,No,18,Yes,No,DSL,One year,70,No,1,At-Risk New Premium Customers
 Female,0,Yes,39,Yes,No,DSL,One year,100,No,3,Loyal Premium Customers
 Male,0,Yes,60,Yes,Yes,DSL,Two year,95,No,3,Loyal Premium Customers
-Male,1,No,1,No,Yes,Fiber optic,Month-to-month,40,Yes,0,New Budget Customers
 Male,0,No,21,Yes,Yes,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,60,Yes,No,Fiber optic,Month-to-month,85,No,3,Loyal Premium Customers
 Female,0,Yes,62,Yes,Yes,Fiber optic,One year,71,No,3,Loyal Premium Customers
@@ -4889,7 +4741,6 @@ Female,0,Yes,10,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Female,0,No,17,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
 Male,0,No,48,Yes,No,Fiber optic,One year,95,No,3,Loyal Premium Customers
 Male,0,No,19,Yes,Yes,Fiber optic,One year,20,No,0,New Budget Customers
-Male,0,Yes,1,Yes,No,Fiber optic,Month-to-month,19,No,0,New Budget Customers
 Male,0,Yes,63,Yes,Yes,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Male,1,No,67,Yes,Yes,Fiber optic,Month-to-month,105,No,3,Loyal Premium Customers
 Female,0,Yes,63,Yes,No,DSL,Month-to-month,64,No,2,Loyal Budget Customers
@@ -4903,7 +4754,6 @@ Male,0,No,42,Yes,Yes,Fiber optic,Month-to-month,102,Yes,3,Loyal Premium Customer
 Female,0,Yes,45,Yes,No,Fiber optic,Month-to-month,21,No,2,Loyal Budget Customers
 Male,0,No,59,Yes,No,DSL,Month-to-month,100,Yes,3,Loyal Premium Customers
 Female,0,No,63,Yes,Yes,Fiber optic,Month-to-month,96,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,43,Yes,No,DSL,Two year,60,No,2,Loyal Budget Customers
 Female,0,Yes,71,Yes,Yes,Fiber optic,Two year,87,No,3,Loyal Premium Customers
 Female,0,No,12,Yes,Yes,DSL,Two year,44,No,0,New Budget Customers
@@ -4921,7 +4771,6 @@ Female,0,No,5,Yes,No,DSL,Two year,21,No,0,New Budget Customers
 Male,0,Yes,53,Yes,No,DSL,Two year,72,No,3,Loyal Premium Customers
 Female,0,No,10,Yes,No,DSL,Two year,99,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,18,Yes,Yes,Fiber optic,Month-to-month,57,Yes,0,New Budget Customers
-Male,0,No,1,Yes,Yes,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,Yes,51,Yes,No,DSL,Month-to-month,86,No,3,Loyal Premium Customers
 Male,1,No,61,Yes,No,DSL,Month-to-month,86,No,3,Loyal Premium Customers
 Male,0,No,7,Yes,Yes,Fiber optic,One year,45,No,0,New Budget Customers
@@ -4932,10 +4781,8 @@ Female,0,Yes,32,Yes,No,DSL,One year,62,No,1,At-Risk New Premium Customers
 Female,0,No,2,No,No,DSL,Month-to-month,45,Yes,0,New Budget Customers
 Male,1,No,27,No,Yes,Fiber optic,Month-to-month,36,Yes,0,New Budget Customers
 Female,0,Yes,10,Yes,No,Fiber optic,One year,56,No,0,New Budget Customers
-Female,0,No,1,Yes,No,DSL,Month-to-month,80,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,21,Yes,Yes,Fiber optic,Two year,74,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,12,Yes,Yes,DSL,One year,21,No,0,New Budget Customers
-Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,Yes,0,New Budget Customers
 Female,1,No,51,Yes,No,DSL,One year,20,No,2,Loyal Budget Customers
 Female,0,Yes,3,Yes,No,Fiber optic,Month-to-month,59,No,0,New Budget Customers
 Female,0,Yes,72,Yes,No,DSL,Month-to-month,107,No,3,Loyal Premium Customers
@@ -4957,18 +4804,15 @@ Female,0,No,71,Yes,No,Fiber optic,Month-to-month,77,No,3,Loyal Premium Customers
 Male,0,No,11,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,2,Yes,No,Fiber optic,Month-to-month,21,No,0,New Budget Customers
 Male,0,Yes,1,Yes,No,DSL,Month-to-month,21,No,0,New Budget Customers
-Male,0,Yes,23,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,Yes,62,Yes,No,DSL,Month-to-month,101,No,3,Loyal Premium Customers
 Female,0,No,7,Yes,Yes,Fiber optic,Month-to-month,79,No,1,At-Risk New Premium Customers
 Female,0,Yes,71,Yes,No,DSL,Month-to-month,114,No,3,Loyal Premium Customers
 Female,0,No,2,Yes,No,DSL,Month-to-month,87,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,72,Yes,No,DSL,Two year,69,No,3,Loyal Premium Customers
-Female,0,Yes,71,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Male,1,No,12,Yes,No,DSL,Month-to-month,80,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,3,Yes,Yes,DSL,Month-to-month,44,Yes,0,New Budget Customers
 Female,0,No,21,Yes,Yes,DSL,Month-to-month,99,No,1,At-Risk New Premium Customers
 Male,0,No,8,Yes,No,DSL,Two year,20,No,0,New Budget Customers
-Male,0,No,10,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,3,Yes,No,DSL,One year,50,Yes,0,New Budget Customers
 Male,0,No,52,Yes,No,DSL,Month-to-month,84,Yes,3,Loyal Premium Customers
 Male,0,No,58,Yes,Yes,DSL,Two year,19,No,2,Loyal Budget Customers
@@ -4977,15 +4821,12 @@ Male,0,No,61,Yes,No,DSL,Month-to-month,81,No,3,Loyal Premium Customers
 Male,0,Yes,62,Yes,Yes,Fiber optic,Two year,20,No,2,Loyal Budget Customers
 Female,1,No,72,Yes,No,DSL,Two year,115,No,3,Loyal Premium Customers
 Female,0,No,59,Yes,No,DSL,One year,93,No,3,Loyal Premium Customers
-Male,0,No,13,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,34,Yes,Yes,DSL,Two year,90,No,1,At-Risk New Premium Customers
 Female,0,Yes,1,Yes,Yes,DSL,One year,46,Yes,0,New Budget Customers
 Male,0,No,22,Yes,No,DSL,Month-to-month,54,Yes,0,New Budget Customers
-Female,0,No,71,Yes,Yes,Fiber optic,One year,24,No,2,Loyal Budget Customers
 Male,1,No,49,Yes,No,DSL,Month-to-month,90,Yes,3,Loyal Premium Customers
 Female,1,No,9,Yes,No,DSL,Month-to-month,90,No,1,At-Risk New Premium Customers
 Male,0,No,4,Yes,Yes,DSL,Two year,78,Yes,1,At-Risk New Premium Customers
-Male,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,25,No,2,Loyal Budget Customers
 Female,0,No,25,Yes,Yes,DSL,Two year,100,Yes,1,At-Risk New Premium Customers
 Male,1,No,1,No,No,DSL,One year,25,Yes,0,New Budget Customers
 Male,0,No,42,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
@@ -5006,7 +4847,6 @@ Female,0,Yes,2,Yes,Yes,Fiber optic,Month-to-month,74,Yes,1,At-Risk New Premium C
 Female,0,Yes,57,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Female,0,Yes,52,Yes,No,Fiber optic,One year,51,No,2,Loyal Budget Customers
 Male,0,No,49,Yes,Yes,DSL,Month-to-month,104,Yes,3,Loyal Premium Customers
-Female,0,No,1,Yes,No,DSL,Month-to-month,71,Yes,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,No,DSL,Two year,21,Yes,0,New Budget Customers
 Female,0,Yes,7,Yes,Yes,Fiber optic,One year,21,No,0,New Budget Customers
 Male,1,No,18,Yes,Yes,DSL,Two year,94,No,1,At-Risk New Premium Customers
@@ -5018,7 +4858,6 @@ Male,0,No,37,Yes,Yes,DSL,Month-to-month,96,No,3,Loyal Premium Customers
 Male,0,No,3,Yes,No,DSL,Month-to-month,74,No,1,At-Risk New Premium Customers
 Male,0,No,35,Yes,No,DSL,One year,55,Yes,2,Loyal Budget Customers
 Female,0,No,15,Yes,No,DSL,Two year,20,No,0,New Budget Customers
-Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,72,Yes,No,DSL,Two year,21,No,2,Loyal Budget Customers
 Male,0,No,18,Yes,Yes,Fiber optic,One year,19,No,0,New Budget Customers
 Female,0,No,2,Yes,No,Fiber optic,Two year,86,Yes,1,At-Risk New Premium Customers
@@ -5028,13 +4867,12 @@ Female,1,No,26,Yes,No,Fiber optic,Month-to-month,79,No,1,At-Risk New Premium Cus
 Male,1,No,37,Yes,No,DSL,One year,72,No,1,At-Risk New Premium Customers
 Female,1,No,56,Yes,Yes,Fiber optic,Month-to-month,100,No,3,Loyal Premium Customers
 Male,0,Yes,69,Yes,No,Fiber optic,Two year,60,No,2,Loyal Budget Customers
-Female,0,Yes,71,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Male,0,Yes,62,Yes,No,Fiber optic,Month-to-month,116,No,3,Loyal Premium Customers
 Male,0,No,50,No,No,Fiber optic,Month-to-month,35,No,2,Loyal Budget Customers
 Female,0,Yes,62,Yes,Yes,Fiber optic,Month-to-month,111,No,3,Loyal Premium Customers
 Female,0,No,54,Yes,No,DSL,Month-to-month,100,No,3,Loyal Premium Customers
 Male,0,No,63,Yes,No,DSL,One year,87,No,3,Loyal Premium Customers
-Male,0,Yes,22,Yes,No,Fiber optic,Month-to-month,58,No,1,At-Risk New Premium Customers
+Male,0,Yes,22,Yes,No,Fiber optic,Month-to-month,58,No,0,New Budget Customers
 Female,0,No,30,Yes,Yes,Fiber optic,Month-to-month,19,No,0,New Budget Customers
 Male,1,No,57,Yes,No,Fiber optic,Month-to-month,54,No,2,Loyal Budget Customers
 Female,1,No,58,Yes,No,DSL,One year,98,No,3,Loyal Premium Customers
@@ -5043,7 +4881,7 @@ Female,0,No,37,Yes,Yes,Fiber optic,Month-to-month,102,Yes,3,Loyal Premium Custom
 Male,0,No,2,Yes,No,DSL,One year,54,No,0,New Budget Customers
 Male,1,No,49,Yes,No,DSL,One year,88,No,3,Loyal Premium Customers
 Male,1,No,24,Yes,Yes,Fiber optic,Month-to-month,79,Yes,1,At-Risk New Premium Customers
-Female,0,No,29,Yes,No,Fiber optic,Month-to-month,55,No,1,At-Risk New Premium Customers
+Female,0,No,29,Yes,No,Fiber optic,Month-to-month,55,No,0,New Budget Customers
 Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,45,Yes,0,New Budget Customers
 Male,0,No,72,Yes,No,DSL,Month-to-month,110,No,3,Loyal Premium Customers
 Female,0,No,11,Yes,Yes,Fiber optic,Month-to-month,64,No,1,At-Risk New Premium Customers
@@ -5054,20 +4892,16 @@ Female,0,Yes,67,Yes,Yes,Fiber optic,Month-to-month,94,No,3,Loyal Premium Custome
 Female,1,No,2,Yes,No,DSL,Month-to-month,79,Yes,1,At-Risk New Premium Customers
 Male,1,No,31,Yes,Yes,Fiber optic,Month-to-month,91,No,1,At-Risk New Premium Customers
 Male,0,Yes,16,Yes,No,DSL,One year,64,No,1,At-Risk New Premium Customers
-Female,0,No,1,Yes,Yes,DSL,Two year,80,Yes,1,At-Risk New Premium Customers
 Male,0,No,17,Yes,Yes,DSL,Two year,94,Yes,1,At-Risk New Premium Customers
 Female,1,No,7,Yes,Yes,Fiber optic,Month-to-month,89,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,21,No,0,New Budget Customers
 Female,0,No,10,No,Yes,Fiber optic,Month-to-month,36,No,0,New Budget Customers
 Female,0,No,2,Yes,No,DSL,Month-to-month,90,No,1,At-Risk New Premium Customers
 Female,0,Yes,59,Yes,Yes,DSL,One year,90,No,3,Loyal Premium Customers
 Female,1,No,3,Yes,No,DSL,Month-to-month,75,Yes,1,At-Risk New Premium Customers
-Female,0,No,72,Yes,Yes,Fiber optic,Month-to-month,85,No,3,Loyal Premium Customers
 Female,0,No,22,Yes,No,DSL,Month-to-month,89,No,1,At-Risk New Premium Customers
 Male,0,No,13,Yes,Yes,DSL,One year,51,No,0,New Budget Customers
 Female,0,No,10,Yes,No,DSL,Two year,45,No,0,New Budget Customers
 Female,0,Yes,35,No,No,DSL,Month-to-month,46,No,2,Loyal Budget Customers
-Male,0,No,71,Yes,No,DSL,Two year,99,No,3,Loyal Premium Customers
 Male,1,No,32,Yes,Yes,Fiber optic,Month-to-month,75,Yes,1,At-Risk New Premium Customers
 Male,0,No,5,Yes,No,Fiber optic,One year,56,No,0,New Budget Customers
 Female,1,No,31,Yes,No,Fiber optic,Month-to-month,85,No,1,At-Risk New Premium Customers
@@ -5084,20 +4918,16 @@ Female,1,No,4,Yes,No,DSL,Two year,80,No,1,At-Risk New Premium Customers
 Female,0,No,52,No,No,DSL,One year,66,No,2,Loyal Budget Customers
 Male,0,No,26,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,1,No,2,Yes,No,DSL,One year,70,Yes,1,At-Risk New Premium Customers
-Female,0,No,1,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,44,No,No,DSL,One year,54,No,2,Loyal Budget Customers
 Male,0,No,2,No,No,DSL,Month-to-month,25,Yes,0,New Budget Customers
 Female,0,No,2,Yes,No,DSL,Two year,20,No,0,New Budget Customers
 Female,0,No,33,Yes,No,DSL,Month-to-month,108,No,1,At-Risk New Premium Customers
 Male,0,No,30,Yes,Yes,Fiber optic,Month-to-month,95,No,1,At-Risk New Premium Customers
 Female,1,No,14,Yes,No,DSL,Month-to-month,100,Yes,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,20,Yes,0,New Budget Customers
 Male,0,No,12,Yes,Yes,DSL,Two year,95,No,1,At-Risk New Premium Customers
 Male,0,No,41,Yes,Yes,Fiber optic,One year,89,No,3,Loyal Premium Customers
 Male,0,Yes,9,Yes,No,DSL,One year,103,No,1,At-Risk New Premium Customers
 Female,1,No,69,Yes,Yes,DSL,Two year,110,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,80,Yes,1,At-Risk New Premium Customers
-Male,0,No,2,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,2,Yes,No,DSL,Month-to-month,49,Yes,0,New Budget Customers
 Male,0,No,30,Yes,No,Fiber optic,Month-to-month,56,No,1,At-Risk New Premium Customers
 Female,0,No,51,Yes,Yes,Fiber optic,Month-to-month,94,No,3,Loyal Premium Customers
@@ -5160,7 +4990,6 @@ Female,0,No,50,Yes,No,DSL,Two year,76,No,3,Loyal Premium Customers
 Male,0,Yes,27,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
 Male,0,No,54,Yes,Yes,Fiber optic,Month-to-month,110,Yes,3,Loyal Premium Customers
 Female,1,No,42,Yes,No,Fiber optic,Month-to-month,95,No,3,Loyal Premium Customers
-Female,0,Yes,1,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
 Male,0,Yes,12,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
 Male,0,Yes,49,Yes,No,DSL,Month-to-month,101,Yes,3,Loyal Premium Customers
 Male,0,No,27,Yes,Yes,DSL,Month-to-month,69,No,1,At-Risk New Premium Customers
@@ -5171,7 +5000,6 @@ Male,0,No,72,Yes,No,Fiber optic,Month-to-month,114,No,3,Loyal Premium Customers
 Female,1,No,52,Yes,No,DSL,One year,106,No,3,Loyal Premium Customers
 Male,0,No,10,Yes,No,DSL,Month-to-month,74,Yes,1,At-Risk New Premium Customers
 Male,1,No,72,Yes,No,DSL,Month-to-month,74,No,3,Loyal Premium Customers
-Female,0,No,7,Yes,No,DSL,Two year,75,Yes,1,At-Risk New Premium Customers
 Male,1,Yes,72,Yes,No,DSL,Month-to-month,116,No,3,Loyal Premium Customers
 Female,0,Yes,51,Yes,No,Fiber optic,Month-to-month,81,No,3,Loyal Premium Customers
 Female,1,No,26,Yes,No,DSL,One year,98,No,1,At-Risk New Premium Customers
@@ -5203,7 +5031,6 @@ Female,0,No,68,Yes,Yes,Fiber optic,One year,20,No,2,Loyal Budget Customers
 Male,0,Yes,58,Yes,No,DSL,One year,94,No,3,Loyal Premium Customers
 Male,0,No,1,No,Yes,Fiber optic,Two year,24,No,0,New Budget Customers
 Male,1,No,12,Yes,No,DSL,Month-to-month,73,No,1,At-Risk New Premium Customers
-Male,0,Yes,72,Yes,No,DSL,Month-to-month,114,No,3,Loyal Premium Customers
 Female,0,No,5,Yes,Yes,Fiber optic,Month-to-month,100,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,20,Yes,No,DSL,Two year,20,No,0,New Budget Customers
 Male,0,Yes,27,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
@@ -5211,7 +5038,6 @@ Female,0,No,31,Yes,No,DSL,Month-to-month,85,No,1,At-Risk New Premium Customers
 Female,0,No,70,Yes,Yes,Fiber optic,Two year,98,No,3,Loyal Premium Customers
 Male,0,Yes,67,Yes,No,DSL,One year,69,No,3,Loyal Premium Customers
 Male,0,No,3,Yes,Yes,Fiber optic,Month-to-month,50,No,0,New Budget Customers
-Male,0,No,1,Yes,No,DSL,Two year,20,Yes,0,New Budget Customers
 Male,0,Yes,28,Yes,Yes,Fiber optic,Month-to-month,54,No,0,New Budget Customers
 Male,0,Yes,29,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,4,Yes,No,DSL,Month-to-month,75,Yes,1,At-Risk New Premium Customers
@@ -5225,7 +5051,6 @@ Female,0,No,47,Yes,Yes,DSL,Month-to-month,104,No,3,Loyal Premium Customers
 Female,0,Yes,11,Yes,Yes,DSL,Two year,51,No,0,New Budget Customers
 Male,0,No,40,Yes,Yes,Fiber optic,One year,105,Yes,3,Loyal Premium Customers
 Male,1,No,40,Yes,Yes,Fiber optic,One year,102,Yes,3,Loyal Premium Customers
-Female,0,No,41,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Male,0,No,31,Yes,Yes,Fiber optic,Month-to-month,94,No,1,At-Risk New Premium Customers
 Male,0,No,62,Yes,No,DSL,Month-to-month,23,No,2,Loyal Budget Customers
 Female,0,No,61,Yes,Yes,Fiber optic,One year,104,No,3,Loyal Premium Customers
@@ -5237,7 +5062,6 @@ Female,0,No,59,Yes,Yes,Fiber optic,One year,100,No,3,Loyal Premium Customers
 Male,0,No,4,Yes,Yes,Fiber optic,Month-to-month,56,No,0,New Budget Customers
 Male,0,No,72,Yes,No,Fiber optic,One year,90,No,3,Loyal Premium Customers
 Male,0,Yes,70,Yes,No,DSL,Month-to-month,65,No,3,Loyal Premium Customers
-Male,0,No,71,Yes,No,DSL,One year,24,No,2,Loyal Budget Customers
 Male,0,Yes,38,Yes,No,Fiber optic,One year,99,Yes,3,Loyal Premium Customers
 Male,1,No,19,Yes,No,Fiber optic,Two year,91,Yes,1,At-Risk New Premium Customers
 Male,0,No,3,Yes,No,DSL,One year,70,Yes,1,At-Risk New Premium Customers
@@ -5249,9 +5073,7 @@ Female,0,No,13,Yes,No,Fiber optic,Month-to-month,85,Yes,1,At-Risk New Premium Cu
 Male,0,No,3,Yes,Yes,Fiber optic,Month-to-month,80,No,1,At-Risk New Premium Customers
 Female,1,No,10,Yes,No,DSL,Two year,85,Yes,1,At-Risk New Premium Customers
 Male,0,No,61,Yes,No,DSL,Two year,99,No,3,Loyal Premium Customers
-Male,0,No,12,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,31,No,No,Fiber optic,Month-to-month,35,Yes,2,Loyal Budget Customers
-Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,72,No,No,DSL,One year,66,No,3,Loyal Premium Customers
 Male,1,No,14,Yes,Yes,Fiber optic,Two year,90,Yes,1,At-Risk New Premium Customers
 Male,0,No,11,Yes,Yes,Fiber optic,Month-to-month,80,Yes,1,At-Risk New Premium Customers
@@ -5260,7 +5082,6 @@ Male,0,No,31,Yes,Yes,Fiber optic,Month-to-month,81,No,1,At-Risk New Premium Cust
 Male,0,No,4,Yes,Yes,Fiber optic,One year,20,No,0,New Budget Customers
 Male,1,No,21,Yes,Yes,Fiber optic,Month-to-month,65,No,1,At-Risk New Premium Customers
 Female,0,Yes,22,Yes,Yes,Fiber optic,Month-to-month,21,No,0,New Budget Customers
-Male,0,Yes,1,Yes,Yes,Fiber optic,Two year,70,Yes,1,At-Risk New Premium Customers
 Male,1,No,23,Yes,Yes,DSL,One year,90,No,1,At-Risk New Premium Customers
 Female,0,No,29,No,No,DSL,Month-to-month,40,No,0,New Budget Customers
 Male,1,No,47,Yes,No,DSL,One year,60,No,2,Loyal Budget Customers
@@ -5268,7 +5089,6 @@ Female,1,No,65,Yes,Yes,Fiber optic,One year,109,No,3,Loyal Premium Customers
 Female,0,No,1,No,No,DSL,One year,30,No,0,New Budget Customers
 Male,0,Yes,8,Yes,No,DSL,One year,54,No,0,New Budget Customers
 Female,0,Yes,24,Yes,Yes,DSL,Two year,83,No,1,At-Risk New Premium Customers
-Male,1,No,9,Yes,No,DSL,Month-to-month,84,Yes,1,At-Risk New Premium Customers
 Male,1,No,5,Yes,No,DSL,Month-to-month,50,Yes,0,New Budget Customers
 Female,1,No,25,Yes,No,DSL,Month-to-month,90,Yes,1,At-Risk New Premium Customers
 Female,0,No,2,Yes,Yes,Fiber optic,Month-to-month,69,Yes,1,At-Risk New Premium Customers
@@ -5277,7 +5097,6 @@ Male,0,Yes,41,Yes,Yes,Fiber optic,One year,20,No,2,Loyal Budget Customers
 Female,0,No,11,Yes,Yes,DSL,Month-to-month,45,No,0,New Budget Customers
 Female,1,No,29,Yes,No,DSL,One year,99,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,30,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
-Female,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,116,No,3,Loyal Premium Customers
 Male,0,Yes,70,Yes,Yes,DSL,Two year,98,No,3,Loyal Premium Customers
 Female,0,No,25,Yes,Yes,DSL,One year,54,No,0,New Budget Customers
 Female,0,Yes,12,No,Yes,DSL,Two year,29,Yes,0,New Budget Customers
@@ -5294,12 +5113,9 @@ Male,0,Yes,72,Yes,Yes,Fiber optic,One year,105,No,3,Loyal Premium Customers
 Female,0,No,70,Yes,No,DSL,One year,114,No,3,Loyal Premium Customers
 Female,1,Yes,56,Yes,Yes,Fiber optic,One year,73,No,3,Loyal Premium Customers
 Female,0,No,46,No,Yes,Fiber optic,Two year,46,No,2,Loyal Budget Customers
-Female,0,No,2,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,Yes,72,Yes,No,DSL,One year,108,No,3,Loyal Premium Customers
 Male,1,No,69,Yes,No,DSL,Two year,85,No,3,Loyal Premium Customers
-Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,53,Yes,Yes,Fiber optic,Month-to-month,21,Yes,2,Loyal Budget Customers
-Female,0,No,29,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,35,No,Yes,Fiber optic,Month-to-month,49,No,2,Loyal Budget Customers
 Male,0,No,9,Yes,No,DSL,Month-to-month,88,No,1,At-Risk New Premium Customers
 Male,0,No,19,Yes,No,DSL,Month-to-month,89,No,1,At-Risk New Premium Customers
@@ -5316,7 +5132,7 @@ Male,1,No,7,Yes,No,Fiber optic,Month-to-month,90,Yes,1,At-Risk New Premium Custo
 Male,0,Yes,32,Yes,No,DSL,Two year,91,No,1,At-Risk New Premium Customers
 Male,0,No,67,Yes,No,DSL,Month-to-month,116,Yes,3,Loyal Premium Customers
 Female,0,Yes,67,Yes,Yes,Fiber optic,One year,109,No,3,Loyal Premium Customers
-Male,0,No,24,Yes,No,DSL,Month-to-month,55,No,1,At-Risk New Premium Customers
+Male,0,No,24,Yes,No,DSL,Month-to-month,55,No,0,New Budget Customers
 Male,0,No,17,Yes,No,DSL,Two year,21,No,0,New Budget Customers
 Male,0,No,24,Yes,Yes,Fiber optic,Two year,50,No,0,New Budget Customers
 Male,0,No,28,Yes,No,DSL,Two year,97,No,1,At-Risk New Premium Customers
@@ -5332,7 +5148,6 @@ Male,0,No,2,Yes,No,DSL,Month-to-month,64,No,1,At-Risk New Premium Customers
 Male,0,Yes,33,No,No,Fiber optic,Month-to-month,34,No,2,Loyal Budget Customers
 Female,0,No,71,Yes,No,DSL,Two year,24,No,2,Loyal Budget Customers
 Female,0,No,7,Yes,No,DSL,One year,21,No,0,New Budget Customers
-Male,0,No,5,Yes,No,Fiber optic,Month-to-month,70,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,17,Yes,Yes,Fiber optic,Two year,93,No,1,At-Risk New Premium Customers
 Male,0,No,12,Yes,No,Fiber optic,One year,20,No,0,New Budget Customers
 Female,1,No,50,Yes,No,DSL,Month-to-month,109,No,3,Loyal Premium Customers
@@ -5349,18 +5164,16 @@ Male,1,No,66,Yes,Yes,DSL,Two year,100,Yes,3,Loyal Premium Customers
 Female,0,No,9,Yes,Yes,Fiber optic,Two year,20,No,0,New Budget Customers
 Female,0,No,68,Yes,No,DSL,One year,26,No,2,Loyal Budget Customers
 Male,0,No,7,Yes,Yes,Fiber optic,Two year,24,No,0,New Budget Customers
-Male,0,No,1,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
 Male,0,No,4,Yes,No,Fiber optic,One year,50,Yes,0,New Budget Customers
 Male,0,No,39,Yes,No,Fiber optic,Month-to-month,73,No,1,At-Risk New Premium Customers
 Female,0,Yes,7,Yes,No,DSL,Month-to-month,21,No,0,New Budget Customers
-Male,1,No,72,Yes,No,Fiber optic,Month-to-month,84,No,3,Loyal Premium Customers
 Male,1,No,46,Yes,Yes,Fiber optic,Month-to-month,101,Yes,3,Loyal Premium Customers
 Male,0,Yes,61,Yes,No,DSL,One year,98,No,3,Loyal Premium Customers
 Male,0,No,20,Yes,No,DSL,Two year,20,No,0,New Budget Customers
 Male,0,No,43,Yes,No,DSL,Month-to-month,100,Yes,3,Loyal Premium Customers
 Male,0,Yes,62,Yes,No,DSL,Month-to-month,21,No,2,Loyal Budget Customers
 Female,0,Yes,69,No,Yes,Fiber optic,Month-to-month,46,No,2,Loyal Budget Customers
-Male,0,Yes,2,Yes,No,DSL,One year,61,No,1,At-Risk New Premium Customers
+Male,0,Yes,2,Yes,No,DSL,One year,61,No,0,New Budget Customers
 Male,1,No,32,Yes,Yes,DSL,Two year,81,No,1,At-Risk New Premium Customers
 Male,0,No,10,Yes,Yes,DSL,Two year,104,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,68,Yes,Yes,Fiber optic,Month-to-month,100,No,3,Loyal Premium Customers
@@ -5371,7 +5184,6 @@ Female,0,Yes,72,Yes,No,Fiber optic,Month-to-month,90,No,3,Loyal Premium Customer
 Male,0,No,64,Yes,No,DSL,Month-to-month,105,No,3,Loyal Premium Customers
 Male,0,Yes,60,Yes,Yes,Fiber optic,Month-to-month,21,No,2,Loyal Budget Customers
 Female,0,No,3,Yes,Yes,Fiber optic,One year,65,No,1,At-Risk New Premium Customers
-Female,0,No,2,Yes,Yes,Fiber optic,Month-to-month,70,No,1,At-Risk New Premium Customers
 Female,0,No,65,Yes,No,Fiber optic,Two year,96,No,3,Loyal Premium Customers
 Male,0,Yes,50,Yes,Yes,Fiber optic,Month-to-month,25,No,2,Loyal Budget Customers
 Female,0,No,63,Yes,No,DSL,Month-to-month,81,No,3,Loyal Premium Customers
@@ -5381,7 +5193,6 @@ Female,1,No,8,Yes,Yes,DSL,Two year,81,Yes,1,At-Risk New Premium Customers
 Female,0,No,23,Yes,Yes,Fiber optic,One year,74,No,1,At-Risk New Premium Customers
 Male,0,No,4,Yes,No,Fiber optic,Month-to-month,74,Yes,1,At-Risk New Premium Customers
 Male,1,No,2,Yes,Yes,Fiber optic,Month-to-month,19,No,0,New Budget Customers
-Female,0,Yes,20,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Female,0,Yes,0,Yes,Yes,Fiber optic,Month-to-month,81,No,1,At-Risk New Premium Customers
 Female,0,Yes,2,Yes,Yes,DSL,Month-to-month,20,Yes,0,New Budget Customers
 Female,0,No,62,Yes,Yes,Fiber optic,Month-to-month,26,No,2,Loyal Budget Customers
@@ -5395,7 +5206,6 @@ Male,0,No,1,Yes,No,DSL,Two year,44,No,0,New Budget Customers
 Male,0,Yes,72,Yes,No,Fiber optic,Month-to-month,91,No,3,Loyal Premium Customers
 Male,0,Yes,13,Yes,Yes,Fiber optic,Month-to-month,50,No,0,New Budget Customers
 Female,0,Yes,68,Yes,No,Fiber optic,Month-to-month,83,Yes,3,Loyal Premium Customers
-Female,0,No,4,Yes,No,DSL,One year,70,Yes,1,At-Risk New Premium Customers
 Male,0,No,18,Yes,No,Fiber optic,Month-to-month,55,No,0,New Budget Customers
 Male,0,No,19,Yes,No,DSL,Month-to-month,100,Yes,1,At-Risk New Premium Customers
 Female,1,No,40,Yes,No,DSL,One year,79,Yes,3,Loyal Premium Customers
@@ -5435,7 +5245,6 @@ Female,0,Yes,8,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
 Female,0,No,60,Yes,No,Fiber optic,One year,106,No,3,Loyal Premium Customers
 Female,0,No,15,Yes,Yes,Fiber optic,Month-to-month,88,Yes,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,No,Fiber optic,One year,70,Yes,1,At-Risk New Premium Customers
-Female,0,No,4,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,34,No,Yes,DSL,Month-to-month,30,No,2,Loyal Budget Customers
 Male,0,Yes,1,Yes,No,Fiber optic,Month-to-month,45,No,0,New Budget Customers
 Female,1,No,35,Yes,Yes,Fiber optic,Month-to-month,108,No,3,Loyal Premium Customers
@@ -5445,7 +5254,6 @@ Male,0,No,15,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
 Female,0,No,42,Yes,No,DSL,Month-to-month,66,No,3,Loyal Premium Customers
 Female,0,No,70,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Male,0,Yes,34,Yes,Yes,Fiber optic,Two year,79,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,20,Yes,0,New Budget Customers
 Male,1,No,42,Yes,No,DSL,Month-to-month,79,No,3,Loyal Premium Customers
 Female,0,No,1,Yes,Yes,Fiber optic,One year,19,No,0,New Budget Customers
 Female,0,Yes,57,Yes,No,Fiber optic,Two year,53,No,2,Loyal Budget Customers
@@ -5466,7 +5274,7 @@ Female,0,No,10,Yes,No,DSL,Month-to-month,24,No,0,New Budget Customers
 Female,0,No,72,Yes,No,DSL,Two year,115,No,3,Loyal Premium Customers
 Male,0,No,3,No,No,DSL,One year,30,No,0,New Budget Customers
 Male,0,No,57,No,No,DSL,One year,54,No,2,Loyal Budget Customers
-Female,0,No,35,Yes,Yes,Fiber optic,One year,57,No,1,At-Risk New Premium Customers
+Female,0,No,35,Yes,Yes,Fiber optic,One year,57,No,2,Loyal Budget Customers
 Male,0,No,50,Yes,No,Fiber optic,Month-to-month,70,No,3,Loyal Premium Customers
 Male,0,No,9,Yes,No,Fiber optic,Month-to-month,86,No,1,At-Risk New Premium Customers
 Male,0,Yes,12,Yes,No,Fiber optic,Two year,49,No,0,New Budget Customers
@@ -5487,27 +5295,23 @@ Female,0,Yes,32,Yes,Yes,Fiber optic,Two year,61,No,1,At-Risk New Premium Custome
 Male,0,No,46,Yes,No,DSL,Month-to-month,73,No,3,Loyal Premium Customers
 Female,0,No,27,Yes,Yes,DSL,Two year,96,No,1,At-Risk New Premium Customers
 Male,0,Yes,69,Yes,No,DSL,One year,21,No,2,Loyal Budget Customers
-Female,1,No,4,Yes,Yes,Fiber optic,One year,89,Yes,1,At-Risk New Premium Customers
 Male,0,No,14,Yes,No,DSL,Month-to-month,93,No,1,At-Risk New Premium Customers
 Female,0,No,32,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,67,Yes,No,DSL,Month-to-month,19,No,2,Loyal Budget Customers
 Female,0,No,1,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
 Male,0,No,43,Yes,Yes,Fiber optic,Month-to-month,91,No,3,Loyal Premium Customers
-Male,0,No,21,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,2,Yes,No,Fiber optic,Month-to-month,49,No,0,New Budget Customers
 Female,0,No,12,No,Yes,DSL,Two year,50,No,0,New Budget Customers
 Female,0,No,28,No,No,DSL,One year,36,No,0,New Budget Customers
 Female,1,No,30,Yes,No,DSL,Month-to-month,104,No,1,At-Risk New Premium Customers
 Male,0,No,16,Yes,No,Fiber optic,Month-to-month,89,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,31,Yes,No,DSL,Two year,79,Yes,1,At-Risk New Premium Customers
-Female,0,Yes,14,Yes,No,DSL,Month-to-month,59,No,1,At-Risk New Premium Customers
+Female,0,Yes,14,Yes,No,DSL,Month-to-month,59,No,0,New Budget Customers
 Female,1,No,72,Yes,No,Fiber optic,Month-to-month,110,No,3,Loyal Premium Customers
 Female,0,Yes,53,Yes,No,DSL,One year,21,No,2,Loyal Budget Customers
 Male,0,No,68,No,Yes,Fiber optic,One year,40,No,2,Loyal Budget Customers
 Female,0,No,50,Yes,No,DSL,One year,90,No,3,Loyal Premium Customers
 Female,1,No,70,Yes,No,DSL,Month-to-month,106,No,3,Loyal Premium Customers
-Female,0,No,65,Yes,No,DSL,One year,60,No,2,Loyal Budget Customers
-Female,0,No,1,Yes,Yes,DSL,Two year,70,Yes,1,At-Risk New Premium Customers
 Female,0,No,36,Yes,No,DSL,Month-to-month,95,No,1,At-Risk New Premium Customers
 Female,0,No,57,No,No,Fiber optic,Month-to-month,59,No,2,Loyal Budget Customers
 Female,0,No,9,Yes,Yes,DSL,Two year,88,No,1,At-Risk New Premium Customers
@@ -5528,7 +5332,6 @@ Male,0,No,1,Yes,Yes,DSL,One year,21,Yes,0,New Budget Customers
 Female,0,No,2,Yes,Yes,DSL,One year,104,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,7,Yes,Yes,Fiber optic,One year,20,No,0,New Budget Customers
 Male,1,No,71,Yes,No,DSL,One year,25,No,2,Loyal Budget Customers
-Male,0,No,17,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,3,Yes,Yes,Fiber optic,One year,76,Yes,1,At-Risk New Premium Customers
 Male,0,No,72,Yes,No,DSL,One year,25,No,2,Loyal Budget Customers
 Male,1,No,40,Yes,No,DSL,Two year,56,No,2,Loyal Budget Customers
@@ -5552,7 +5355,6 @@ Female,0,No,39,Yes,No,Fiber optic,Month-to-month,21,No,2,Loyal Budget Customers
 Female,0,No,53,Yes,No,DSL,One year,94,No,3,Loyal Premium Customers
 Female,0,Yes,28,Yes,No,DSL,Month-to-month,90,Yes,1,At-Risk New Premium Customers
 Male,0,No,5,Yes,No,DSL,One year,75,No,1,At-Risk New Premium Customers
-Male,0,No,10,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,50,No,No,DSL,Two year,35,No,2,Loyal Budget Customers
 Male,0,No,19,Yes,No,DSL,Two year,79,No,1,At-Risk New Premium Customers
 Male,0,Yes,17,Yes,No,Fiber optic,Month-to-month,70,No,1,At-Risk New Premium Customers
@@ -5601,7 +5403,6 @@ Female,0,Yes,3,Yes,No,DSL,One year,64,No,1,At-Risk New Premium Customers
 Female,0,Yes,1,Yes,No,Fiber optic,Month-to-month,20,Yes,0,New Budget Customers
 Female,0,Yes,48,No,No,Fiber optic,Month-to-month,46,No,2,Loyal Budget Customers
 Female,0,No,29,Yes,No,DSL,One year,66,No,1,At-Risk New Premium Customers
-Female,0,No,3,Yes,No,DSL,Two year,20,No,0,New Budget Customers
 Female,0,No,14,Yes,No,DSL,Month-to-month,59,No,1,At-Risk New Premium Customers
 Female,1,No,49,Yes,No,Fiber optic,Month-to-month,102,No,3,Loyal Premium Customers
 Female,0,Yes,69,Yes,No,DSL,Month-to-month,19,No,2,Loyal Budget Customers
@@ -5609,15 +5410,11 @@ Female,0,Yes,72,No,No,DSL,One year,54,No,2,Loyal Budget Customers
 Female,0,Yes,66,Yes,No,DSL,Month-to-month,58,No,2,Loyal Budget Customers
 Male,0,Yes,53,Yes,No,DSL,One year,96,No,3,Loyal Premium Customers
 Male,1,No,15,Yes,Yes,Fiber optic,Month-to-month,86,Yes,1,At-Risk New Premium Customers
-Female,0,No,10,No,Yes,Fiber optic,Month-to-month,30,No,0,New Budget Customers
 Male,0,No,27,Yes,Yes,Fiber optic,Month-to-month,50,No,0,New Budget Customers
 Female,0,No,72,Yes,No,DSL,One year,73,No,3,Loyal Premium Customers
-Male,0,No,21,Yes,Yes,DSL,Two year,55,No,1,At-Risk New Premium Customers
-Female,0,No,1,Yes,Yes,Fiber optic,One year,55,Yes,0,New Budget Customers
+Male,0,No,21,Yes,Yes,DSL,Two year,55,No,0,New Budget Customers
 Male,0,No,55,Yes,No,DSL,Month-to-month,59,No,2,Loyal Budget Customers
-Female,0,Yes,58,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Female,1,No,6,Yes,No,DSL,Month-to-month,74,Yes,1,At-Risk New Premium Customers
-Female,0,No,12,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,18,No,No,Fiber optic,One year,40,No,0,New Budget Customers
 Male,0,No,3,Yes,Yes,Fiber optic,Two year,70,No,1,At-Risk New Premium Customers
 Male,0,Yes,55,Yes,Yes,Fiber optic,Month-to-month,59,No,2,Loyal Budget Customers
@@ -5626,10 +5423,7 @@ Female,1,No,10,No,No,DSL,Month-to-month,35,Yes,0,New Budget Customers
 Female,1,No,70,Yes,Yes,Fiber optic,Month-to-month,91,No,3,Loyal Premium Customers
 Female,0,No,50,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Male,0,Yes,72,Yes,No,DSL,Month-to-month,24,No,2,Loyal Budget Customers
-Male,1,No,66,Yes,Yes,Fiber optic,Month-to-month,111,Yes,3,Loyal Premium Customers
-Male,1,No,2,Yes,Yes,Fiber optic,Month-to-month,94,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,44,Yes,No,DSL,Month-to-month,78,No,3,Loyal Premium Customers
-Male,0,No,56,Yes,Yes,Fiber optic,Month-to-month,25,Yes,2,Loyal Budget Customers
 Male,0,No,6,Yes,No,DSL,Month-to-month,50,No,0,New Budget Customers
 Male,0,No,25,Yes,No,DSL,Two year,21,No,0,New Budget Customers
 Male,0,No,6,Yes,Yes,DSL,Month-to-month,21,No,0,New Budget Customers
@@ -5638,11 +5432,10 @@ Female,0,No,53,Yes,No,DSL,Month-to-month,106,Yes,3,Loyal Premium Customers
 Female,0,No,14,Yes,No,DSL,Month-to-month,106,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,66,No,Yes,Fiber optic,One year,55,No,2,Loyal Budget Customers
 Male,0,No,68,Yes,No,DSL,Month-to-month,100,No,3,Loyal Premium Customers
-Female,0,No,28,Yes,No,DSL,Month-to-month,55,No,1,At-Risk New Premium Customers
+Female,0,No,28,Yes,No,DSL,Month-to-month,55,No,0,New Budget Customers
 Female,0,Yes,3,No,No,Fiber optic,Month-to-month,30,Yes,0,New Budget Customers
 Female,0,No,24,Yes,Yes,DSL,One year,95,No,1,At-Risk New Premium Customers
 Female,0,No,9,No,No,DSL,One year,41,No,0,New Budget Customers
-Male,0,No,22,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,56,Yes,No,Fiber optic,Month-to-month,105,No,3,Loyal Premium Customers
 Male,0,Yes,21,Yes,Yes,DSL,One year,46,No,0,New Budget Customers
 Male,1,No,16,Yes,No,DSL,Month-to-month,87,Yes,1,At-Risk New Premium Customers
@@ -5668,24 +5461,20 @@ Male,0,Yes,42,No,No,DSL,Month-to-month,45,No,2,Loyal Budget Customers
 Female,1,No,24,No,No,DSL,One year,41,Yes,0,New Budget Customers
 Female,0,No,55,Yes,No,DSL,Month-to-month,73,No,3,Loyal Premium Customers
 Male,0,No,36,Yes,Yes,Fiber optic,Month-to-month,85,Yes,1,At-Risk New Premium Customers
-Male,0,No,24,Yes,No,Fiber optic,One year,56,Yes,1,At-Risk New Premium Customers
+Male,0,No,24,Yes,No,Fiber optic,One year,56,Yes,0,New Budget Customers
 Female,0,No,25,Yes,Yes,DSL,Month-to-month,66,No,1,At-Risk New Premium Customers
 Female,0,Yes,33,Yes,Yes,DSL,Two year,20,No,2,Loyal Budget Customers
 Female,1,No,1,Yes,Yes,DSL,One year,78,Yes,1,At-Risk New Premium Customers
-Female,1,No,2,Yes,No,DSL,One year,70,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,39,Yes,No,DSL,Two year,101,No,3,Loyal Premium Customers
 Male,0,No,55,No,No,Fiber optic,Month-to-month,55,Yes,2,Loyal Budget Customers
-Female,0,Yes,72,Yes,No,DSL,Month-to-month,71,No,3,Loyal Premium Customers
 Female,0,Yes,70,Yes,No,Fiber optic,One year,74,No,3,Loyal Premium Customers
 Female,0,No,4,Yes,No,DSL,Month-to-month,69,Yes,1,At-Risk New Premium Customers
 Male,0,No,7,Yes,Yes,Fiber optic,Month-to-month,85,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,54,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Female,0,Yes,31,Yes,No,DSL,One year,104,Yes,1,At-Risk New Premium Customers
 Female,1,Yes,60,Yes,No,DSL,Month-to-month,75,No,3,Loyal Premium Customers
-Female,0,No,1,Yes,No,DSL,Month-to-month,50,No,0,New Budget Customers
 Male,1,No,65,Yes,No,Fiber optic,One year,71,No,3,Loyal Premium Customers
 Female,0,No,12,Yes,No,DSL,Two year,20,No,0,New Budget Customers
-Male,0,Yes,72,No,No,Fiber optic,Month-to-month,65,No,2,Loyal Budget Customers
 Female,0,No,7,Yes,No,Fiber optic,One year,19,No,0,New Budget Customers
 Female,1,No,44,Yes,No,DSL,Two year,85,No,3,Loyal Premium Customers
 Male,1,No,7,Yes,No,Fiber optic,Month-to-month,89,No,1,At-Risk New Premium Customers
@@ -5733,7 +5522,6 @@ Male,0,No,7,Yes,No,DSL,Two year,19,Yes,0,New Budget Customers
 Male,0,No,61,Yes,No,DSL,Month-to-month,96,No,3,Loyal Premium Customers
 Female,0,No,7,Yes,No,Fiber optic,Month-to-month,63,No,1,At-Risk New Premium Customers
 Male,0,Yes,72,Yes,No,DSL,Two year,105,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
 Male,0,No,1,Yes,No,DSL,Two year,60,Yes,1,At-Risk New Premium Customers
 Male,1,No,3,Yes,No,DSL,Month-to-month,77,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,25,Yes,No,DSL,Month-to-month,26,No,0,New Budget Customers
@@ -5754,7 +5542,6 @@ Female,1,Yes,48,No,No,DSL,Two year,30,No,2,Loyal Budget Customers
 Male,1,Yes,51,Yes,Yes,DSL,Two year,84,Yes,3,Loyal Premium Customers
 Female,0,No,72,No,No,DSL,Month-to-month,54,Yes,2,Loyal Budget Customers
 Male,0,No,23,Yes,No,DSL,Month-to-month,81,Yes,1,At-Risk New Premium Customers
-Male,0,No,5,Yes,Yes,Fiber optic,Month-to-month,81,Yes,1,At-Risk New Premium Customers
 Male,1,No,11,Yes,No,DSL,Two year,20,Yes,0,New Budget Customers
 Male,1,No,52,Yes,Yes,DSL,Month-to-month,104,Yes,3,Loyal Premium Customers
 Female,0,No,41,Yes,No,DSL,One year,50,No,2,Loyal Budget Customers
@@ -5762,10 +5549,8 @@ Female,0,No,63,Yes,No,Fiber optic,Month-to-month,82,No,3,Loyal Premium Customers
 Male,0,No,61,Yes,No,Fiber optic,Month-to-month,106,No,3,Loyal Premium Customers
 Female,0,No,12,Yes,No,DSL,Two year,89,No,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,91,Yes,1,At-Risk New Premium Customers
-Male,0,No,4,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,14,Yes,Yes,Fiber optic,Two year,80,No,1,At-Risk New Premium Customers
 Male,0,No,69,Yes,Yes,Fiber optic,One year,24,No,2,Loyal Budget Customers
-Male,0,No,44,No,No,DSL,One year,54,No,2,Loyal Budget Customers
 Female,1,No,13,Yes,No,DSL,Two year,101,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,9,Yes,No,Fiber optic,One year,102,No,1,At-Risk New Premium Customers
 Male,0,Yes,22,Yes,Yes,Fiber optic,Two year,20,No,0,New Budget Customers
@@ -5773,7 +5558,6 @@ Female,0,Yes,1,Yes,Yes,DSL,One year,20,Yes,0,New Budget Customers
 Male,1,No,1,No,No,DSL,Month-to-month,43,Yes,0,New Budget Customers
 Female,0,No,71,Yes,Yes,DSL,Two year,94,Yes,3,Loyal Premium Customers
 Female,0,Yes,42,Yes,No,DSL,Month-to-month,23,No,2,Loyal Budget Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,80,Yes,1,At-Risk New Premium Customers
 Male,0,No,1,Yes,Yes,Fiber optic,Two year,75,Yes,1,At-Risk New Premium Customers
 Female,1,No,42,Yes,Yes,DSL,Two year,85,Yes,3,Loyal Premium Customers
 Female,0,Yes,8,Yes,Yes,DSL,Two year,56,No,0,New Budget Customers
@@ -5794,7 +5578,6 @@ Male,0,Yes,50,Yes,Yes,Fiber optic,Month-to-month,70,No,3,Loyal Premium Customers
 Male,0,No,13,Yes,No,Fiber optic,Month-to-month,102,Yes,1,At-Risk New Premium Customers
 Female,1,No,27,Yes,Yes,DSL,Month-to-month,78,Yes,1,At-Risk New Premium Customers
 Male,0,No,22,Yes,Yes,Fiber optic,Two year,101,No,1,At-Risk New Premium Customers
-Male,0,No,71,Yes,Yes,Fiber optic,Month-to-month,86,No,3,Loyal Premium Customers
 Male,0,No,26,Yes,No,DSL,Two year,45,No,0,New Budget Customers
 Male,1,No,45,Yes,Yes,Fiber optic,Month-to-month,94,No,3,Loyal Premium Customers
 Female,0,No,16,Yes,Yes,Fiber optic,Month-to-month,19,No,0,New Budget Customers
@@ -5808,7 +5591,6 @@ Female,0,No,29,No,No,DSL,Month-to-month,31,No,0,New Budget Customers
 Male,0,Yes,13,Yes,No,DSL,Month-to-month,97,No,1,At-Risk New Premium Customers
 Female,0,Yes,72,Yes,No,DSL,Two year,110,No,3,Loyal Premium Customers
 Male,0,No,58,Yes,Yes,Fiber optic,Two year,50,No,2,Loyal Budget Customers
-Male,0,Yes,72,Yes,No,Fiber optic,Month-to-month,90,No,3,Loyal Premium Customers
 Female,1,No,1,Yes,Yes,Fiber optic,Month-to-month,72,No,1,At-Risk New Premium Customers
 Male,1,No,5,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
 Female,0,Yes,34,Yes,No,Fiber optic,Month-to-month,116,No,3,Loyal Premium Customers
@@ -5825,7 +5607,6 @@ Female,1,No,22,Yes,No,Fiber optic,Month-to-month,74,Yes,1,At-Risk New Premium Cu
 Female,1,No,4,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,72,Yes,Yes,DSL,Two year,101,No,3,Loyal Premium Customers
 Male,0,No,8,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
-Male,0,No,1,No,No,Fiber optic,Month-to-month,24,Yes,0,New Budget Customers
 Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,80,Yes,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,Yes,DSL,Two year,26,No,0,New Budget Customers
 Female,0,No,9,Yes,No,DSL,One year,91,Yes,1,At-Risk New Premium Customers
@@ -5839,7 +5620,6 @@ Male,1,No,48,Yes,No,DSL,One year,99,No,3,Loyal Premium Customers
 Female,0,Yes,22,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
 Female,0,Yes,65,No,Yes,DSL,Month-to-month,45,No,2,Loyal Budget Customers
 Female,0,No,65,Yes,Yes,Fiber optic,Month-to-month,59,No,2,Loyal Budget Customers
-Female,0,No,1,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Female,1,No,66,Yes,No,DSL,One year,101,No,3,Loyal Premium Customers
 Male,0,No,71,Yes,Yes,DSL,Month-to-month,105,No,3,Loyal Premium Customers
 Male,0,No,17,Yes,Yes,Fiber optic,One year,70,Yes,1,At-Risk New Premium Customers
@@ -5862,11 +5642,9 @@ Female,0,No,60,No,Yes,DSL,Two year,50,No,2,Loyal Budget Customers
 Female,1,No,68,Yes,No,Fiber optic,Month-to-month,97,Yes,3,Loyal Premium Customers
 Male,1,No,57,Yes,No,DSL,Two year,80,No,3,Loyal Premium Customers
 Female,0,No,7,Yes,No,Fiber optic,Month-to-month,81,Yes,1,At-Risk New Premium Customers
-Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,19,No,0,New Budget Customers
 Female,0,Yes,7,Yes,No,DSL,Two year,69,No,1,At-Risk New Premium Customers
 Male,0,No,68,Yes,No,DSL,Month-to-month,24,No,2,Loyal Budget Customers
 Male,0,Yes,19,Yes,No,DSL,Month-to-month,100,Yes,1,At-Risk New Premium Customers
-Female,0,No,2,Yes,No,DSL,Two year,80,No,1,At-Risk New Premium Customers
 Female,0,Yes,67,Yes,No,DSL,Month-to-month,106,No,3,Loyal Premium Customers
 Male,0,Yes,67,Yes,Yes,Fiber optic,One year,60,No,2,Loyal Budget Customers
 Male,0,No,35,Yes,Yes,DSL,Month-to-month,69,No,1,At-Risk New Premium Customers
@@ -5884,13 +5662,12 @@ Male,0,No,32,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Male,0,No,8,Yes,No,DSL,Two year,67,No,1,At-Risk New Premium Customers
 Male,0,No,6,Yes,No,DSL,Month-to-month,25,No,0,New Budget Customers
 Female,0,No,3,Yes,No,DSL,One year,46,No,0,New Budget Customers
-Male,0,Yes,11,Yes,Yes,DSL,One year,60,No,1,At-Risk New Premium Customers
+Male,0,Yes,11,Yes,Yes,DSL,One year,60,No,0,New Budget Customers
 Male,0,Yes,15,Yes,No,DSL,Two year,91,No,1,At-Risk New Premium Customers
 Female,0,No,23,Yes,No,DSL,Month-to-month,90,Yes,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,44,No,0,New Budget Customers
 Male,0,Yes,37,No,No,DSL,Month-to-month,40,No,2,Loyal Budget Customers
 Male,0,Yes,69,Yes,Yes,DSL,Two year,81,No,3,Loyal Premium Customers
-Male,0,No,71,Yes,No,DSL,One year,79,No,3,Loyal Premium Customers
 Female,0,Yes,8,Yes,No,DSL,Month-to-month,55,No,0,New Budget Customers
 Female,0,No,6,No,Yes,DSL,Two year,63,No,1,At-Risk New Premium Customers
 Female,0,No,58,Yes,Yes,Fiber optic,Month-to-month,84,No,3,Loyal Premium Customers
@@ -5898,7 +5675,6 @@ Female,0,Yes,39,Yes,No,DSL,Month-to-month,90,Yes,3,Loyal Premium Customers
 Male,1,No,23,Yes,Yes,DSL,Two year,90,No,1,At-Risk New Premium Customers
 Male,0,Yes,66,Yes,Yes,DSL,Two year,20,No,2,Loyal Budget Customers
 Male,0,No,51,Yes,Yes,DSL,One year,83,No,3,Loyal Premium Customers
-Female,0,No,7,Yes,Yes,Fiber optic,Month-to-month,80,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,15,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,51,Yes,Yes,Fiber optic,Month-to-month,80,Yes,3,Loyal Premium Customers
 Male,0,No,4,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
@@ -5919,7 +5695,6 @@ Female,0,Yes,48,Yes,Yes,Fiber optic,Two year,105,No,3,Loyal Premium Customers
 Female,0,No,1,No,No,DSL,Month-to-month,31,No,0,New Budget Customers
 Male,0,Yes,8,Yes,No,DSL,Two year,51,Yes,0,New Budget Customers
 Male,1,No,1,Yes,No,DSL,Two year,46,No,0,New Budget Customers
-Female,0,No,1,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,22,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Male,1,No,16,No,Yes,Fiber optic,Two year,39,Yes,0,New Budget Customers
 Male,0,No,72,Yes,No,Fiber optic,Month-to-month,118,No,3,Loyal Premium Customers
@@ -5930,7 +5705,6 @@ Female,1,No,54,Yes,Yes,DSL,Two year,82,Yes,3,Loyal Premium Customers
 Male,0,No,69,Yes,No,DSL,Two year,82,No,3,Loyal Premium Customers
 Male,1,No,46,Yes,Yes,Fiber optic,Month-to-month,80,Yes,3,Loyal Premium Customers
 Female,0,Yes,67,Yes,Yes,Fiber optic,Two year,51,No,2,Loyal Budget Customers
-Male,0,Yes,71,Yes,No,Fiber optic,Month-to-month,90,No,3,Loyal Premium Customers
 Male,1,No,20,Yes,No,Fiber optic,Month-to-month,90,No,1,At-Risk New Premium Customers
 Female,0,No,41,Yes,Yes,Fiber optic,Month-to-month,114,Yes,3,Loyal Premium Customers
 Male,1,No,3,No,Yes,Fiber optic,Month-to-month,41,Yes,0,New Budget Customers
@@ -5953,7 +5727,6 @@ Male,0,No,60,Yes,No,DSL,Month-to-month,117,No,3,Loyal Premium Customers
 Female,0,No,12,Yes,Yes,Fiber optic,Month-to-month,19,No,0,New Budget Customers
 Male,0,No,3,Yes,Yes,DSL,Month-to-month,45,Yes,0,New Budget Customers
 Male,0,No,54,Yes,No,DSL,Month-to-month,105,Yes,3,Loyal Premium Customers
-Male,0,Yes,6,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,2,Yes,No,DSL,Two year,20,No,0,New Budget Customers
 Male,1,No,57,Yes,Yes,Fiber optic,Month-to-month,94,No,3,Loyal Premium Customers
 Female,0,No,63,Yes,No,Fiber optic,Month-to-month,21,No,2,Loyal Budget Customers
@@ -5963,7 +5736,6 @@ Female,0,No,65,Yes,Yes,Fiber optic,One year,85,No,3,Loyal Premium Customers
 Female,0,No,54,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
 Male,0,No,61,Yes,No,Fiber optic,Month-to-month,94,No,3,Loyal Premium Customers
 Male,0,Yes,19,Yes,Yes,DSL,One year,20,No,0,New Budget Customers
-Female,0,No,12,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
 Female,0,Yes,18,Yes,No,DSL,One year,25,No,0,New Budget Customers
 Male,0,Yes,68,Yes,Yes,Fiber optic,Month-to-month,95,No,3,Loyal Premium Customers
 Female,0,Yes,10,Yes,No,DSL,Month-to-month,100,Yes,1,At-Risk New Premium Customers
@@ -6031,7 +5803,6 @@ Female,0,No,32,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,1,No,56,Yes,No,Fiber optic,Month-to-month,101,No,3,Loyal Premium Customers
 Female,0,No,71,Yes,No,DSL,Month-to-month,19,No,2,Loyal Budget Customers
 Female,1,No,13,Yes,No,DSL,Month-to-month,70,Yes,1,At-Risk New Premium Customers
-Female,0,No,2,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,17,Yes,Yes,Fiber optic,Month-to-month,96,No,1,At-Risk New Premium Customers
 Male,0,No,2,Yes,No,DSL,One year,55,Yes,0,New Budget Customers
 Female,0,No,72,Yes,Yes,Fiber optic,One year,101,No,3,Loyal Premium Customers
@@ -6042,7 +5813,6 @@ Female,0,No,26,Yes,No,DSL,Month-to-month,81,No,1,At-Risk New Premium Customers
 Female,0,Yes,59,Yes,No,Fiber optic,Month-to-month,66,No,3,Loyal Premium Customers
 Female,0,Yes,27,Yes,No,DSL,Month-to-month,50,No,0,New Budget Customers
 Male,0,No,57,Yes,No,DSL,One year,103,No,3,Loyal Premium Customers
-Female,0,No,1,Yes,No,DSL,Month-to-month,44,Yes,0,New Budget Customers
 Female,0,No,37,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Female,0,No,6,Yes,No,DSL,One year,49,No,0,New Budget Customers
 Male,0,No,18,Yes,No,Fiber optic,Month-to-month,76,No,1,At-Risk New Premium Customers
@@ -6055,19 +5825,15 @@ Male,0,No,56,No,No,DSL,Two year,54,No,2,Loyal Budget Customers
 Male,1,No,18,Yes,Yes,DSL,Two year,95,Yes,1,At-Risk New Premium Customers
 Male,1,Yes,56,Yes,Yes,Fiber optic,Month-to-month,105,Yes,3,Loyal Premium Customers
 Male,0,No,4,Yes,No,DSL,Month-to-month,90,No,1,At-Risk New Premium Customers
-Female,0,No,64,Yes,Yes,DSL,One year,115,No,3,Loyal Premium Customers
-Male,0,No,61,Yes,No,DSL,Month-to-month,81,No,3,Loyal Premium Customers
 Female,1,No,71,Yes,No,DSL,Month-to-month,99,No,3,Loyal Premium Customers
 Male,0,No,2,Yes,No,DSL,One year,70,Yes,1,At-Risk New Premium Customers
 Male,1,No,64,Yes,No,Fiber optic,Month-to-month,102,No,3,Loyal Premium Customers
-Male,0,No,45,Yes,Yes,DSL,Month-to-month,108,No,3,Loyal Premium Customers
 Male,0,No,18,Yes,No,Fiber optic,Month-to-month,24,No,0,New Budget Customers
 Male,0,Yes,66,Yes,No,DSL,Two year,26,No,2,Loyal Budget Customers
 Male,0,No,37,No,No,DSL,Month-to-month,41,No,2,Loyal Budget Customers
 Male,0,Yes,39,Yes,Yes,DSL,Two year,25,No,2,Loyal Budget Customers
 Male,0,No,25,Yes,No,Fiber optic,Month-to-month,85,Yes,1,At-Risk New Premium Customers
 Male,0,No,22,Yes,No,DSL,One year,87,No,1,At-Risk New Premium Customers
-Male,0,No,10,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,20,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Male,1,No,8,Yes,Yes,DSL,Two year,64,No,1,At-Risk New Premium Customers
 Female,0,No,49,Yes,Yes,Fiber optic,Two year,52,No,2,Loyal Budget Customers
@@ -6082,20 +5848,17 @@ Female,1,Yes,70,Yes,Yes,DSL,Month-to-month,108,No,3,Loyal Premium Customers
 Female,0,Yes,33,Yes,No,DSL,Month-to-month,104,Yes,3,Loyal Premium Customers
 Female,0,No,23,Yes,No,DSL,Month-to-month,76,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,45,Yes,Yes,Fiber optic,Month-to-month,55,No,2,Loyal Budget Customers
-Female,0,Yes,35,Yes,Yes,DSL,Two year,20,No,2,Loyal Budget Customers
 Male,0,No,16,Yes,Yes,Fiber optic,Month-to-month,20,Yes,0,New Budget Customers
 Female,0,No,49,Yes,Yes,DSL,Month-to-month,107,No,3,Loyal Premium Customers
 Male,0,No,1,Yes,Yes,DSL,Two year,19,Yes,0,New Budget Customers
 Male,0,No,61,Yes,No,DSL,One year,81,No,3,Loyal Premium Customers
 Male,1,Yes,68,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
-Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,60,No,No,Fiber optic,Two year,54,No,2,Loyal Budget Customers
 Male,0,Yes,53,Yes,Yes,Fiber optic,Month-to-month,26,No,2,Loyal Budget Customers
 Female,1,No,28,Yes,Yes,Fiber optic,Two year,103,Yes,1,At-Risk New Premium Customers
 Female,0,No,2,Yes,No,DSL,Two year,70,Yes,1,At-Risk New Premium Customers
 Female,1,No,1,Yes,No,DSL,Two year,70,No,1,At-Risk New Premium Customers
 Female,0,No,16,Yes,No,DSL,Month-to-month,73,Yes,1,At-Risk New Premium Customers
-Female,0,Yes,72,Yes,No,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Female,0,No,6,Yes,Yes,DSL,Two year,55,No,0,New Budget Customers
 Male,0,No,3,Yes,Yes,DSL,One year,108,No,1,At-Risk New Premium Customers
 Male,0,Yes,49,Yes,Yes,DSL,Two year,90,No,3,Loyal Premium Customers
@@ -6104,7 +5867,6 @@ Male,0,No,50,Yes,Yes,Fiber optic,Two year,94,No,3,Loyal Premium Customers
 Female,1,Yes,12,No,Yes,DSL,Two year,29,No,0,New Budget Customers
 Male,1,No,32,Yes,No,DSL,Month-to-month,80,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,68,Yes,Yes,DSL,One year,103,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,Yes,Fiber optic,One year,21,No,0,New Budget Customers
 Male,0,No,40,No,No,DSL,Month-to-month,36,No,2,Loyal Budget Customers
 Male,0,No,5,Yes,No,DSL,Month-to-month,51,No,0,New Budget Customers
 Male,0,No,72,Yes,No,DSL,Month-to-month,79,No,3,Loyal Premium Customers
@@ -6145,24 +5907,20 @@ Female,1,No,25,Yes,Yes,DSL,Month-to-month,103,Yes,1,At-Risk New Premium Customer
 Female,1,No,8,Yes,No,DSL,One year,85,No,1,At-Risk New Premium Customers
 Male,0,No,1,Yes,No,Fiber optic,Month-to-month,19,No,0,New Budget Customers
 Female,0,Yes,65,Yes,No,DSL,Two year,79,No,3,Loyal Premium Customers
-Female,1,No,2,Yes,No,Fiber optic,Month-to-month,55,Yes,1,At-Risk New Premium Customers
+Female,1,No,2,Yes,No,Fiber optic,Month-to-month,55,Yes,0,New Budget Customers
 Female,0,Yes,62,No,No,Fiber optic,One year,49,No,2,Loyal Budget Customers
 Male,0,No,36,Yes,Yes,DSL,Two year,85,Yes,1,At-Risk New Premium Customers
 Female,0,No,38,Yes,No,DSL,One year,19,No,2,Loyal Budget Customers
 Male,0,Yes,57,Yes,No,Fiber optic,Month-to-month,60,No,2,Loyal Budget Customers
 Male,0,No,32,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,44,Yes,No,Fiber optic,Month-to-month,90,No,3,Loyal Premium Customers
-Male,0,No,2,Yes,No,DSL,Two year,54,Yes,0,New Budget Customers
 Female,0,No,41,Yes,Yes,Fiber optic,Two year,114,Yes,3,Loyal Premium Customers
 Female,0,Yes,14,Yes,No,DSL,Month-to-month,91,Yes,1,At-Risk New Premium Customers
 Female,0,No,56,Yes,No,Fiber optic,Month-to-month,86,No,3,Loyal Premium Customers
 Female,1,No,7,Yes,No,DSL,Month-to-month,85,Yes,1,At-Risk New Premium Customers
-Male,0,No,11,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
-Female,0,No,13,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Female,0,No,71,Yes,Yes,DSL,One year,105,No,3,Loyal Premium Customers
 Male,0,No,22,Yes,No,Fiber optic,Month-to-month,25,No,0,New Budget Customers
 Male,0,No,42,Yes,No,DSL,Two year,99,No,3,Loyal Premium Customers
-Female,0,Yes,15,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,69,Yes,Yes,DSL,Two year,92,No,3,Loyal Premium Customers
 Female,0,Yes,23,Yes,No,Fiber optic,Month-to-month,75,No,1,At-Risk New Premium Customers
 Male,0,No,19,Yes,Yes,Fiber optic,Month-to-month,74,Yes,1,At-Risk New Premium Customers
@@ -6172,12 +5930,10 @@ Male,0,No,1,Yes,No,DSL,Month-to-month,81,Yes,1,At-Risk New Premium Customers
 Female,0,No,18,No,No,DSL,Month-to-month,39,Yes,0,New Budget Customers
 Female,0,No,71,No,Yes,Fiber optic,Month-to-month,58,No,2,Loyal Budget Customers
 Female,0,Yes,15,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
-Male,0,Yes,8,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,1,No,21,Yes,No,DSL,Month-to-month,97,Yes,1,At-Risk New Premium Customers
 Female,0,No,6,Yes,No,Fiber optic,One year,90,No,1,At-Risk New Premium Customers
 Male,1,No,69,No,Yes,Fiber optic,Month-to-month,30,No,2,Loyal Budget Customers
 Male,0,Yes,68,No,No,DSL,Month-to-month,56,No,2,Loyal Budget Customers
-Female,0,No,1,Yes,No,DSL,Two year,20,No,0,New Budget Customers
 Male,0,Yes,62,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Male,0,Yes,38,Yes,Yes,Fiber optic,Two year,79,No,3,Loyal Premium Customers
 Male,0,No,5,Yes,Yes,Fiber optic,One year,85,Yes,1,At-Risk New Premium Customers
@@ -6191,13 +5947,9 @@ Male,0,No,20,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,48,Yes,Yes,DSL,Two year,108,No,3,Loyal Premium Customers
 Male,1,No,54,No,No,Fiber optic,Month-to-month,25,No,2,Loyal Budget Customers
 Female,0,No,1,Yes,Yes,DSL,Month-to-month,50,No,0,New Budget Customers
-Female,0,No,1,Yes,No,Fiber optic,Month-to-month,44,No,0,New Budget Customers
-Male,0,No,1,Yes,Yes,Fiber optic,One year,20,No,0,New Budget Customers
 Male,0,No,48,Yes,Yes,Fiber optic,One year,20,No,2,Loyal Budget Customers
-Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,37,Yes,Yes,Fiber optic,Two year,72,No,1,At-Risk New Premium Customers
 Male,0,No,1,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
-Male,0,Yes,39,Yes,Yes,DSL,Two year,25,No,2,Loyal Budget Customers
 Female,0,No,4,Yes,No,Fiber optic,Month-to-month,56,No,0,New Budget Customers
 Female,0,Yes,33,Yes,No,DSL,Two year,24,No,2,Loyal Budget Customers
 Male,0,No,18,Yes,No,Fiber optic,Month-to-month,19,No,0,New Budget Customers
@@ -6208,7 +5960,6 @@ Male,0,No,50,Yes,Yes,Fiber optic,Month-to-month,90,No,3,Loyal Premium Customers
 Male,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Male,0,No,10,Yes,No,Fiber optic,Month-to-month,75,No,1,At-Risk New Premium Customers
 Female,0,Yes,25,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
-Female,0,No,71,Yes,No,DSL,One year,25,No,2,Loyal Budget Customers
 Female,0,Yes,20,Yes,No,DSL,One year,26,No,0,New Budget Customers
 Male,0,No,14,Yes,No,Fiber optic,Month-to-month,86,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,62,Yes,No,DSL,One year,56,No,2,Loyal Budget Customers
@@ -6340,7 +6091,6 @@ Male,0,Yes,35,Yes,Yes,Fiber optic,One year,69,No,1,At-Risk New Premium Customers
 Male,0,Yes,69,Yes,No,DSL,Month-to-month,82,No,3,Loyal Premium Customers
 Male,0,No,33,Yes,No,DSL,Month-to-month,80,No,1,At-Risk New Premium Customers
 Female,0,No,46,Yes,Yes,Fiber optic,Month-to-month,21,No,2,Loyal Budget Customers
-Female,1,No,1,Yes,Yes,Fiber optic,Month-to-month,70,Yes,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,76,No,1,At-Risk New Premium Customers
 Female,0,Yes,65,Yes,No,DSL,One year,26,No,2,Loyal Budget Customers
 Female,0,No,15,Yes,Yes,Fiber optic,Month-to-month,59,No,1,At-Risk New Premium Customers
@@ -6349,7 +6099,6 @@ Male,0,No,19,Yes,No,DSL,Month-to-month,78,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,25,Yes,No,Fiber optic,Month-to-month,76,No,1,At-Risk New Premium Customers
 Male,0,No,38,Yes,No,Fiber optic,Month-to-month,70,No,1,At-Risk New Premium Customers
 Female,0,No,53,Yes,No,DSL,Two year,19,No,2,Loyal Budget Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,45,Yes,0,New Budget Customers
 Female,0,Yes,1,Yes,Yes,Fiber optic,Month-to-month,69,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,52,Yes,Yes,Fiber optic,Month-to-month,21,No,2,Loyal Budget Customers
 Female,0,No,43,Yes,No,DSL,Month-to-month,79,No,3,Loyal Premium Customers
@@ -6362,7 +6111,6 @@ Male,0,No,2,Yes,No,Fiber optic,Month-to-month,45,No,0,New Budget Customers
 Female,0,Yes,11,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,1,Yes,No,DSL,Month-to-month,50,Yes,0,New Budget Customers
 Male,0,No,53,Yes,Yes,Fiber optic,Month-to-month,98,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,14,Yes,Yes,DSL,Two year,76,No,1,At-Risk New Premium Customers
 Female,1,No,22,Yes,Yes,Fiber optic,Month-to-month,26,No,0,New Budget Customers
 Male,0,No,64,Yes,No,DSL,Two year,84,No,3,Loyal Premium Customers
@@ -6393,9 +6141,8 @@ Male,0,No,32,Yes,No,Fiber optic,One year,65,No,1,At-Risk New Premium Customers
 Male,0,Yes,5,Yes,Yes,DSL,One year,80,Yes,1,At-Risk New Premium Customers
 Female,0,No,72,Yes,No,DSL,Month-to-month,109,No,3,Loyal Premium Customers
 Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,76,Yes,1,At-Risk New Premium Customers
-Female,1,No,1,Yes,No,DSL,One year,56,Yes,1,At-Risk New Premium Customers
+Female,1,No,1,Yes,No,DSL,One year,56,Yes,0,New Budget Customers
 Female,0,Yes,71,Yes,Yes,Fiber optic,One year,91,No,3,Loyal Premium Customers
-Female,0,Yes,46,Yes,Yes,Fiber optic,Month-to-month,19,No,2,Loyal Budget Customers
 Female,0,No,13,No,No,DSL,One year,24,Yes,0,New Budget Customers
 Female,0,No,41,Yes,Yes,Fiber optic,Two year,81,No,3,Loyal Premium Customers
 Male,1,No,30,Yes,Yes,Fiber optic,Month-to-month,75,No,1,At-Risk New Premium Customers
@@ -6436,11 +6183,9 @@ Female,0,No,25,Yes,No,DSL,Two year,76,No,1,At-Risk New Premium Customers
 Male,0,Yes,1,Yes,No,DSL,Month-to-month,70,No,1,At-Risk New Premium Customers
 Female,1,No,2,Yes,No,DSL,Two year,75,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,47,Yes,No,DSL,Two year,21,No,2,Loyal Budget Customers
-Female,0,No,72,Yes,Yes,DSL,Two year,94,No,3,Loyal Premium Customers
 Female,1,No,31,Yes,Yes,Fiber optic,Month-to-month,100,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,0,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,47,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
-Male,0,No,72,Yes,No,DSL,Month-to-month,25,No,2,Loyal Budget Customers
 Male,0,No,1,Yes,No,DSL,One year,21,No,0,New Budget Customers
 Male,0,No,9,No,No,DSL,Month-to-month,35,Yes,0,New Budget Customers
 Male,0,No,4,No,Yes,DSL,One year,30,No,0,New Budget Customers
@@ -6460,14 +6205,12 @@ Female,0,No,71,Yes,No,DSL,One year,109,No,3,Loyal Premium Customers
 Male,0,No,30,Yes,No,DSL,Month-to-month,94,No,1,At-Risk New Premium Customers
 Female,0,Yes,39,Yes,No,DSL,Month-to-month,24,No,2,Loyal Budget Customers
 Female,0,Yes,3,Yes,No,Fiber optic,Month-to-month,55,Yes,0,New Budget Customers
-Male,0,No,3,Yes,No,Fiber optic,Month-to-month,21,No,0,New Budget Customers
 Male,0,Yes,68,Yes,No,Fiber optic,Month-to-month,76,Yes,3,Loyal Premium Customers
 Female,0,Yes,41,Yes,Yes,DSL,One year,19,No,2,Loyal Budget Customers
 Female,0,No,8,Yes,Yes,DSL,Month-to-month,87,Yes,1,At-Risk New Premium Customers
 Female,0,No,72,Yes,No,DSL,Two year,24,No,2,Loyal Budget Customers
 Male,0,No,10,Yes,Yes,Fiber optic,Month-to-month,80,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,12,Yes,Yes,Fiber optic,Month-to-month,54,Yes,0,New Budget Customers
-Female,0,No,72,Yes,No,DSL,One year,110,No,3,Loyal Premium Customers
 Female,1,No,17,Yes,No,DSL,Two year,85,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,68,Yes,No,DSL,One year,78,No,3,Loyal Premium Customers
 Female,0,No,57,Yes,No,DSL,One year,104,Yes,3,Loyal Premium Customers
@@ -6490,14 +6233,12 @@ Female,0,Yes,64,Yes,Yes,Fiber optic,Two year,24,No,2,Loyal Budget Customers
 Female,0,Yes,16,Yes,No,Fiber optic,Month-to-month,80,No,1,At-Risk New Premium Customers
 Female,0,Yes,44,Yes,No,DSL,Month-to-month,94,No,3,Loyal Premium Customers
 Male,0,Yes,16,Yes,No,DSL,One year,20,No,0,New Budget Customers
-Female,0,No,18,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,44,Yes,No,DSL,Two year,20,No,2,Loyal Budget Customers
 Male,1,No,30,Yes,No,DSL,One year,102,No,1,At-Risk New Premium Customers
 Male,0,No,25,Yes,No,DSL,Month-to-month,79,No,1,At-Risk New Premium Customers
 Female,0,No,14,Yes,No,Fiber optic,Month-to-month,71,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,4,Yes,Yes,Fiber optic,Month-to-month,51,Yes,0,New Budget Customers
 Female,0,No,42,Yes,Yes,Fiber optic,Month-to-month,99,No,3,Loyal Premium Customers
-Female,0,Yes,7,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,19,Yes,No,DSL,Month-to-month,85,No,1,At-Risk New Premium Customers
 Male,1,Yes,7,Yes,No,DSL,Two year,46,No,0,New Budget Customers
 Female,0,Yes,10,Yes,Yes,Fiber optic,One year,66,No,1,At-Risk New Premium Customers
@@ -6513,9 +6254,8 @@ Male,0,No,51,No,Yes,Fiber optic,Two year,30,No,2,Loyal Budget Customers
 Female,0,No,71,Yes,No,DSL,Two year,90,No,3,Loyal Premium Customers
 Female,0,No,54,Yes,No,DSL,Month-to-month,70,Yes,3,Loyal Premium Customers
 Male,0,No,1,Yes,Yes,DSL,Month-to-month,49,No,0,New Budget Customers
-Female,0,No,26,Yes,No,DSL,Two year,55,No,1,At-Risk New Premium Customers
+Female,0,No,26,Yes,No,DSL,Two year,55,No,0,New Budget Customers
 Female,0,No,8,Yes,No,DSL,Month-to-month,20,Yes,0,New Budget Customers
-Female,0,No,12,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,1,No,5,Yes,No,DSL,Month-to-month,74,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,69,No,No,DSL,Month-to-month,55,No,2,Loyal Budget Customers
 Male,1,No,46,Yes,Yes,Fiber optic,One year,99,No,3,Loyal Premium Customers
@@ -6530,7 +6270,6 @@ Female,0,No,47,Yes,No,DSL,Month-to-month,65,No,3,Loyal Premium Customers
 Male,0,Yes,4,Yes,No,DSL,Two year,49,Yes,0,New Budget Customers
 Male,0,Yes,61,Yes,Yes,Fiber optic,Month-to-month,81,No,3,Loyal Premium Customers
 Male,1,No,36,Yes,No,DSL,One year,84,Yes,1,At-Risk New Premium Customers
-Female,0,No,1,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,1,No,14,Yes,No,DSL,One year,79,Yes,1,At-Risk New Premium Customers
 Female,0,No,50,Yes,Yes,Fiber optic,Month-to-month,109,Yes,3,Loyal Premium Customers
 Male,0,Yes,27,Yes,No,Fiber optic,One year,85,No,1,At-Risk New Premium Customers
@@ -6545,9 +6284,7 @@ Female,0,No,67,Yes,Yes,Fiber optic,Month-to-month,60,No,2,Loyal Budget Customers
 Female,0,No,58,Yes,No,DSL,One year,24,No,2,Loyal Budget Customers
 Female,0,No,15,Yes,Yes,Fiber optic,Month-to-month,105,Yes,1,At-Risk New Premium Customers
 Male,0,No,16,Yes,No,DSL,Month-to-month,81,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,46,Yes,0,New Budget Customers
 Female,0,No,8,Yes,No,DSL,Two year,66,No,1,At-Risk New Premium Customers
-Female,0,No,2,Yes,No,DSL,Month-to-month,71,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,71,Yes,No,DSL,Month-to-month,90,No,3,Loyal Premium Customers
 Male,0,No,4,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,68,Yes,No,Fiber optic,One year,83,No,3,Loyal Premium Customers
@@ -6561,30 +6298,24 @@ Female,0,Yes,2,Yes,No,DSL,Month-to-month,52,No,0,New Budget Customers
 Female,0,Yes,46,Yes,No,Fiber optic,Month-to-month,19,No,2,Loyal Budget Customers
 Male,0,No,58,Yes,No,DSL,One year,105,Yes,3,Loyal Premium Customers
 Male,0,Yes,17,No,No,Fiber optic,Month-to-month,44,No,0,New Budget Customers
-Male,0,Yes,21,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,2,Yes,Yes,Fiber optic,Month-to-month,95,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,68,Yes,No,DSL,Month-to-month,85,No,3,Loyal Premium Customers
 Female,1,No,28,Yes,Yes,Fiber optic,Month-to-month,111,No,1,At-Risk New Premium Customers
 Female,0,Yes,40,Yes,Yes,Fiber optic,Two year,26,No,2,Loyal Budget Customers
-Female,0,No,8,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,35,Yes,No,DSL,Two year,75,Yes,1,At-Risk New Premium Customers
 Female,0,No,5,Yes,No,DSL,Two year,64,No,1,At-Risk New Premium Customers
 Male,0,Yes,14,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,6,Yes,No,DSL,One year,50,No,0,New Budget Customers
 Male,0,No,67,Yes,Yes,DSL,Two year,66,No,3,Loyal Premium Customers
 Male,1,No,63,Yes,No,DSL,One year,84,No,3,Loyal Premium Customers
-Female,0,No,8,Yes,Yes,Fiber optic,Month-to-month,85,Yes,1,At-Risk New Premium Customers
 Female,0,No,5,Yes,Yes,DSL,Month-to-month,54,No,0,New Budget Customers
 Male,0,No,6,Yes,No,DSL,Month-to-month,83,Yes,1,At-Risk New Premium Customers
 Male,0,No,49,Yes,Yes,DSL,Two year,94,No,3,Loyal Premium Customers
 Female,0,Yes,61,Yes,Yes,DSL,One year,19,No,2,Loyal Budget Customers
-Female,0,No,1,Yes,Yes,DSL,Two year,70,Yes,1,At-Risk New Premium Customers
 Male,0,No,10,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Female,0,No,72,Yes,Yes,DSL,One year,117,No,3,Loyal Premium Customers
 Male,0,No,53,Yes,Yes,Fiber optic,Two year,77,No,3,Loyal Premium Customers
-Male,0,No,9,Yes,No,DSL,One year,70,No,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,No,DSL,Two year,20,Yes,0,New Budget Customers
-Male,0,No,4,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Female,0,Yes,22,Yes,Yes,DSL,Two year,21,No,0,New Budget Customers
 Male,0,No,34,Yes,Yes,Fiber optic,Month-to-month,100,Yes,1,At-Risk New Premium Customers
 Female,0,No,5,Yes,Yes,DSL,Two year,89,Yes,1,At-Risk New Premium Customers
@@ -6606,19 +6337,15 @@ Male,0,No,1,Yes,Yes,DSL,Month-to-month,25,No,0,New Budget Customers
 Female,0,Yes,26,Yes,No,DSL,Month-to-month,60,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,72,Yes,Yes,Fiber optic,One year,95,No,3,Loyal Premium Customers
 Female,1,No,56,Yes,Yes,Fiber optic,Month-to-month,112,Yes,3,Loyal Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,20,Yes,0,New Budget Customers
 Male,0,No,17,Yes,No,DSL,One year,103,No,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,No,DSL,Month-to-month,55,No,0,New Budget Customers
 Male,0,Yes,68,Yes,No,Fiber optic,Month-to-month,86,No,3,Loyal Premium Customers
 Female,0,Yes,61,Yes,Yes,DSL,One year,25,No,2,Loyal Budget Customers
 Female,0,No,11,No,No,Fiber optic,Month-to-month,40,No,0,New Budget Customers
-Female,0,No,15,Yes,No,DSL,Month-to-month,49,No,0,New Budget Customers
-Male,0,No,1,Yes,No,DSL,Two year,19,No,0,New Budget Customers
 Female,0,No,34,Yes,No,DSL,Month-to-month,85,No,1,At-Risk New Premium Customers
 Male,0,No,72,Yes,Yes,Fiber optic,Month-to-month,24,No,2,Loyal Budget Customers
 Male,0,No,26,Yes,Yes,DSL,One year,62,No,1,At-Risk New Premium Customers
 Male,0,No,66,Yes,Yes,Fiber optic,Month-to-month,95,No,3,Loyal Premium Customers
-Female,0,No,1,Yes,No,DSL,Month-to-month,50,No,0,New Budget Customers
 Female,0,No,64,Yes,No,Fiber optic,Month-to-month,85,No,3,Loyal Premium Customers
 Male,0,No,3,Yes,No,DSL,Two year,61,No,1,At-Risk New Premium Customers
 Female,0,No,20,Yes,Yes,DSL,Month-to-month,20,No,0,New Budget Customers
@@ -6632,16 +6359,14 @@ Male,0,Yes,38,Yes,Yes,DSL,Two year,81,No,3,Loyal Premium Customers
 Female,0,No,2,Yes,No,Fiber optic,Month-to-month,50,Yes,0,New Budget Customers
 Female,1,No,4,Yes,Yes,DSL,Month-to-month,95,Yes,1,At-Risk New Premium Customers
 Female,0,No,26,Yes,Yes,DSL,Month-to-month,70,No,1,At-Risk New Premium Customers
-Male,0,No,3,No,Yes,Fiber optic,Month-to-month,30,No,0,New Budget Customers
 Male,0,Yes,26,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,15,No,No,DSL,One year,39,No,0,New Budget Customers
 Male,0,Yes,22,Yes,Yes,DSL,One year,100,No,1,At-Risk New Premium Customers
 Female,0,Yes,13,Yes,No,DSL,One year,25,No,0,New Budget Customers
 Female,1,No,6,No,No,DSL,Two year,44,No,0,New Budget Customers
-Male,1,No,20,Yes,No,Fiber optic,One year,54,No,1,At-Risk New Premium Customers
+Male,1,No,20,Yes,No,Fiber optic,One year,54,No,0,New Budget Customers
 Male,0,Yes,72,Yes,No,DSL,One year,20,No,2,Loyal Budget Customers
 Male,1,No,34,Yes,No,DSL,Month-to-month,100,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,45,Yes,0,New Budget Customers
 Female,0,No,52,Yes,No,Fiber optic,Month-to-month,21,No,2,Loyal Budget Customers
 Female,0,No,69,Yes,Yes,Fiber optic,One year,25,No,2,Loyal Budget Customers
 Female,0,No,39,Yes,No,DSL,Month-to-month,20,No,2,Loyal Budget Customers
@@ -6667,7 +6392,6 @@ Male,0,No,72,Yes,Yes,Fiber optic,One year,114,No,3,Loyal Premium Customers
 Female,0,Yes,43,Yes,No,DSL,Month-to-month,99,No,3,Loyal Premium Customers
 Female,0,No,58,Yes,Yes,DSL,Month-to-month,108,No,3,Loyal Premium Customers
 Female,0,No,71,No,No,Fiber optic,Month-to-month,67,No,3,Loyal Premium Customers
-Male,0,No,22,Yes,Yes,Fiber optic,Month-to-month,95,No,1,At-Risk New Premium Customers
 Male,1,No,34,Yes,Yes,Fiber optic,Month-to-month,85,No,1,At-Risk New Premium Customers
 Male,1,No,52,Yes,Yes,DSL,Two year,73,No,3,Loyal Premium Customers
 Female,1,No,64,No,No,Fiber optic,Two year,44,No,2,Loyal Budget Customers
@@ -6675,9 +6399,7 @@ Male,0,No,44,Yes,No,DSL,Two year,85,No,3,Loyal Premium Customers
 Male,0,Yes,13,Yes,No,DSL,Month-to-month,45,No,0,New Budget Customers
 Male,0,No,24,Yes,Yes,DSL,Month-to-month,91,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,70,Yes,Yes,DSL,One year,115,No,3,Loyal Premium Customers
-Male,0,No,70,Yes,Yes,Fiber optic,Month-to-month,77,No,3,Loyal Premium Customers
 Female,1,No,1,Yes,No,DSL,Month-to-month,85,Yes,1,At-Risk New Premium Customers
-Male,0,Yes,72,Yes,No,DSL,Two year,21,No,2,Loyal Budget Customers
 Female,0,No,11,Yes,No,DSL,Two year,76,Yes,1,At-Risk New Premium Customers
 Male,0,No,12,Yes,No,Fiber optic,Two year,60,Yes,1,At-Risk New Premium Customers
 Male,0,No,72,Yes,Yes,Fiber optic,Month-to-month,111,No,3,Loyal Premium Customers
@@ -6688,7 +6410,6 @@ Female,0,No,68,Yes,No,DSL,Month-to-month,80,No,3,Loyal Premium Customers
 Female,0,No,17,Yes,Yes,Fiber optic,Two year,80,No,1,At-Risk New Premium Customers
 Female,0,Yes,71,Yes,Yes,Fiber optic,Month-to-month,25,No,2,Loyal Budget Customers
 Male,0,No,6,Yes,No,DSL,Two year,69,No,1,At-Risk New Premium Customers
-Female,0,Yes,24,Yes,Yes,Fiber optic,One year,20,No,0,New Budget Customers
 Female,0,No,6,Yes,Yes,Fiber optic,Two year,91,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,47,Yes,No,DSL,One year,19,No,2,Loyal Budget Customers
 Female,0,No,4,Yes,Yes,DSL,Month-to-month,76,No,1,At-Risk New Premium Customers
@@ -6702,18 +6423,15 @@ Male,0,No,29,Yes,No,DSL,Two year,90,No,1,At-Risk New Premium Customers
 Male,0,No,3,Yes,Yes,Fiber optic,Two year,45,No,0,New Budget Customers
 Male,1,No,3,No,No,Fiber optic,One year,36,Yes,0,New Budget Customers
 Male,0,Yes,32,Yes,No,Fiber optic,Month-to-month,84,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,81,Yes,1,At-Risk New Premium Customers
 Male,0,No,55,Yes,Yes,Fiber optic,One year,104,Yes,3,Loyal Premium Customers
 Male,0,No,20,Yes,No,DSL,Month-to-month,99,No,1,At-Risk New Premium Customers
 Male,0,Yes,22,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,1,Yes,60,Yes,Yes,DSL,Two year,81,No,3,Loyal Premium Customers
 Female,1,No,27,Yes,Yes,Fiber optic,Month-to-month,88,Yes,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,Yes,Fiber optic,One year,74,Yes,1,At-Risk New Premium Customers
 Female,0,No,4,Yes,No,DSL,One year,94,Yes,1,At-Risk New Premium Customers
 Male,0,No,3,Yes,Yes,Fiber optic,Month-to-month,85,Yes,1,At-Risk New Premium Customers
 Male,1,No,12,No,No,Fiber optic,Month-to-month,29,No,0,New Budget Customers
 Male,0,No,17,Yes,Yes,Fiber optic,Month-to-month,52,Yes,0,New Budget Customers
-Female,0,Yes,48,Yes,Yes,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Female,0,Yes,12,Yes,Yes,Fiber optic,Month-to-month,78,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,45,Yes,Yes,Fiber optic,Month-to-month,25,No,2,Loyal Budget Customers
 Female,0,Yes,1,Yes,Yes,Fiber optic,Month-to-month,51,No,0,New Budget Customers
@@ -6740,7 +6458,6 @@ Male,0,No,67,Yes,Yes,Fiber optic,Two year,20,No,2,Loyal Budget Customers
 Female,1,No,11,Yes,No,DSL,Month-to-month,56,No,1,At-Risk New Premium Customers
 Female,0,No,14,Yes,No,DSL,Month-to-month,50,No,0,New Budget Customers
 Male,0,Yes,21,Yes,No,Fiber optic,Month-to-month,80,No,1,At-Risk New Premium Customers
-Male,0,No,1,Yes,No,Fiber optic,Month-to-month,20,Yes,0,New Budget Customers
 Male,0,No,59,Yes,No,DSL,Two year,25,No,2,Loyal Budget Customers
 Male,0,No,43,Yes,Yes,DSL,Month-to-month,101,Yes,3,Loyal Premium Customers
 Male,0,Yes,7,No,Yes,Fiber optic,One year,39,No,0,New Budget Customers
@@ -6748,7 +6465,6 @@ Female,0,Yes,56,Yes,Yes,Fiber optic,Month-to-month,81,No,3,Loyal Premium Custome
 Male,0,No,13,Yes,No,DSL,Month-to-month,73,No,1,At-Risk New Premium Customers
 Female,0,Yes,3,No,No,DSL,One year,30,No,0,New Budget Customers
 Male,0,Yes,8,Yes,No,Fiber optic,Month-to-month,76,No,1,At-Risk New Premium Customers
-Female,0,No,1,Yes,Yes,DSL,One year,70,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,5,No,No,DSL,One year,34,No,0,New Budget Customers
 Male,0,Yes,19,Yes,No,DSL,Two year,24,No,0,New Budget Customers
 Female,0,Yes,0,No,No,DSL,Two year,53,No,0,New Budget Customers
@@ -6761,7 +6477,6 @@ Female,0,No,39,Yes,No,DSL,Month-to-month,103,Yes,3,Loyal Premium Customers
 Female,0,Yes,69,Yes,Yes,Fiber optic,One year,93,No,3,Loyal Premium Customers
 Female,0,No,33,Yes,No,DSL,Month-to-month,61,No,1,At-Risk New Premium Customers
 Male,0,No,24,Yes,No,DSL,Month-to-month,51,No,0,New Budget Customers
-Male,0,No,16,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,Yes,39,Yes,Yes,DSL,One year,20,No,2,Loyal Budget Customers
 Male,0,No,37,Yes,No,Fiber optic,Month-to-month,20,No,2,Loyal Budget Customers
 Female,0,Yes,71,Yes,Yes,DSL,Two year,91,No,3,Loyal Premium Customers
@@ -6775,11 +6490,10 @@ Male,0,No,26,Yes,No,DSL,One year,84,Yes,1,At-Risk New Premium Customers
 Female,0,No,3,Yes,Yes,Fiber optic,Month-to-month,80,No,1,At-Risk New Premium Customers
 Male,0,No,3,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Male,0,No,59,Yes,Yes,DSL,Two year,111,No,3,Loyal Premium Customers
-Female,1,Yes,33,Yes,No,DSL,Two year,105,No,3,Loyal Premium Customers
+Female,1,Yes,33,Yes,No,DSL,Two year,105,No,1,At-Risk New Premium Customers
 Female,1,No,26,Yes,No,DSL,Month-to-month,86,No,1,At-Risk New Premium Customers
 Male,0,No,30,Yes,No,DSL,Two year,100,No,1,At-Risk New Premium Customers
 Male,0,No,22,Yes,No,DSL,Month-to-month,79,No,1,At-Risk New Premium Customers
-Female,0,Yes,72,Yes,No,DSL,Month-to-month,90,No,3,Loyal Premium Customers
 Male,0,No,7,Yes,No,Fiber optic,Month-to-month,25,No,0,New Budget Customers
 Female,1,Yes,66,Yes,No,DSL,Month-to-month,111,No,3,Loyal Premium Customers
 Male,0,Yes,71,Yes,No,DSL,Two year,106,No,3,Loyal Premium Customers
@@ -6787,7 +6501,6 @@ Female,0,No,8,Yes,Yes,DSL,Month-to-month,75,No,1,At-Risk New Premium Customers
 Male,0,No,15,Yes,Yes,Fiber optic,Two year,103,No,1,At-Risk New Premium Customers
 Male,0,Yes,70,Yes,No,DSL,Month-to-month,106,No,3,Loyal Premium Customers
 Female,0,Yes,55,Yes,Yes,Fiber optic,Month-to-month,85,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
 Male,0,No,63,Yes,No,DSL,Month-to-month,102,No,3,Loyal Premium Customers
 Male,0,No,10,Yes,Yes,DSL,Two year,20,No,0,New Budget Customers
 Female,1,No,3,Yes,No,DSL,Month-to-month,74,No,1,At-Risk New Premium Customers
@@ -6804,11 +6517,8 @@ Female,0,No,72,Yes,Yes,Fiber optic,One year,116,No,3,Loyal Premium Customers
 Male,0,Yes,64,Yes,Yes,Fiber optic,Month-to-month,99,No,3,Loyal Premium Customers
 Female,0,Yes,72,Yes,Yes,Fiber optic,One year,84,No,3,Loyal Premium Customers
 Male,1,Yes,47,Yes,No,Fiber optic,Month-to-month,85,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,Yes,Fiber optic,One year,20,Yes,0,New Budget Customers
-Male,0,Yes,19,Yes,No,DSL,Two year,21,No,0,New Budget Customers
 Female,0,No,6,Yes,No,DSL,Two year,49,Yes,0,New Budget Customers
 Female,0,No,48,Yes,No,Fiber optic,Two year,24,No,2,Loyal Budget Customers
-Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Male,0,Yes,63,Yes,No,DSL,Month-to-month,74,No,3,Loyal Premium Customers
 Male,0,No,8,Yes,No,DSL,Month-to-month,75,Yes,1,At-Risk New Premium Customers
 Female,0,Yes,65,Yes,No,Fiber optic,Month-to-month,104,No,3,Loyal Premium Customers
@@ -6822,7 +6532,6 @@ Male,0,No,3,Yes,Yes,Fiber optic,Month-to-month,74,No,1,At-Risk New Premium Custo
 Female,0,Yes,70,Yes,Yes,Fiber optic,Month-to-month,110,No,3,Loyal Premium Customers
 Male,0,Yes,4,Yes,Yes,Fiber optic,Month-to-month,49,Yes,0,New Budget Customers
 Female,0,No,46,Yes,No,Fiber optic,Month-to-month,103,No,3,Loyal Premium Customers
-Female,0,No,2,No,No,DSL,Month-to-month,45,Yes,0,New Budget Customers
 Male,0,Yes,65,Yes,Yes,Fiber optic,Month-to-month,70,No,3,Loyal Premium Customers
 Female,0,No,19,Yes,Yes,Fiber optic,Month-to-month,97,No,1,At-Risk New Premium Customers
 Male,0,No,21,Yes,No,DSL,Month-to-month,62,No,1,At-Risk New Premium Customers
@@ -6847,7 +6556,6 @@ Male,0,No,13,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,Yes,26,Yes,No,DSL,Month-to-month,91,Yes,1,At-Risk New Premium Customers
 Female,0,No,59,Yes,Yes,Fiber optic,Month-to-month,18,No,2,Loyal Budget Customers
 Male,0,No,51,Yes,No,DSL,Month-to-month,95,Yes,3,Loyal Premium Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,85,Yes,1,At-Risk New Premium Customers
 Female,0,No,48,Yes,Yes,Fiber optic,Month-to-month,107,Yes,3,Loyal Premium Customers
 Female,0,Yes,70,Yes,Yes,DSL,Two year,81,No,3,Loyal Premium Customers
 Female,0,No,16,Yes,Yes,Fiber optic,Two year,20,No,0,New Budget Customers
@@ -6860,7 +6568,6 @@ Male,0,No,48,Yes,No,Fiber optic,Month-to-month,97,No,3,Loyal Premium Customers
 Male,0,No,72,Yes,Yes,Fiber optic,Month-to-month,106,No,3,Loyal Premium Customers
 Female,0,No,2,Yes,Yes,Fiber optic,Two year,86,Yes,1,At-Risk New Premium Customers
 Male,0,No,56,Yes,Yes,Fiber optic,Month-to-month,86,No,3,Loyal Premium Customers
-Male,0,No,69,Yes,Yes,Fiber optic,Month-to-month,19,No,2,Loyal Budget Customers
 Male,0,No,9,Yes,Yes,Fiber optic,Month-to-month,45,Yes,0,New Budget Customers
 Female,0,No,37,Yes,Yes,DSL,One year,80,No,1,At-Risk New Premium Customers
 Female,0,No,51,No,No,DSL,Month-to-month,56,No,2,Loyal Budget Customers
@@ -6874,7 +6581,6 @@ Female,0,Yes,72,Yes,Yes,Fiber optic,Month-to-month,21,No,2,Loyal Budget Customer
 Female,0,No,7,Yes,No,Fiber optic,One year,94,No,1,At-Risk New Premium Customers
 Male,0,Yes,54,Yes,Yes,DSL,Two year,80,No,3,Loyal Premium Customers
 Female,0,No,41,Yes,No,DSL,Month-to-month,81,No,3,Loyal Premium Customers
-Female,0,No,63,Yes,No,DSL,Two year,109,No,3,Loyal Premium Customers
 Male,0,No,1,Yes,No,Fiber optic,One year,70,Yes,1,At-Risk New Premium Customers
 Male,0,Yes,59,Yes,No,Fiber optic,Month-to-month,100,No,3,Loyal Premium Customers
 Female,0,No,50,Yes,No,Fiber optic,Month-to-month,110,Yes,3,Loyal Premium Customers
@@ -6902,10 +6608,9 @@ Male,0,No,6,Yes,No,DSL,Month-to-month,85,Yes,1,At-Risk New Premium Customers
 Female,0,No,62,Yes,No,Fiber optic,One year,94,No,3,Loyal Premium Customers
 Female,0,No,9,Yes,Yes,DSL,One year,19,No,0,New Budget Customers
 Female,0,No,71,Yes,Yes,DSL,One year,25,No,2,Loyal Budget Customers
-Male,0,No,18,Yes,Yes,DSL,One year,56,No,1,At-Risk New Premium Customers
+Male,0,No,18,Yes,Yes,DSL,One year,56,No,0,New Budget Customers
 Male,1,No,9,Yes,No,DSL,Month-to-month,74,No,1,At-Risk New Premium Customers
 Female,1,No,48,Yes,No,DSL,Month-to-month,117,Yes,3,Loyal Premium Customers
-Female,0,Yes,33,Yes,No,DSL,Two year,20,No,2,Loyal Budget Customers
 Female,0,No,27,Yes,No,Fiber optic,Month-to-month,102,No,1,At-Risk New Premium Customers
 Female,0,No,70,Yes,No,DSL,Month-to-month,104,No,3,Loyal Premium Customers
 Female,0,No,17,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
@@ -6923,7 +6628,6 @@ Male,0,No,11,Yes,No,DSL,Two year,20,No,0,New Budget Customers
 Male,0,No,69,Yes,Yes,Fiber optic,Month-to-month,105,Yes,3,Loyal Premium Customers
 Female,0,Yes,52,Yes,No,Fiber optic,Month-to-month,98,No,3,Loyal Premium Customers
 Male,0,No,52,Yes,Yes,DSL,One year,81,No,3,Loyal Premium Customers
-Female,0,No,24,Yes,No,Fiber optic,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,12,Yes,No,DSL,One year,20,No,0,New Budget Customers
 Female,0,Yes,1,Yes,No,Fiber optic,Month-to-month,44,Yes,0,New Budget Customers
 Male,0,Yes,15,Yes,Yes,DSL,Month-to-month,19,No,0,New Budget Customers
@@ -6935,9 +6639,7 @@ Female,0,No,2,Yes,No,DSL,Month-to-month,74,Yes,1,At-Risk New Premium Customers
 Male,0,No,17,Yes,No,Fiber optic,Month-to-month,87,No,1,At-Risk New Premium Customers
 Male,0,Yes,47,No,Yes,Fiber optic,Two year,40,No,2,Loyal Budget Customers
 Male,1,No,63,Yes,Yes,Fiber optic,Two year,108,No,3,Loyal Premium Customers
-Female,0,No,1,Yes,Yes,Fiber optic,Month-to-month,20,Yes,0,New Budget Customers
 Female,0,Yes,70,Yes,No,DSL,Month-to-month,66,No,3,Loyal Premium Customers
-Female,0,Yes,38,Yes,Yes,DSL,Two year,20,No,2,Loyal Budget Customers
 Female,0,Yes,58,Yes,No,Fiber optic,One year,24,No,2,Loyal Budget Customers
 Female,0,No,60,Yes,No,DSL,Two year,65,No,3,Loyal Premium Customers
 Female,0,No,68,Yes,No,DSL,One year,88,No,3,Loyal Premium Customers
@@ -6983,28 +6685,24 @@ Male,0,No,63,Yes,No,DSL,Month-to-month,19,No,2,Loyal Budget Customers
 Male,0,No,7,Yes,No,DSL,Month-to-month,19,No,0,New Budget Customers
 Male,0,No,72,Yes,No,DSL,Two year,109,No,3,Loyal Premium Customers
 Male,0,Yes,7,Yes,No,Fiber optic,Month-to-month,49,Yes,0,New Budget Customers
-Male,0,No,1,Yes,No,DSL,Month-to-month,45,No,0,New Budget Customers
 Male,0,No,16,Yes,No,DSL,One year,75,No,1,At-Risk New Premium Customers
 Female,0,Yes,14,Yes,Yes,Fiber optic,Month-to-month,60,No,1,At-Risk New Premium Customers
 Female,0,No,1,Yes,Yes,Fiber optic,One year,71,Yes,1,At-Risk New Premium Customers
 Female,0,No,60,No,Yes,DSL,Month-to-month,44,No,2,Loyal Budget Customers
 Female,1,Yes,1,Yes,Yes,DSL,One year,71,Yes,1,At-Risk New Premium Customers
 Male,1,No,45,Yes,No,Fiber optic,Month-to-month,75,No,3,Loyal Premium Customers
-Male,0,No,1,Yes,Yes,Fiber optic,Month-to-month,46,Yes,0,New Budget Customers
 Female,0,No,72,Yes,Yes,Fiber optic,One year,109,Yes,3,Loyal Premium Customers
 Male,0,Yes,6,Yes,Yes,Fiber optic,Month-to-month,19,No,0,New Budget Customers
 Male,0,No,1,Yes,Yes,DSL,One year,55,No,0,New Budget Customers
-Female,0,No,19,Yes,Yes,DSL,Two year,56,No,1,At-Risk New Premium Customers
+Female,0,No,19,Yes,Yes,DSL,Two year,56,No,0,New Budget Customers
 Female,0,Yes,24,Yes,No,DSL,One year,64,No,1,At-Risk New Premium Customers
 Male,0,No,64,Yes,No,Fiber optic,Month-to-month,76,No,3,Loyal Premium Customers
 Male,0,No,17,Yes,No,Fiber optic,Month-to-month,91,No,1,At-Risk New Premium Customers
 Female,0,No,8,Yes,No,DSL,Month-to-month,44,No,0,New Budget Customers
 Female,1,No,24,Yes,No,DSL,One year,20,No,0,New Budget Customers
-Male,0,No,11,Yes,No,DSL,Month-to-month,20,No,0,New Budget Customers
 Female,0,No,40,Yes,Yes,Fiber optic,Two year,57,No,2,Loyal Budget Customers
 Male,0,Yes,36,Yes,No,DSL,Month-to-month,25,No,2,Loyal Budget Customers
 Male,0,No,71,Yes,Yes,Fiber optic,Month-to-month,108,Yes,3,Loyal Premium Customers
-Male,0,No,7,Yes,No,DSL,One year,19,No,0,New Budget Customers
 Male,0,No,3,Yes,Yes,Fiber optic,Month-to-month,77,No,1,At-Risk New Premium Customers
 Female,0,No,38,Yes,No,DSL,Two year,20,No,2,Loyal Budget Customers
 Male,0,Yes,0,Yes,Yes,Fiber optic,Month-to-month,26,No,0,New Budget Customers
